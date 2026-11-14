@@ -1,9 +1,9 @@
 {
  "meta": {
   "generated_from": "Sanders-newly-revised.ged",
-  "people_count": 675,
-  "family_count": 208,
-  "living_count": 253,
+  "people_count": 683,
+  "family_count": 212,
+  "living_count": 256,
   "lines": [
    {
     "key": "jehu",
@@ -318,7 +318,7 @@
   },
   {
    "id": "I29337311976",
-   "name": "Rebecca",
+   "name": "Rebecca Ann",
    "surname": "",
    "living": true,
    "line": "Thomas J. Sanders",
@@ -517,6 +517,75 @@
    "death_date": "09 Oct 1984",
    "death_place": "Bur. Private Home  Cem., Clr. Spngs., Bald. Co. Al.",
    "death_year": 1984
+  },
+  {
+   "id": "I29338000020",
+   "name": "Forrest James Amos",
+   "surname": "Amos",
+   "living": false,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333685478"
+   ],
+   "children": [
+    "I29338000021",
+    "I29338000022",
+    "I29338000023"
+   ],
+   "sex": "M",
+   "birth_date": "12 Dec 1933",
+   "birth_place": "Jacksonville, Duval County, Florida, USA",
+   "birth_year": 1933,
+   "death_date": "17 Jan 2003",
+   "death_place": null,
+   "death_year": 2003
+  },
+  {
+   "id": "I29338000023",
+   "name": "Marty Amos",
+   "surname": "Amos",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": "I29338000020",
+   "mother": "I29333685478",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000021",
+   "name": "Melissa Amos",
+   "surname": "Amos",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": "I29338000020",
+   "mother": "I29333685478",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000022",
+   "name": "Steve Amos",
+   "surname": "Amos",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": "I29338000020",
+   "mother": "I29333685478",
+   "spouses": [],
+   "children": []
   },
   {
    "id": "I29334886598",
@@ -1621,6 +1690,27 @@
    ]
   },
   {
+   "id": "I29338000017",
+   "name": "Luis Briseno",
+   "surname": "Briseno",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333257863"
+   ],
+   "children": [],
+   "sex": "M",
+   "birth_date": null,
+   "birth_place": null,
+   "birth_year": null,
+   "death_date": "BEF 6 Nov 2024",
+   "death_place": null,
+   "death_year": 2024
+  },
+  {
    "id": "I29337205282",
    "name": "Bessie Lular Brown",
    "surname": "Brown",
@@ -1999,6 +2089,27 @@
     "I29333478666"
    ],
    "children": []
+  },
+  {
+   "id": "I29338000016",
+   "name": "Wilson Chapman",
+   "surname": "Chapman",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333257863"
+   ],
+   "children": [],
+   "sex": "M",
+   "birth_date": null,
+   "birth_place": null,
+   "birth_year": null,
+   "death_date": "BEF 6 Nov 2024",
+   "death_place": null,
+   "death_year": 2024
   },
   {
    "id": "I250164052945",
@@ -3373,6 +3484,42 @@
    ],
    "children": [
     "I250164052946"
+   ]
+  },
+  {
+   "id": "I29338000018",
+   "name": "Andrew Gill",
+   "surname": "Gill",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000019"
+   ],
+   "children": [
+    "I29333256640"
+   ]
+  },
+  {
+   "id": "I29338000019",
+   "name": "Jennie Gill",
+   "surname": "Gill",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000018"
+   ],
+   "children": [
+    "I29333256640"
    ]
   },
   {
@@ -6002,15 +6149,28 @@
    "id": "I29333685478",
    "name": "Caroline June McFarland",
    "surname": "McFarland",
-   "living": true,
+   "living": false,
    "line": "Thomas J. Sanders",
    "lines": [
     "Thomas J. Sanders"
    ],
    "father": "I29333582388",
    "mother": "I29333256640",
-   "spouses": [],
-   "children": []
+   "spouses": [
+    "I29338000020"
+   ],
+   "children": [
+    "I29338000021",
+    "I29338000022",
+    "I29338000023"
+   ],
+   "sex": "F",
+   "birth_date": "8 Aug 1938",
+   "birth_place": "Florida",
+   "birth_year": 1938,
+   "death_date": "24 Sep 2017",
+   "death_place": null,
+   "death_year": 2017
   },
   {
    "id": "I29336823588",
@@ -6052,7 +6212,7 @@
   },
   {
    "id": "I29336876657",
-   "name": "Elizabeth McFarland",
+   "name": "Elizabeth J McFarland",
    "surname": "McFarland",
    "living": true,
    "line": "Thomas J. Sanders",
@@ -8351,7 +8511,7 @@
    "id": "I29333257863",
    "name": "Debra Inez Moon",
    "surname": "Moon",
-   "living": true,
+   "living": false,
    "line": "Jehu Barry Sanders",
    "lines": [
     "Jehu Barry Sanders"
@@ -8359,14 +8519,23 @@
    "father": "I29338000009",
    "mother": "I29338000010",
    "spouses": [
-    "I18109010292"
+    "I18109010292",
+    "I29338000016",
+    "I29338000017"
    ],
    "children": [
     "I29333474849",
     "I29333257826",
     "I29333474940",
     "I29333474996"
-   ]
+   ],
+   "sex": "F",
+   "birth_date": "12 Feb 1957",
+   "birth_place": null,
+   "birth_year": 1957,
+   "death_date": "6 Nov 2024",
+   "death_place": null,
+   "death_year": 2024
   },
   {
    "id": "I18109010224",
@@ -8710,7 +8879,7 @@
   },
   {
    "id": "I29333121715",
-   "name": "Bruce S Nobles",
+   "name": "Bruce Steve Nobles",
    "surname": "Nobles",
    "living": false,
    "line": "Thorough Good Sanders",
@@ -11656,8 +11825,8 @@
    "lines": [
     "Thomas J. Sanders"
    ],
-   "father": "I18109010293",
-   "mother": "I29333256638",
+   "father": "I29338000018",
+   "mother": "I29338000019",
    "spouses": [
     "I29333582388"
    ],
