@@ -1,9 +1,9 @@
 {
  "meta": {
   "generated_from": "Sanders-newly-revised.ged",
-  "people_count": 685,
-  "family_count": 213,
-  "living_count": 254,
+  "people_count": 694,
+  "family_count": 216,
+  "living_count": 259,
   "lines": [
    {
     "key": "jehu",
@@ -384,24 +384,6 @@
    "death_date": "15 Jan 1673",
    "death_place": "Newbury",
    "death_year": 1673
-  },
-  {
-   "id": "I29337433391",
-   "name": "Velma",
-   "surname": "",
-   "living": true,
-   "line": "Lucy Ophelia Sanders",
-   "lines": [
-    "Lucy Ophelia Sanders"
-   ],
-   "father": null,
-   "mother": null,
-   "spouses": [
-    "I29337433269"
-   ],
-   "children": [
-    "I29337433416"
-   ]
   },
   {
    "id": "I29333995822",
@@ -1302,6 +1284,34 @@
    "death_year": null
   },
   {
+   "id": "I29338000033",
+   "name": "Kathy Bates",
+   "surname": "Bates",
+   "living": true,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29337433269",
+   "mother": "I29337433391",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000029",
+   "name": "Linda C. Bates",
+   "surname": "Bates",
+   "living": true,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29337433269",
+   "mother": "I29337433391",
+   "spouses": [],
+   "children": []
+  },
+  {
    "id": "I29333651559",
    "name": "Lizzie A Bates",
    "surname": "Bates",
@@ -1326,6 +1336,20 @@
    ],
    "father": "I29333611954",
    "mother": "I29333651558",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000031",
+   "name": "Peggy N. Bates",
+   "surname": "Bates",
+   "living": true,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29337433269",
+   "mother": "I29337433391",
    "spouses": [],
    "children": []
   },
@@ -1359,7 +1383,7 @@
    "id": "I29337433269",
    "name": "Percy Lee Bates Jr",
    "surname": "Bates",
-   "living": true,
+   "living": false,
    "line": "Lucy Ophelia Sanders",
    "lines": [
     "Lucy Ophelia Sanders"
@@ -1370,8 +1394,20 @@
     "I29337433391"
    ],
    "children": [
-    "I29337433416"
-   ]
+    "I29338000029",
+    "I29338000030",
+    "I29338000031",
+    "I29338000032",
+    "I29337433416",
+    "I29338000033"
+   ],
+   "sex": "M",
+   "birth_date": "16 Mar 1926",
+   "birth_place": "Richton, Perry County, Mississippi, USA",
+   "birth_year": 1926,
+   "death_date": "8 Apr 2013",
+   "death_place": "Prentiss, Jefferson Davis County, Mississippi, USA",
+   "death_year": 2013
   },
   {
    "id": "I29333651561",
@@ -1395,8 +1431,8 @@
    "death_year": 2010
   },
   {
-   "id": "I29337433416",
-   "name": "Royce Bates",
+   "id": "I29338000032",
+   "name": "Roy Bates",
    "surname": "Bates",
    "living": true,
    "line": "Lucy Ophelia Sanders",
@@ -1407,6 +1443,43 @@
    "mother": "I29337433391",
    "spouses": [],
    "children": []
+  },
+  {
+   "id": "I29337433416",
+   "name": "Royce Bates",
+   "surname": "Bates",
+   "living": true,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29337433269",
+   "mother": "I29337433391",
+   "spouses": [
+    "I29338000034"
+   ],
+   "children": []
+  },
+  {
+   "id": "I29338000030",
+   "name": "Sherriel Bates",
+   "surname": "Bates",
+   "living": false,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29337433269",
+   "mother": "I29337433391",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": "Abt. 1947",
+   "birth_place": null,
+   "birth_year": 1947,
+   "death_date": "1995",
+   "death_place": null,
+   "death_year": 1995
   },
   {
    "id": "I29333611954",
@@ -1449,7 +1522,9 @@
    ],
    "father": "I29333255963",
    "mother": "I18109010287",
-   "spouses": [],
+   "spouses": [
+    "I29338000026"
+   ],
    "children": [],
    "sex": "M",
    "birth_date": "5 June 1912",
@@ -1495,6 +1570,68 @@
    "children": [
     "I250164052945"
    ]
+  },
+  {
+   "id": "I29338000027",
+   "name": "Alex C. Bobinger",
+   "surname": "Bobinger",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000028"
+   ],
+   "children": [
+    "I29337433391"
+   ]
+  },
+  {
+   "id": "I29338000028",
+   "name": "Mary C. Bobinger",
+   "surname": "Bobinger",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000027"
+   ],
+   "children": [
+    "I29337433391"
+   ]
+  },
+  {
+   "id": "I29337433391",
+   "name": "Velma Marie Bobinger",
+   "surname": "Bobinger",
+   "living": false,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29338000027",
+   "mother": "I29338000028",
+   "spouses": [
+    "I29337433269"
+   ],
+   "children": [
+    "I29338000029",
+    "I29338000030",
+    "I29338000031",
+    "I29338000032",
+    "I29337433416",
+    "I29338000033"
+   ],
+   "sex": "F",
+   "birth_date": "5 Jun 1927",
+   "birth_place": null,
+   "birth_year": 1927,
+   "death_date": "11 Aug 2015",
+   "death_place": null,
+   "death_year": 2015
   },
   {
    "id": "I29335029975",
@@ -2439,6 +2576,29 @@
     "I18109016206"
    ],
    "children": []
+  },
+  {
+   "id": "I29338000034",
+   "name": "Carolyn Dickens",
+   "surname": "Dickens",
+   "living": false,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29337433416"
+   ],
+   "children": [],
+   "sex": "F",
+   "birth_date": "Abt. 1957",
+   "birth_place": null,
+   "birth_year": 1957,
+   "death_date": "9 Jan 2023",
+   "death_place": "Diamondhead, Hancock County, Mississippi, USA",
+   "death_year": 2023
   },
   {
    "id": "I29337205466",
@@ -4159,6 +4319,22 @@
    "mother": null,
    "spouses": [
     "I29336877977"
+   ],
+   "children": []
+  },
+  {
+   "id": "I29338000026",
+   "name": "Mary Hudson",
+   "surname": "Hudson",
+   "living": true,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333612146"
    ],
    "children": []
   },
