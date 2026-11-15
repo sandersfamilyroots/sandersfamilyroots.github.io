@@ -1,9 +1,9 @@
 {
  "meta": {
   "generated_from": "Sanders-newly-revised.ged",
-  "people_count": 716,
-  "family_count": 223,
-  "living_count": 271,
+  "people_count": 724,
+  "family_count": 228,
+  "living_count": 279,
   "lines": [
    {
     "key": "jehu",
@@ -621,6 +621,24 @@
    "mother": "I29333685478",
    "spouses": [],
    "children": []
+  },
+  {
+   "id": "I29338000061",
+   "name": "Carmen Deloris Anderson",
+   "surname": "Anderson",
+   "living": true,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I252465971461"
+   ],
+   "children": [
+    "I29338000063"
+   ]
   },
   {
    "id": "I29334886598",
@@ -1766,6 +1784,22 @@
    "death_year": 2003
   },
   {
+   "id": "I29338000060",
+   "name": "Generia Blackmon",
+   "surname": "Blackmon",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000059"
+   ],
+   "children": [
+    "I29338000058"
+   ]
+  },
+  {
    "id": "I250164054797",
    "name": "Martha Blaisdell",
    "surname": "Blaisdell",
@@ -2128,6 +2162,38 @@
    "death_date": "1799",
    "death_place": "Maine, United States",
    "death_year": 1799
+  },
+  {
+   "id": "I29338000058",
+   "name": "Diane Generia Bullock",
+   "surname": "Bullock",
+   "living": true,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": "I29338000059",
+   "mother": "I29338000060",
+   "spouses": [
+    "I252465971461"
+   ],
+   "children": []
+  },
+  {
+   "id": "I29338000059",
+   "name": "John Franklin Bullock",
+   "surname": "Bullock",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000060"
+   ],
+   "children": [
+    "I29338000058"
+   ]
   },
   {
    "id": "I29333693502",
@@ -4548,6 +4614,22 @@
    "death_date": "About 1865",
    "death_place": "Duck Creek, Stoddard, Missouri, United States",
    "death_year": 1865
+  },
+  {
+   "id": "I29338000064",
+   "name": "Thomas James Harvey",
+   "surname": "Harvey",
+   "living": true,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000063"
+   ],
+   "children": []
   },
   {
    "id": "I29334276719",
@@ -11021,6 +11103,22 @@
    "death_year": 1991
   },
   {
+   "id": "I29338000063",
+   "name": "April Carmen Sanders",
+   "surname": "Sanders",
+   "living": true,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": "I252465971461",
+   "mother": "I29338000061",
+   "spouses": [
+    "I29338000064"
+   ],
+   "children": []
+  },
+  {
    "id": "I29337205648",
    "name": "Ashley Michelle Sanders",
    "surname": "Sanders",
@@ -12586,15 +12684,36 @@
    ],
    "father": "I29333121497",
    "mother": "I29333122618",
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "I29338000057",
+    "I29338000058",
+    "I29338000061"
+   ],
+   "children": [
+    "I29338000062",
+    "I29338000063"
+   ],
    "sex": "M",
-   "birth_date": "1942",
-   "birth_place": null,
+   "birth_date": "21 Apr 1942",
+   "birth_place": "Pensacola, Escambia County, Florida, USA",
    "birth_year": 1942,
-   "death_date": "2025",
-   "death_place": null,
+   "death_date": "12 May 2025",
+   "death_place": "Pensacola, Escambia County, Florida, USA",
    "death_year": 2025
+  },
+  {
+   "id": "I29338000062",
+   "name": "Robert Thomas Sanders",
+   "surname": "Sanders",
+   "living": true,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": "I252465971461",
+   "mother": "I29338000057",
+   "spouses": [],
+   "children": []
   },
   {
    "id": "I18109010290",
@@ -13735,6 +13854,24 @@
     "I29333477019"
    ],
    "children": []
+  },
+  {
+   "id": "I29338000057",
+   "name": "Margaret Unknown",
+   "surname": "Unknown",
+   "living": true,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I252465971461"
+   ],
+   "children": [
+    "I29338000062"
+   ]
   },
   {
    "id": "I250159498231",
