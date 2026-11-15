@@ -1,9 +1,9 @@
 {
  "meta": {
   "generated_from": "Sanders-newly-revised.ged",
-  "people_count": 694,
-  "family_count": 216,
-  "living_count": 259,
+  "people_count": 716,
+  "family_count": 223,
+  "living_count": 271,
   "lines": [
    {
     "key": "jehu",
@@ -501,6 +501,59 @@
    "death_year": 1984
   },
   {
+   "id": "I29338000038",
+   "name": "Diana V. Alton",
+   "surname": "Alton",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": "I29338000036",
+   "mother": "I29333582389",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000036",
+   "name": "Marvin B. Alton",
+   "surname": "Alton",
+   "living": false,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333582389"
+   ],
+   "children": [
+    "I29338000038"
+   ],
+   "sex": "M",
+   "birth_date": "Abt. 1919",
+   "birth_place": "Kentucky, USA",
+   "birth_year": 1919,
+   "death_date": null,
+   "death_place": null,
+   "death_year": null
+  },
+  {
+   "id": "I29338000037",
+   "name": "Sonja J. Alton",
+   "surname": "Alton",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": "I29338000035",
+   "mother": "I29333582389",
+   "spouses": [],
+   "children": []
+  },
+  {
    "id": "I29338000020",
    "name": "Forrest James Amos",
    "surname": "Amos",
@@ -628,6 +681,38 @@
    ],
    "father": "I29334886598",
    "mother": "I29334886551",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000044",
+   "name": "William Atwell",
+   "surname": "Atwell",
+   "living": true,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000040"
+   ],
+   "children": [
+    "I29338000051"
+   ]
+  },
+  {
+   "id": "I29338000051",
+   "name": "William Atwell",
+   "surname": "Atwell",
+   "living": true,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29338000044",
+   "mother": "I29338000040",
    "spouses": [],
    "children": []
   },
@@ -1340,6 +1425,126 @@
    "children": []
   },
   {
+   "id": "I29338000039",
+   "name": "Mary B. Bates",
+   "surname": "Bates",
+   "living": false,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29333612143",
+   "mother": "I29337433263",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": "8 Apr 1928",
+   "birth_place": "Mississippi, USA",
+   "birth_year": 1928,
+   "death_date": "27 Feb 2009",
+   "death_place": null,
+   "death_year": 2009
+  },
+  {
+   "id": "I29338000040",
+   "name": "Mavis Geneva Bates",
+   "surname": "Bates",
+   "living": false,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29333612143",
+   "mother": "I29337433263",
+   "spouses": [
+    "I29338000044"
+   ],
+   "children": [
+    "I29338000051"
+   ],
+   "sex": "F",
+   "birth_date": "15 Dec 1930",
+   "birth_place": "Gulfport, Harrison County, Mississippi, USA",
+   "birth_year": 1930,
+   "death_date": "2 Apr 2000",
+   "death_place": "Caldwell County, Texas, USA",
+   "death_year": 2000
+  },
+  {
+   "id": "I29338000042",
+   "name": "Mildred Ann Bates",
+   "surname": "Bates",
+   "living": false,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29333612143",
+   "mother": "I29337433263",
+   "spouses": [
+    "I29338000045"
+   ],
+   "children": [
+    "I29338000052",
+    "I29338000053",
+    "I29338000054"
+   ],
+   "sex": "F",
+   "birth_date": "4 Feb 1935",
+   "birth_place": "Pass Christian, Harrison County, Mississippi, USA",
+   "birth_year": 1935,
+   "death_date": "28 Aug 2020",
+   "death_place": "San Marcos, Hays County, Texas, USA",
+   "death_year": 2020
+  },
+  {
+   "id": "I29338000041",
+   "name": "Otha L. Bates",
+   "surname": "Bates",
+   "living": false,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29333612143",
+   "mother": "I29337433263",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "22 Sep 1932",
+   "birth_place": "Hattiesburg, Forrest County, Mississippi, USA",
+   "birth_year": 1932,
+   "death_date": "2 Jan 2007",
+   "death_place": null,
+   "death_year": 2007
+  },
+  {
+   "id": "I29338000043",
+   "name": "Pansy Olivia Bates",
+   "surname": "Bates",
+   "living": false,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29333612143",
+   "mother": "I29337433263",
+   "spouses": [
+    "I29338000046"
+   ],
+   "children": [
+    "I29338000055",
+    "I29338000056"
+   ],
+   "sex": "F",
+   "birth_date": "20 May 1937",
+   "birth_place": "Mississippi, USA",
+   "birth_year": 1937,
+   "death_date": "21 Apr 2015",
+   "death_place": null,
+   "death_year": 2015
+  },
+  {
    "id": "I29338000031",
    "name": "Peggy N. Bates",
    "surname": "Bates",
@@ -1369,7 +1574,12 @@
     "I252465971465"
    ],
    "children": [
-    "I29337433269"
+    "I29337433269",
+    "I29338000039",
+    "I29338000040",
+    "I29338000041",
+    "I29338000042",
+    "I29338000043"
    ],
    "sex": "M",
    "birth_date": "12 Jul 1903",
@@ -2407,6 +2617,83 @@
     "I29337205382"
    ],
    "children": []
+  },
+  {
+   "id": "I29338000049",
+   "name": "Levi Cuevas",
+   "surname": "Cuevas",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000050"
+   ],
+   "children": [
+    "I29338000046"
+   ]
+  },
+  {
+   "id": "I29338000056",
+   "name": "Milton Cuevas",
+   "surname": "Cuevas",
+   "living": true,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29338000046",
+   "mother": "I29338000043",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000046",
+   "name": "Milton Sylvester Cuevas",
+   "surname": "Cuevas",
+   "living": false,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29338000049",
+   "mother": "I29338000050",
+   "spouses": [
+    "I29338000043"
+   ],
+   "children": [
+    "I29338000055",
+    "I29338000056"
+   ],
+   "sex": "M",
+   "birth_date": "12 May 1930",
+   "birth_place": "Pass Christian, Harrison County, Mississippi, USA",
+   "birth_year": 1930,
+   "death_date": "15 Mar 1986",
+   "death_place": null,
+   "death_year": 1986
+  },
+  {
+   "id": "I29338000055",
+   "name": "Pamela Kay Cuevas",
+   "surname": "Cuevas",
+   "living": false,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29338000046",
+   "mother": "I29338000043",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": null,
+   "birth_place": null,
+   "birth_year": null,
+   "death_date": "2007",
+   "death_place": null,
+   "death_year": 2007
   },
   {
    "id": "I29333411556",
@@ -3636,6 +3923,24 @@
    "death_date": "13 Jun 1889",
    "death_place": "Freeport, Cumberland, Maine, United States",
    "death_year": 1889
+  },
+  {
+   "id": "I29338000035",
+   "name": "William Perry Garmany",
+   "surname": "Garmany",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333582389"
+   ],
+   "children": [
+    "I29338000037"
+   ]
   },
   {
    "id": "I250164052946",
@@ -5794,7 +6099,12 @@
     "I29333612143"
    ],
    "children": [
-    "I29337433269"
+    "I29337433269",
+    "I29338000039",
+    "I29338000040",
+    "I29338000041",
+    "I29338000042",
+    "I29338000043"
    ],
    "sex": "F",
    "birth_date": "1913",
@@ -6571,8 +6881,14 @@
    ],
    "father": "I29333582388",
    "mother": "I29333256640",
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "I29338000035",
+    "I29338000036"
+   ],
+   "children": [
+    "I29338000037",
+    "I29338000038"
+   ],
    "sex": "F",
    "birth_date": "17 Aug 1924",
    "birth_place": "Pensacola, Florida, USA",
@@ -8955,6 +9271,22 @@
    "death_date": null,
    "death_place": null,
    "death_year": null
+  },
+  {
+   "id": "I29338000050",
+   "name": "Sedonia Necaice",
+   "surname": "Necaice",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000049"
+   ],
+   "children": [
+    "I29338000046"
+   ]
   },
   {
    "id": "I18109010220",
@@ -12884,6 +13216,98 @@
    "death_year": 1961
   },
   {
+   "id": "I29338000054",
+   "name": "David Scott",
+   "surname": "Scott",
+   "living": true,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29338000045",
+   "mother": "I29338000042",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000052",
+   "name": "Linda Scott",
+   "surname": "Scott",
+   "living": false,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29338000045",
+   "mother": "I29338000042",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": null,
+   "birth_place": null,
+   "birth_year": null,
+   "death_date": "Bef. 2016",
+   "death_place": null,
+   "death_year": 2016
+  },
+  {
+   "id": "I29338000045",
+   "name": "Malcolm Ray Scott",
+   "surname": "Scott",
+   "living": false,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29338000047",
+   "mother": "I29338000048",
+   "spouses": [
+    "I29338000042"
+   ],
+   "children": [
+    "I29338000052",
+    "I29338000053",
+    "I29338000054"
+   ],
+   "sex": "M",
+   "birth_date": null,
+   "birth_place": null,
+   "birth_year": null,
+   "death_date": "2015",
+   "death_place": null,
+   "death_year": 2015
+  },
+  {
+   "id": "I29338000047",
+   "name": "Otma Scott",
+   "surname": "Scott",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000048"
+   ],
+   "children": [
+    "I29338000045"
+   ]
+  },
+  {
+   "id": "I29338000053",
+   "name": "Ray Scott",
+   "surname": "Scott",
+   "living": true,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29338000045",
+   "mother": "I29338000042",
+   "spouses": [],
+   "children": []
+  },
+  {
    "id": "I29337205786",
    "name": "Douglas Sebastian",
    "surname": "Sebastian",
@@ -13278,6 +13702,22 @@
    ],
    "children": [
     "I29337205263"
+   ]
+  },
+  {
+   "id": "I29338000048",
+   "name": "Evadene Unknown",
+   "surname": "Unknown",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000047"
+   ],
+   "children": [
+    "I29338000045"
    ]
   },
   {
