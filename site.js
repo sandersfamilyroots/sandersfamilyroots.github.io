@@ -6,15 +6,23 @@
 
   var byId = {};
   var meta = null;
+  var memorials = {};
 
   function load() {
-    return fetch("data/people.json")
+    var peopleP = fetch("data/people.json")
+      .then(function (r) { return r.json(); });
+    // Memorials are a hand-curated overlay (see MEMORIALS.md); if the file
+    // is missing the site simply renders without them.
+    var memorialsP = fetch("data/memorials.json")
       .then(function (r) { return r.json(); })
-      .then(function (data) {
-        meta = data.meta;
-        data.people.forEach(function (p) { byId[p.id] = p; });
-        return data.people;
-      });
+      .catch(function () { return {}; });
+    return Promise.all([peopleP, memorialsP]).then(function (res) {
+      var data = res[0];
+      memorials = res[1] || {};
+      meta = data.meta;
+      data.people.forEach(function (p) { byId[p.id] = p; });
+      return data.people;
+    });
   }
 
   function personLink(p) {
@@ -113,12 +121,81 @@
         html += "<dt>Buried</dt><dd>" + escapeHtml([p.burial_date, p.burial_place].filter(Boolean).join(" · ")) + "</dd>";
       html += "</dl>";
     }
+    html += memorialSection(p);
     html += "<h3>Parents</h3>" + relList([p.father, p.mother].filter(Boolean));
     html += "<h3>" + (p.spouses && p.spouses.length > 1 ? "Spouses" : "Spouse") + "</h3>" + relList(p.spouses);
     html += "<h3>Children</h3>" + relList(p.children);
     html += '<p class="back-links"><a href="people.html">&larr; Everyone in the tree</a> · ' +
       '<a href="lines.html">The five lines</a></p>';
     box.innerHTML = html;
+  }
+
+  /* ---------------- Memorials ----------------
+     Data comes from data/memorials.json (curated by hand — see
+     MEMORIALS.md). HARD RULE: a memorial is only ever rendered for a
+     person who is NOT flagged living in people.json. */
+  function memorialSection(p) {
+    if (p.living) return "";
+    var m = memorials[p.id];
+    if (!m || (!m.photo && !(m.obituary && m.obituary.text))) return "";
+    var html = '<div class="memorial"><h3>Memorial</h3>';
+    if (m.photo) {
+      html += '<figure class="memorial-photo"><img src="' + escapeHtml(m.photo) +
+        '" alt="Headstone of ' + escapeHtml(p.name) + '">';
+      if (m.photo_caption)
+        html += "<figcaption>" + escapeHtml(m.photo_caption) + "</figcaption>";
+      html += "</figure>";
+    }
+    if (m.obituary && m.obituary.text) {
+      html += '<div class="obituary">';
+      if (m.obituary.source)
+        html += '<p class="obituary-source">Obituary — ' + escapeHtml(m.obituary.source) + "</p>";
+      m.obituary.text.split(/\n\s*\n/).forEach(function (para) {
+        html += "<p>" + escapeHtml(para.trim()) + "</p>";
+      });
+      html += "</div>";
+    }
+    return html + "</div>";
+  }
+
+  function renderMemorials() {
+    var box = document.getElementById("memorials-list");
+    if (!box) return;
+    var entries = Object.keys(memorials).map(function (id) {
+      return { p: byId[id], m: memorials[id] };
+    }).filter(function (e) {
+      return e.p && !e.p.living &&
+        (e.m.photo || (e.m.obituary && e.m.obituary.text));
+    });
+    entries.sort(function (a, b) {
+      var da = a.p.death_year || 0;
+      var db = b.p.death_year || 0;
+      if (da !== db) return da - db;
+      return a.p.name.localeCompare(b.p.name);
+    });
+    if (!entries.length) {
+      box.innerHTML = "<p>No memorials have been added yet.</p>";
+      return;
+    }
+    var html = '<div class="memorial-cards">';
+    entries.forEach(function (e) {
+      var p = e.p;
+      var m = e.m;
+      var has = [];
+      if (m.photo) has.push("Headstone photo");
+      if (m.obituary && m.obituary.text) has.push("Obituary");
+      html += '<a class="memorial-card" href="person.html?id=' + encodeURIComponent(p.id) + '">';
+      if (m.photo)
+        html += '<img src="' + escapeHtml(m.photo) + '" alt="Headstone of ' + escapeHtml(p.name) + '">';
+      html += '<span class="memorial-card-name">' + escapeHtml(p.name) + "</span>";
+      html += '<span class="memorial-card-dates">' + datesLine(p) + "</span>";
+      if (p.burial_place)
+        html += '<span class="memorial-card-burial">' + escapeHtml(p.burial_place) + "</span>";
+      if (has.length)
+        html += '<span class="memorial-card-has">' + has.join(" · ") + "</span>";
+      html += "</a>";
+    });
+    box.innerHTML = html + "</div>";
   }
 
   /* ---------------- Lines page ---------------- */
@@ -186,9 +263,10 @@
   load().then(function (people) {
     renderPeople(people);
     renderPerson();
+    renderMemorials();
     renderLines(people);
   }).catch(function () {
-    ["people-list", "person-view", "lines-view"].forEach(function (id) {
+    ["people-list", "person-view", "lines-view", "memorials-list"].forEach(function (id) {
       var el = document.getElementById(id);
       if (el) el.innerHTML = "<p>The family data could not be loaded. Please try again in a moment.</p>";
     });
