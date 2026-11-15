@@ -1,9 +1,9 @@
 {
  "meta": {
   "generated_from": "Sanders-newly-revised.ged",
-  "people_count": 683,
-  "family_count": 212,
-  "living_count": 256,
+  "people_count": 685,
+  "family_count": 213,
+  "living_count": 254,
   "lines": [
    {
     "key": "jehu",
@@ -1714,13 +1714,13 @@
    "id": "I29337205282",
    "name": "Bessie Lular Brown",
    "surname": "Brown",
-   "living": true,
+   "living": false,
    "line": "Jehu Barry Sanders",
    "lines": [
     "Jehu Barry Sanders"
    ],
-   "father": null,
-   "mother": null,
+   "father": "I29338000024",
+   "mother": "I29338000025",
    "spouses": [
     "I29337205263",
     "I29337205293"
@@ -1733,6 +1733,29 @@
     "I29337205405",
     "I29337205415",
     "I29337205305"
+   ],
+   "sex": "F",
+   "birth_date": "29 Jun 1934",
+   "birth_place": "Prescott, Nevada County, Arkansas, USA",
+   "birth_year": 1934,
+   "death_date": "8 Sep 2001",
+   "death_place": null,
+   "death_year": 2001
+  },
+  {
+   "id": "I29338000024",
+   "name": "Jim M. Brown",
+   "surname": "Brown",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000025"
+   ],
+   "children": [
+    "I29337205282"
    ]
   },
   {
@@ -1847,7 +1870,7 @@
    "id": "I29337205305",
    "name": "Dennis Butler",
    "surname": "Butler",
-   "living": true,
+   "living": false,
    "line": "Connected family",
    "lines": [],
    "father": "I29337205293",
@@ -1858,7 +1881,14 @@
    "children": [
     "I29337205332",
     "I29337205337"
-   ]
+   ],
+   "sex": "M",
+   "birth_date": "28 Sep 1952",
+   "birth_place": "Arkansas, USA",
+   "birth_year": 1952,
+   "death_date": "BEF 10 Feb 2026",
+   "death_place": null,
+   "death_year": 2026
   },
   {
    "id": "I29337205293",
@@ -6535,6 +6565,22 @@
    "children": []
   },
   {
+   "id": "I29338000025",
+   "name": "Bessie L. McGrirt",
+   "surname": "McGrirt",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000024"
+   ],
+   "children": [
+    "I29337205282"
+   ]
+  },
+  {
    "id": "I29333256638",
    "name": "Emma McKenzie",
    "surname": "McKenzie",
@@ -10391,7 +10437,7 @@
    "id": "I29337205263",
    "name": "Alfred Leon Sanders",
    "surname": "Sanders",
-   "living": true,
+   "living": false,
    "line": "Jehu Barry Sanders",
    "lines": [
     "Jehu Barry Sanders"
@@ -10408,7 +10454,14 @@
     "I29337205391",
     "I29337205405",
     "I29337205415"
-   ]
+   ],
+   "sex": "M",
+   "birth_date": "19 Jan 1931",
+   "birth_place": "Richton , Perry County, Mississippi",
+   "birth_year": 1931,
+   "death_date": "17 Jun 2020",
+   "death_place": null,
+   "death_year": 2020
   },
   {
    "id": "I29333474849",
@@ -10754,7 +10807,7 @@
    "id": "I29337205382",
    "name": "David Leon Sanders",
    "surname": "Sanders",
-   "living": true,
+   "living": false,
    "line": "Jehu Barry Sanders",
    "lines": [
     "Jehu Barry Sanders"
@@ -10768,7 +10821,14 @@
    "children": [
     "I29337205591",
     "I29337205589"
-   ]
+   ],
+   "sex": "M",
+   "birth_date": "23 Jun 1957",
+   "birth_place": "Arkansas, USA",
+   "birth_year": 1957,
+   "death_date": "10 Feb 2026",
+   "death_place": null,
+   "death_year": 2026
   },
   {
    "id": "I29334968734",
