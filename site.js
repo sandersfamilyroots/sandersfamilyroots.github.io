@@ -109,6 +109,8 @@
         html += "<dt>Born</dt><dd>" + escapeHtml([p.birth_date, p.birth_place].filter(Boolean).join(" · ")) + "</dd>";
       if (p.death_date || p.death_place)
         html += "<dt>Died</dt><dd>" + escapeHtml([p.death_date, p.death_place].filter(Boolean).join(" · ")) + "</dd>";
+      if (p.burial_date || p.burial_place)
+        html += "<dt>Buried</dt><dd>" + escapeHtml([p.burial_date, p.burial_place].filter(Boolean).join(" · ")) + "</dd>";
       html += "</dl>";
     }
     html += "<h3>Parents</h3>" + relList([p.father, p.mother].filter(Boolean));
