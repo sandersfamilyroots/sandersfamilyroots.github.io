@@ -2,7 +2,7 @@
  "meta": {
   "generated_from": "Sanders-newly-revised.ged",
   "people_count": 724,
-  "family_count": 228,
+  "family_count": 227,
   "living_count": 279,
   "lines": [
    {
@@ -11940,7 +11940,7 @@
     "Jehu Barry Sanders"
    ],
    "father": "I29337205382",
-   "mother": null,
+   "mother": "I29337205569",
    "spouses": [],
    "children": []
   },
@@ -12174,13 +12174,13 @@
    ],
    "sex": "M",
    "birth_date": "23 Jun 1957",
-   "birth_place": "Arkansas, USA",
+   "birth_place": "Prescott, Nevada, Arkansas, United States",
    "birth_year": 1957,
    "death_date": "10 Feb 2026",
-   "death_place": null,
+   "death_place": "Arkadelphia, Clark, Arkansas, United States",
    "death_year": 2026,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Bethlehem Cemetery, Gurdon, Clark, Arkansas, United States"
   },
   {
    "id": "I29334968734",
@@ -13023,7 +13023,7 @@
     "Jehu Barry Sanders"
    ],
    "father": "I29337205382",
-   "mother": null,
+   "mother": "I29337205569",
    "spouses": [],
    "children": []
   },
@@ -14386,7 +14386,10 @@
    "spouses": [
     "I29337205382"
    ],
-   "children": []
+   "children": [
+    "I29337205591",
+    "I29337205589"
+   ]
   },
   {
    "id": "I29333579770",
