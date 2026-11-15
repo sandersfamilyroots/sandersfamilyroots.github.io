@@ -1,9 +1,9 @@
 {
  "meta": {
   "generated_from": "Sanders-newly-revised.ged",
-  "people_count": 724,
-  "family_count": 227,
-  "living_count": 279,
+  "people_count": 727,
+  "family_count": 229,
+  "living_count": 281,
   "lines": [
    {
     "key": "jehu",
@@ -4896,6 +4896,38 @@
    "children": []
   },
   {
+   "id": "I29338000067",
+   "name": "Edith Louise Hillman",
+   "surname": "Hillman",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": "I29338000066",
+   "mother": "I29333682521",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000066",
+   "name": "John Aaron Hillman",
+   "surname": "Hillman",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333682521"
+   ],
+   "children": [
+    "I29338000067"
+   ]
+  },
+  {
    "id": "I29334276719",
    "name": "Molly Hobbs",
    "surname": "Hobbs",
@@ -7352,17 +7384,31 @@
   },
   {
    "id": "I29333682521",
-   "name": "Lulu L Mcfarland",
-   "surname": "Mcfarland",
-   "living": true,
+   "name": "Louise Lula McFarland",
+   "surname": "McFarland",
+   "living": false,
    "line": "Thomas J. Sanders",
    "lines": [
     "Thomas J. Sanders"
    ],
    "father": "I29333582388",
    "mother": "I29333256640",
-   "spouses": [],
-   "children": []
+   "spouses": [
+    "I29338000065",
+    "I29338000066"
+   ],
+   "children": [
+    "I29338000067"
+   ],
+   "sex": "F",
+   "birth_date": "12 Mar 1928",
+   "birth_place": "Pensacola, Escambia County, Florida, USA",
+   "birth_year": 1928,
+   "death_date": "15 May 1991",
+   "death_place": "Freeborn County, Minnesota, USA",
+   "death_year": 1991,
+   "burial_date": null,
+   "burial_place": "East Freeborn Lutheran Church Cemetery, Lerdal, Freeborn County, Minnesota, USA"
   },
   {
    "id": "I29333582389",
@@ -10820,6 +10866,22 @@
    "mother": null,
    "spouses": [
     "I29336867607"
+   ],
+   "children": []
+  },
+  {
+   "id": "I29338000065",
+   "name": "Clayton E Remmele",
+   "surname": "Remmele",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333682521"
    ],
    "children": []
   },
