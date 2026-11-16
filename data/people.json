@@ -1,9 +1,9 @@
 {
  "meta": {
   "generated_from": "Sanders-newly-revised.ged",
-  "people_count": 727,
-  "family_count": 229,
-  "living_count": 281,
+  "people_count": 744,
+  "family_count": 235,
+  "living_count": 290,
   "lines": [
    {
     "key": "jehu",
@@ -162,7 +162,7 @@
    "death_place": null,
    "death_year": 1956,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Tuscaloosa Memorial Park, Tuscaloosa, Tuscaloosa County, Alabama, United States of America"
   },
   {
    "id": "I29333417592",
@@ -297,22 +297,6 @@
    ]
   },
   {
-   "id": "I29336877977",
-   "name": "Patricia",
-   "surname": "",
-   "living": true,
-   "line": "Thomas J. Sanders",
-   "lines": [
-    "Thomas J. Sanders"
-   ],
-   "father": null,
-   "mother": "I29333685477",
-   "spouses": [
-    "I29336878002"
-   ],
-   "children": []
-  },
-  {
    "id": "I29333145484",
    "name": "Peggy",
    "surname": "",
@@ -341,6 +325,31 @@
     "I29333685479"
    ],
    "children": []
+  },
+  {
+   "id": "I29338000075",
+   "name": "Robert E. Hutley Sr.",
+   "surname": "",
+   "living": false,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333685476"
+   ],
+   "children": [],
+   "sex": "M",
+   "birth_date": "1 MAY 1931",
+   "birth_place": null,
+   "birth_year": 1931,
+   "death_date": "13 DEC 2015",
+   "death_place": null,
+   "death_year": 2015,
+   "burial_date": null,
+   "burial_place": "Foster Cemetery, Lander, Warren County, Pennsylvania, USA"
   },
   {
    "id": "I252465971472",
@@ -2797,6 +2806,88 @@
    "children": []
   },
   {
+   "id": "I29338000078",
+   "name": "John Cotchaleovitch",
+   "surname": "Cotchaleovitch",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": "I29338000076",
+   "mother": "I29333685477",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29336877977",
+   "name": "Patricia I. Cotchaleovitch",
+   "surname": "Cotchaleovitch",
+   "living": false,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": "I29338000076",
+   "mother": "I29333685477",
+   "spouses": [
+    "I29336878002"
+   ],
+   "children": [],
+   "sex": "F",
+   "birth_date": "10 MAY 1951",
+   "birth_place": null,
+   "birth_year": 1951,
+   "death_date": "17 FEB 2013",
+   "death_place": null,
+   "death_year": 2013,
+   "burial_date": null,
+   "burial_place": "Riverside Memorial Park, Jacksonville, Duval County, Florida, USA"
+  },
+  {
+   "id": "I29338000076",
+   "name": "Thomas Cotchaleovitch",
+   "surname": "Cotchaleovitch",
+   "living": false,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333685477"
+   ],
+   "children": [
+    "I29336877977",
+    "I29338000077",
+    "I29338000078"
+   ],
+   "sex": "M",
+   "birth_date": null,
+   "birth_place": null,
+   "birth_year": null,
+   "death_date": "18 NOV 1988",
+   "death_place": null,
+   "death_year": 1988,
+   "burial_date": null,
+   "burial_place": "Jacksonville National Cemetery, Jacksonville, Duval County, Florida, USA"
+  },
+  {
+   "id": "I29338000077",
+   "name": "Thomas Cotchaleovitch",
+   "surname": "Cotchaleovitch",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": "I29338000076",
+   "mother": "I29333685477",
+   "spouses": [],
+   "children": []
+  },
+  {
    "id": "I29337205546",
    "name": "Rena Craig",
    "surname": "Craig",
@@ -3157,6 +3248,126 @@
    "mother": "I29337205830",
    "spouses": [],
    "children": []
+  },
+  {
+   "id": "I29338000072",
+   "name": "Harry C. Dixon",
+   "surname": "Dixon",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000068",
+   "mother": "I29333256638",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000069",
+   "name": "Julius C. Dixon",
+   "surname": "Dixon",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000068",
+   "mother": "I29333256638",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "30 JAN 1913",
+   "birth_place": null,
+   "birth_year": 1913,
+   "death_date": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": "Neely Cemetery (Washington Cemetery), Neely, Greene County, Mississippi, USA"
+  },
+  {
+   "id": "I29338000074",
+   "name": "Mabel Dixon",
+   "surname": "Dixon",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000068",
+   "mother": "I29333256638",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000071",
+   "name": "Mack Arthur Dixon",
+   "surname": "Dixon",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000068",
+   "mother": "I29333256638",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "27 SEP 1918",
+   "birth_place": null,
+   "birth_year": 1918,
+   "death_date": "21 APR 1992",
+   "death_place": null,
+   "death_year": 1992,
+   "burial_date": null,
+   "burial_place": "Neely Cemetery (Washington Cemetery), Neely, Greene County, Mississippi, USA"
+  },
+  {
+   "id": "I29338000073",
+   "name": "Rebecca Dixon",
+   "surname": "Dixon",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000068",
+   "mother": "I29333256638",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000068",
+   "name": "Riley Cayborn Dixon",
+   "surname": "Dixon",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333256638"
+   ],
+   "children": [
+    "I29338000069",
+    "I29338000070",
+    "I29338000071",
+    "I29338000072",
+    "I29338000073",
+    "I29338000074"
+   ]
+  },
+  {
+   "id": "I29338000070",
+   "name": "Sadie Bell Dixon",
+   "surname": "Dixon",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000068",
+   "mother": "I29333256638",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": "27 JAN 1915",
+   "birth_place": null,
+   "birth_year": 1915,
+   "death_date": "19 MAR 2000",
+   "death_place": null,
+   "death_year": 2000,
+   "burial_date": null,
+   "burial_place": "Neely Cemetery (Washington Cemetery), Neely, Greene County, Mississippi, USA"
   },
   {
    "id": "I29333121360",
@@ -4896,6 +5107,18 @@
    "children": []
   },
   {
+   "id": "I29338000081",
+   "name": "Brenda Higbee",
+   "surname": "Higbee",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [],
+   "children": []
+  },
+  {
    "id": "I29338000067",
    "name": "Edith Louise Hillman",
    "surname": "Hillman",
@@ -5122,6 +5345,18 @@
    "spouses": [
     "I29335031157"
    ],
+   "children": []
+  },
+  {
+   "id": "I29338000082",
+   "name": "Kathy Johnson",
+   "surname": "Johnson",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [],
    "children": []
   },
   {
@@ -5499,14 +5734,14 @@
     "I18109015745"
    ],
    "sex": "F",
-   "birth_date": "13 AUG 1918",
+   "birth_date": "18 APR 1918",
    "birth_place": "Murdock, Nebraska",
    "birth_year": 1918,
    "death_date": "20 FEB 1997",
    "death_place": "Foley Hospital, Foley, Baldwin Co., Al.",
    "death_year": 1997,
    "burial_date": null,
-   "burial_place": "Lillian, Baldwin County, Alabama, USA"
+   "burial_place": "Gilley Memorial Cemetery, Lillian, Baldwin County, Alabama, USA"
   },
   {
    "id": "I18109010225",
@@ -7451,10 +7686,15 @@
    "father": "I29333582388",
    "mother": "I29333256640",
    "spouses": [
-    "I29336877835"
+    "I29336877835",
+    "I29338000076",
+    "I29338000079"
    ],
    "children": [
-    "I29336877977"
+    "I29336877977",
+    "I29338000077",
+    "I29338000078",
+    "I29338000080"
    ],
    "sex": "F",
    "birth_date": "1 December 1934",
@@ -7464,7 +7704,7 @@
    "death_place": "Lafayette, Lafayette Parish, Louisiana, United States of America",
    "death_year": 2012,
    "burial_date": null,
-   "burial_place": "Lafayette, Lafayette Parish, Louisiana, United States of America"
+   "burial_place": "Greenlawn Memorial Park, Lafayette, Lafayette Parish, Louisiana, USA"
   },
   {
    "id": "I29338000002",
@@ -7575,17 +7815,28 @@
   },
   {
    "id": "I29333685476",
-   "name": "Wilma McFarland",
+   "name": "Wilma Lois McFarland",
    "surname": "McFarland",
-   "living": true,
+   "living": false,
    "line": "Thomas J. Sanders",
    "lines": [
     "Thomas J. Sanders"
    ],
    "father": "I29333582388",
    "mother": "I29333256640",
-   "spouses": [],
-   "children": []
+   "spouses": [
+    "I29338000075"
+   ],
+   "children": [],
+   "sex": "F",
+   "birth_date": "6 SEP 1932",
+   "birth_place": "Pensacola, Escambia County, Florida, USA",
+   "birth_year": 1932,
+   "death_date": "25 APR 2015",
+   "death_place": "Warren County, Pennsylvania, USA",
+   "death_year": 2015,
+   "burial_date": null,
+   "burial_place": "Foster Cemetery, Lander, Warren County, Pennsylvania, USA"
   },
   {
    "id": "I29333145085",
@@ -7633,21 +7884,28 @@
    "mother": null,
    "spouses": [
     "I29333582204",
-    "I18109010293"
+    "I18109010293",
+    "I29338000068"
    ],
    "children": [
     "I29333256639",
-    "I29333256640"
+    "I29333256640",
+    "I29338000069",
+    "I29338000070",
+    "I29338000071",
+    "I29338000072",
+    "I29338000073",
+    "I29338000074"
    ],
    "sex": "F",
-   "birth_date": "Bet. 1885–1890",
+   "birth_date": "6 APR 1883",
    "birth_place": null,
-   "birth_year": 1885,
-   "death_date": null,
-   "death_place": null,
-   "death_year": null,
+   "birth_year": 1883,
+   "death_date": "7 FEB 1952",
+   "death_place": "South Mississippi Infirmary, Hattiesburg, Forrest County, Mississippi, USA",
+   "death_year": 1952,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Neely Cemetery (Washington Cemetery), Neely, Greene County, Mississippi, USA"
   },
   {
    "id": "I29333964476",
@@ -9705,7 +9963,7 @@
    "death_place": "Mobile, Mobile, Alabama",
    "death_year": 1972,
    "burial_date": null,
-   "burial_place": "Mobile, Mobile County, Alabama, United States of America"
+   "burial_place": "Wolf Ridge Cemetery (Wilson Annex), Mobile, Mobile County, Alabama, USA"
   },
   {
    "id": "I250154199815",
@@ -10169,27 +10427,6 @@
    "burial_place": null
   },
   {
-   "id": "I29333477265",
-   "name": "Bruce Nobles",
-   "surname": "Nobles",
-   "living": false,
-   "line": "Connected family",
-   "lines": [],
-   "father": "I29333477262",
-   "mother": "I29333477263",
-   "spouses": [],
-   "children": [],
-   "sex": "M",
-   "birth_date": "abt 1918",
-   "birth_place": "Florida",
-   "birth_year": 1918,
-   "death_date": null,
-   "death_place": null,
-   "death_year": null,
-   "burial_date": null,
-   "burial_place": null
-  },
-  {
    "id": "I29333121715",
    "name": "Bruce Steve Nobles",
    "surname": "Nobles",
@@ -10290,38 +10527,6 @@
    "burial_place": null
   },
   {
-   "id": "I29333122618",
-   "name": "GENEVIEVE NOBLES",
-   "surname": "NOBLES",
-   "living": false,
-   "line": "Thorough Good Sanders",
-   "lines": [
-    "Thorough Good Sanders"
-   ],
-   "father": "I29333477262",
-   "mother": "I29333477263",
-   "spouses": [
-    "I29333121497"
-   ],
-   "children": [
-    "I29333477019",
-    "I252465971460",
-    "I252465971461",
-    "I252465971462",
-    "I252465971463",
-    "I252465971464"
-   ],
-   "sex": "F",
-   "birth_date": "28 Mar 1916",
-   "birth_place": "Pensacola, Escambia County, Florida, USA",
-   "birth_year": 1916,
-   "death_date": "4-2-1985",
-   "death_place": "Pensacola, Escambia County, Florida, USA",
-   "death_year": 1985,
-   "burial_date": null,
-   "burial_place": null
-  },
-  {
    "id": "I252465971484",
    "name": "Karen Nobles",
    "surname": "Nobles",
@@ -10368,7 +10573,7 @@
    "children": [
     "I29333477264",
     "I29333122618",
-    "I29333477265",
+    "I29333121715",
     "I29333477266",
     "I29333477267"
    ],
@@ -10397,7 +10602,7 @@
    "children": [
     "I29333477264",
     "I29333122618",
-    "I29333477265",
+    "I29333121715",
     "I29333477266",
     "I29333477267"
    ],
@@ -10450,6 +10655,38 @@
    "children": []
   },
   {
+   "id": "I29333122618",
+   "name": "Miriam Genevieve Nobles",
+   "surname": "Nobles",
+   "living": false,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": "I29333477262",
+   "mother": "I29333477263",
+   "spouses": [
+    "I29333121497"
+   ],
+   "children": [
+    "I29333477019",
+    "I252465971460",
+    "I252465971461",
+    "I252465971462",
+    "I252465971463",
+    "I252465971464"
+   ],
+   "sex": "F",
+   "birth_date": "28 Mar 1916",
+   "birth_place": "Pensacola, Escambia County, Florida, USA",
+   "birth_year": 1916,
+   "death_date": "4-2-1985",
+   "death_place": "Pensacola, Escambia County, Florida, USA",
+   "death_year": 1985,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
    "id": "I252465971492",
    "name": "Roger Nobles",
    "surname": "Nobles",
@@ -10461,6 +10698,22 @@
    "father": "I29333121715",
    "mother": "I29333121665",
    "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000085",
+   "name": "Lee D. Norris",
+   "surname": "Norris",
+   "living": true,
+   "line": "George Lionel Sanders",
+   "lines": [
+    "George Lionel Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29335655044"
+   ],
    "children": []
   },
   {
@@ -12213,7 +12466,7 @@
    "death_place": "Mobile, Mobile, Alabama, United States",
    "death_year": 1983,
    "burial_date": null,
-   "burial_place": "Mobile, Mobile County, Alabama, United States of America"
+   "burial_place": "Wolf Ridge Cemetery (Wilson Annex), Mobile, Mobile County, Alabama, USA"
   },
   {
    "id": "I29337205382",
@@ -12430,35 +12683,13 @@
    "father": "I29337205263",
    "mother": "I29337205282",
    "spouses": [
-    "I29337205613"
+    "I29337205613",
+    "I29338000083"
    ],
    "children": [
     "I29337205639",
     "I29337205635"
    ]
-  },
-  {
-   "id": "I29335655044",
-   "name": "Elizabeth Sanders",
-   "surname": "Sanders",
-   "living": false,
-   "line": "George Lionel Sanders",
-   "lines": [
-    "George Lionel Sanders"
-   ],
-   "father": "I18109010278",
-   "mother": "I29335654986",
-   "spouses": [],
-   "children": [],
-   "sex": "F",
-   "birth_date": "abt 1914",
-   "birth_place": "Mississippi",
-   "birth_year": 1914,
-   "death_date": null,
-   "death_place": null,
-   "death_year": null,
-   "burial_date": null,
-   "burial_place": null
   },
   {
    "id": "I29336895939",
@@ -12778,7 +13009,8 @@
    "father": "I29337205263",
    "mother": "I29337205282",
    "spouses": [
-    "I29337205679"
+    "I29337205679",
+    "I29338000084"
    ],
    "children": [
     "I29337205722"
@@ -13033,6 +13265,22 @@
    ]
   },
   {
+   "id": "I29338000084",
+   "name": "Katie Sanders",
+   "surname": "Sanders",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29337205405"
+   ],
+   "children": []
+  },
+  {
    "id": "I18109010284",
    "name": "Kevin Earl Sanders",
    "surname": "Sanders",
@@ -13088,6 +13336,31 @@
    "mother": "I29337205569",
    "spouses": [],
    "children": []
+  },
+  {
+   "id": "I29335655044",
+   "name": "Lena Elizabeth Sanders",
+   "surname": "Sanders",
+   "living": false,
+   "line": "George Lionel Sanders",
+   "lines": [
+    "George Lionel Sanders"
+   ],
+   "father": "I18109010278",
+   "mother": "I29335654986",
+   "spouses": [
+    "I29338000085"
+   ],
+   "children": [],
+   "sex": "F",
+   "birth_date": "13 JUL 1913",
+   "birth_place": "Mississippi, USA",
+   "birth_year": 1913,
+   "death_date": "17 FEB 2002",
+   "death_place": null,
+   "death_year": 2002,
+   "burial_date": null,
+   "burial_place": "Moselle Memorial Gardens, Moselle, Jones County, Mississippi, USA"
   },
   {
    "id": "I252465971479",
@@ -13756,6 +14029,22 @@
     "I252465971468",
     "I252465971469"
    ]
+  },
+  {
+   "id": "I29338000083",
+   "name": "Tammy Sanders",
+   "surname": "Sanders",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29337205386"
+   ],
+   "children": []
   },
   {
    "id": "I29335031157",
@@ -15394,9 +15683,9 @@
   },
   {
    "id": "I29336877835",
-   "name": "Wallace A Wilkinson",
+   "name": "Wallace Archie Wilkinson",
    "surname": "Wilkinson",
-   "living": true,
+   "living": false,
    "line": "Thomas J. Sanders",
    "lines": [
     "Thomas J. Sanders"
@@ -15406,7 +15695,16 @@
    "spouses": [
     "I29333685477"
    ],
-   "children": []
+   "children": [],
+   "sex": "M",
+   "birth_date": "25 FEB 1923",
+   "birth_place": null,
+   "birth_year": 1923,
+   "death_date": "16 DEC 1992",
+   "death_place": "Dallas, Dallas County, Texas, USA",
+   "death_year": 1992,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I18109010307",
@@ -15463,6 +15761,47 @@
    "spouses": [
     "I29333145085"
    ],
+   "children": []
+  },
+  {
+   "id": "I29338000079",
+   "name": "Joseph B. Wuertenberg",
+   "surname": "Wuertenberg",
+   "living": false,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333685477"
+   ],
+   "children": [
+    "I29338000080"
+   ],
+   "sex": "M",
+   "birth_date": null,
+   "birth_place": null,
+   "birth_year": null,
+   "death_date": "2016",
+   "death_place": "St. Louis, Missouri, USA",
+   "death_year": 2016,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000080",
+   "name": "Joseph Wuertenberg",
+   "surname": "Wuertenberg",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": "I29338000079",
+   "mother": "I29333685477",
+   "spouses": [],
    "children": []
   }
  ]
