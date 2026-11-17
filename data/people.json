@@ -15372,6 +15372,31 @@
    "children": []
   },
   {
+   "id": "I18109010274",
+   "name": "William Abner Sanders",
+   "surname": "Sanders",
+   "living": false,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": "I18109010233",
+   "mother": "I18109010234",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "30 Dec 1928",
+   "birth_md": "12-30",
+   "birth_place": "Richton, Perry, Mississippi, USA",
+   "birth_year": 1928,
+   "death_date": "27 May 1989",
+   "death_md": "05-27",
+   "death_place": "Ontario, San Bernardino, California, USA",
+   "death_year": 1989,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
    "id": "I18109010296",
    "name": "William Alvin Sanders",
    "surname": "Sanders",
@@ -15512,31 +15537,6 @@
     "I29333961270",
     "I29333145194"
    ]
-  },
-  {
-   "id": "I18109010274",
-   "name": "William Abner Saunders",
-   "surname": "Saunders",
-   "living": false,
-   "line": "Jehu Barry Sanders",
-   "lines": [
-    "Jehu Barry Sanders"
-   ],
-   "father": "I18109010233",
-   "mother": "I18109010234",
-   "spouses": [],
-   "children": [],
-   "sex": "M",
-   "birth_date": "30 Dec 1928",
-   "birth_md": "12-30",
-   "birth_place": "Richton, Perry, Mississippi, USA",
-   "birth_year": 1928,
-   "death_date": "27 May 1989",
-   "death_md": "05-27",
-   "death_place": "Ontario, San Bernardino, California, USA",
-   "death_year": 1989,
-   "burial_date": null,
-   "burial_place": null
   },
   {
    "id": "I252465971485",
