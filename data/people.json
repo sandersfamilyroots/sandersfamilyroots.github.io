@@ -1,9 +1,9 @@
 {
  "meta": {
   "generated_from": "Sanders-newly-revised.ged",
-  "people_count": 762,
-  "family_count": 241,
-  "living_count": 297,
+  "people_count": 796,
+  "family_count": 257,
+  "living_count": 318,
   "lines": [
    {
     "key": "jehu",
@@ -686,6 +686,84 @@
    ]
   },
   {
+   "id": "I29338000122",
+   "name": "Joseph Alto Andrews",
+   "surname": "Andrews",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000123"
+   ],
+   "children": [
+    "I29338000117"
+   ],
+   "sex": "M",
+   "birth_date": "abt 1892",
+   "birth_md": null,
+   "birth_place": "Alabama, USA",
+   "birth_year": 1892,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000117",
+   "name": "Martha Ramona Andrews",
+   "surname": "Andrews",
+   "living": false,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": "I29338000122",
+   "mother": "I29338000123",
+   "spouses": [
+    "I29333121520"
+   ],
+   "children": [
+    "I250159783967",
+    "I250159783908"
+   ],
+   "sex": "F",
+   "birth_date": "22 Feb 1929",
+   "birth_md": "02-22",
+   "birth_place": "Alabama, USA",
+   "birth_year": 1929,
+   "death_date": "18 Jan 1964",
+   "death_md": "01-18",
+   "death_place": null,
+   "death_year": 1964,
+   "burial_date": null,
+   "burial_place": "Post Oak Cemetery, Ozark, Dale, Alabama, USA"
+  },
+  {
+   "id": "I29338000128",
+   "name": "Mary Eva Andrews",
+   "surname": "Andrews",
+   "living": true,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333121484"
+   ],
+   "children": [
+    "I29338000129",
+    "I29338000130",
+    "I29338000131",
+    "I29338000132"
+   ]
+  },
+  {
    "id": "I29334886598",
    "name": "Elliott Attaway",
    "surname": "Attaway",
@@ -792,6 +870,33 @@
     "I18109016200"
    ],
    "children": []
+  },
+  {
+   "id": "I29338000127",
+   "name": "Eva Barnes",
+   "surname": "Barnes",
+   "living": false,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333121484"
+   ],
+   "children": [],
+   "sex": "F",
+   "birth_date": "abt 1920",
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": 1920,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I29333690648",
@@ -2110,6 +2215,39 @@
    ]
   },
   {
+   "id": "I29338000104",
+   "name": "Mildred L Blanton",
+   "surname": "Blanton",
+   "living": false,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333121470"
+   ],
+   "children": [
+    "I29338000105",
+    "I29338000106",
+    "I29338000107",
+    "I29338000108",
+    "I29338000109"
+   ],
+   "sex": "F",
+   "birth_date": "abt 1911",
+   "birth_md": null,
+   "birth_place": "Florida, USA",
+   "birth_year": 1911,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
    "id": "I29338000027",
    "name": "Alex C. Bobinger",
    "surname": "Bobinger",
@@ -2252,6 +2390,33 @@
    "death_md": "05-04",
    "death_place": "Buxton, York, Maine, United States",
    "death_year": 1822,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000110",
+   "name": "Emma Bradley",
+   "surname": "Bradley",
+   "living": false,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333476357"
+   ],
+   "children": [],
+   "sex": "F",
+   "birth_date": "abt 1906",
+   "birth_md": null,
+   "birth_place": "Mississippi, USA",
+   "birth_year": 1906,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
    "burial_date": null,
    "burial_place": null
   },
@@ -3030,6 +3195,22 @@
    "mother": null,
    "spouses": [
     "I252465971486"
+   ],
+   "children": []
+  },
+  {
+   "id": "I29338000136",
+   "name": "Gerald Dean Coley",
+   "surname": "Coley",
+   "living": true,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000131"
    ],
    "children": []
   },
@@ -4598,6 +4779,22 @@
    ]
   },
   {
+   "id": "I29338000134",
+   "name": "Almeda May Florea",
+   "surname": "Florea",
+   "living": true,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000130"
+   ],
+   "children": []
+  },
+  {
    "id": "I29333995820",
    "name": "Nancy Elizabeth Foster",
    "surname": "Foster",
@@ -4904,6 +5101,24 @@
    ]
   },
   {
+   "id": "I29338000119",
+   "name": "Katrene Marie Gilley",
+   "surname": "Gilley",
+   "living": true,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I250159783908"
+   ],
+   "children": [
+    "I29338000121"
+   ]
+  },
+  {
    "id": "I29334886258",
    "name": "Jayne Gindl",
    "surname": "Gindl",
@@ -5059,6 +5274,22 @@
     "I18109010292"
    ],
    "children": []
+  },
+  {
+   "id": "I29338000123",
+   "name": "Carrie Ellis Guilford",
+   "surname": "Guilford",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000122"
+   ],
+   "children": [
+    "I29338000117"
+   ]
   },
   {
    "id": "I18109012452",
@@ -5524,6 +5755,22 @@
    "children": []
   },
   {
+   "id": "I29338000137",
+   "name": "Robert Jerry Hay",
+   "surname": "Hay",
+   "living": true,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000132"
+   ],
+   "children": []
+  },
+  {
    "id": "I29338000081",
    "name": "Brenda Higbee",
    "surname": "Higbee",
@@ -5792,6 +6039,39 @@
    "mother": null,
    "spouses": [],
    "children": []
+  },
+  {
+   "id": "I29338000111",
+   "name": "Willie Pearl Johnson",
+   "surname": "Johnson",
+   "living": false,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333476357"
+   ],
+   "children": [
+    "I29338000112",
+    "I29338000113",
+    "I29338000114",
+    "I29338000115",
+    "I29338000116"
+   ],
+   "sex": "F",
+   "birth_date": "abt 1914",
+   "birth_md": null,
+   "birth_place": "Florida, USA",
+   "birth_year": 1914,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I250164760187",
@@ -8541,6 +8821,22 @@
    ],
    "children": [
     "I29337205282"
+   ]
+  },
+  {
+   "id": "I29338000125",
+   "name": "Ozell McHenry",
+   "surname": "McHenry",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000124"
+   ],
+   "children": [
+    "I29338000118"
    ]
   },
   {
@@ -11766,6 +12062,22 @@
    "burial_place": null
   },
   {
+   "id": "I29338000120",
+   "name": "Sharon Kay Parker",
+   "surname": "Parker",
+   "living": true,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I250159783908"
+   ],
+   "children": []
+  },
+  {
    "id": "I252465971483",
    "name": "Dickie Parrish",
    "surname": "Parrish",
@@ -13181,6 +13493,20 @@
    "burial_place": "Pensacola, Escambia County, Florida"
   },
   {
+   "id": "I29338000121",
+   "name": "Ann Marie Sanders",
+   "surname": "Sanders",
+   "living": true,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": "I250159783908",
+   "mother": "I29338000119",
+   "spouses": [],
+   "children": []
+  },
+  {
    "id": "I29338000063",
    "name": "April Carmen Sanders",
    "surname": "Sanders",
@@ -13212,7 +13538,7 @@
   },
   {
    "id": "I250159783967",
-   "name": "Audrey Sanders",
+   "name": "Audrey R Sanders",
    "surname": "Sanders",
    "living": true,
    "line": "Thorough Good Sanders",
@@ -13220,11 +13546,36 @@
     "Thorough Good Sanders"
    ],
    "father": "I29333121520",
-   "mother": null,
+   "mother": "I29338000117",
    "spouses": [
     "I250159784052"
    ],
    "children": []
+  },
+  {
+   "id": "I29338000107",
+   "name": "Barbara Delores Sanders",
+   "surname": "Sanders",
+   "living": false,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": "I29333121470",
+   "mother": "I29338000104",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": "29 Nov 1934",
+   "birth_md": "11-29",
+   "birth_place": "Pensacola, Escambia, Florida, USA",
+   "birth_year": 1934,
+   "death_date": "8 Apr 2004",
+   "death_md": "04-08",
+   "death_place": null,
+   "death_year": 2004,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I29335029898",
@@ -13371,31 +13722,6 @@
    "mother": "I29333257863",
    "spouses": [],
    "children": []
-  },
-  {
-   "id": "I29333121484",
-   "name": "Clyde H Sanders",
-   "surname": "Sanders",
-   "living": false,
-   "line": "Thorough Good Sanders",
-   "lines": [
-    "Thorough Good Sanders"
-   ],
-   "father": "I18109010294",
-   "mother": "I29333121360",
-   "spouses": [],
-   "children": [],
-   "sex": "M",
-   "birth_date": "abt 1919",
-   "birth_md": null,
-   "birth_place": "Florida",
-   "birth_year": 1919,
-   "death_date": null,
-   "death_md": null,
-   "death_place": null,
-   "death_year": null,
-   "burial_date": null,
-   "burial_place": null
   },
   {
    "id": "I29337205658",
@@ -13565,6 +13891,22 @@
    "children": []
   },
   {
+   "id": "I29338000130",
+   "name": "Denver Britt Sanders",
+   "surname": "Sanders",
+   "living": true,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": "I29333121484",
+   "mother": "I29338000128",
+   "spouses": [
+    "I29338000134"
+   ],
+   "children": []
+  },
+  {
    "id": "I29335895784",
    "name": "Derek Sanders",
    "surname": "Sanders",
@@ -13592,6 +13934,20 @@
    ],
    "father": "I29333256639",
    "mother": "I29333582094",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000113",
+   "name": "Don C Sanders",
+   "surname": "Sanders",
+   "living": true,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": "I29333476357",
+   "mother": "I29338000111",
    "spouses": [],
    "children": []
   },
@@ -13822,6 +14178,20 @@
    "burial_place": "FL"
   },
   {
+   "id": "I29338000105",
+   "name": "Everett M Sanders",
+   "surname": "Sanders",
+   "living": true,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": "I29333121470",
+   "mother": "I29338000104",
+   "spouses": [],
+   "children": []
+  },
+  {
    "id": "I29335655043",
    "name": "Fannie May Sanders",
    "surname": "Sanders",
@@ -13955,8 +14325,8 @@
    "burial_place": "New Hope Baptist Church Cemetery, Oak Grove, Jones County, Mississippi, United States"
   },
   {
-   "id": "I29333476357",
-   "name": "J P Sanders",
+   "id": "I29333121484",
+   "name": "Henry Clyde Sanders",
    "surname": "Sanders",
    "living": false,
    "line": "Thorough Good Sanders",
@@ -13965,19 +14335,45 @@
    ],
    "father": "I18109010294",
    "mother": "I29333121360",
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "I29338000126",
+    "I29338000127",
+    "I29338000128"
+   ],
+   "children": [
+    "I29338000129",
+    "I29338000130",
+    "I29338000131",
+    "I29338000132"
+   ],
    "sex": "M",
-   "birth_date": "abt 1909",
-   "birth_md": null,
-   "birth_place": "Florida",
-   "birth_year": 1909,
-   "death_date": null,
-   "death_md": null,
-   "death_place": null,
-   "death_year": null,
+   "birth_date": "24 Apr 1918",
+   "birth_md": "04-24",
+   "birth_place": "Escambia, Florida, USA",
+   "birth_year": 1918,
+   "death_date": "2 Sep 1979",
+   "death_md": "09-02",
+   "death_place": "Pasco, Florida, USA",
+   "death_year": 1979,
    "burial_date": null,
    "burial_place": null
+  },
+  {
+   "id": "I29338000131",
+   "name": "Iris Jean Sanders",
+   "surname": "Sanders",
+   "living": true,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": "I29333121484",
+   "mother": "I29338000128",
+   "spouses": [
+    "I29338000135",
+    "I29338000136"
+   ],
+   "children": []
   },
   {
    "id": "I29337205415",
@@ -13992,6 +14388,40 @@
    "mother": "I29337205282",
    "spouses": [],
    "children": []
+  },
+  {
+   "id": "I29333476357",
+   "name": "James Pearson Sanders",
+   "surname": "Sanders",
+   "living": false,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": "I18109010294",
+   "mother": "I29333121360",
+   "spouses": [
+    "I29338000110",
+    "I29338000111"
+   ],
+   "children": [
+    "I29338000112",
+    "I29338000113",
+    "I29338000114",
+    "I29338000115",
+    "I29338000116"
+   ],
+   "sex": "M",
+   "birth_date": "7 Dec 1908",
+   "birth_md": "12-07",
+   "birth_place": "Pensacola, Escambia, Florida, USA",
+   "birth_year": 1908,
+   "death_date": "10 Jul 1970",
+   "death_md": "07-10",
+   "death_place": "Duval, Florida, USA",
+   "death_year": 1970,
+   "burial_date": null,
+   "burial_place": "Riverside Memorial Park, Jacksonville, Duval, Florida, USA"
   },
   {
    "id": "I29337205367",
@@ -14044,6 +14474,31 @@
    "death_year": 1917,
    "burial_date": "after 27 Sep 1917",
    "burial_place": "Richton , Perry County, Mississippi"
+  },
+  {
+   "id": "I29338000116",
+   "name": "Jeri Sanders",
+   "surname": "Sanders",
+   "living": false,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": "I29333476357",
+   "mother": "I29338000111",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": null,
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": null,
+   "death_date": "Bef Jan 2024",
+   "death_md": null,
+   "death_place": null,
+   "death_year": 2024,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I252465971471",
@@ -14434,6 +14889,36 @@
    ]
   },
   {
+   "id": "I250159783908",
+   "name": "Larry Eugene Sanders",
+   "surname": "Sanders",
+   "living": false,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": "I29333121520",
+   "mother": "I29338000117",
+   "spouses": [
+    "I29338000119",
+    "I29338000120"
+   ],
+   "children": [
+    "I29338000121"
+   ],
+   "sex": "M",
+   "birth_date": "10 Nov 1946",
+   "birth_md": "11-10",
+   "birth_place": "Florida, USA",
+   "birth_year": 1946,
+   "death_date": "4 Sep 1986",
+   "death_md": "09-04",
+   "death_place": null,
+   "death_year": 1986,
+   "burial_date": null,
+   "burial_place": "Memory Gardens of Fairhope, Fairhope, Baldwin, Alabama, USA"
+  },
+  {
    "id": "I29337205589",
    "name": "Laura Michelle Sanders",
    "surname": "Sanders",
@@ -14492,7 +14977,7 @@
   },
   {
    "id": "I29333121520",
-   "name": "Leonard Sanders",
+   "name": "Leonard Eugene Sanders",
    "surname": "Sanders",
    "living": false,
    "line": "Thorough Good Sanders",
@@ -14501,36 +14986,25 @@
    ],
    "father": "I18109010294",
    "mother": "I29333121360",
-   "spouses": [],
+   "spouses": [
+    "I29338000117",
+    "I29338000118"
+   ],
    "children": [
     "I250159783967",
     "I250159783908"
    ],
    "sex": "M",
-   "birth_date": "abt 1920",
-   "birth_md": null,
-   "birth_place": "Florida",
+   "birth_date": "27 May 1920",
+   "birth_md": "05-27",
+   "birth_place": "Gull Point, Escambia, Florida, USA",
    "birth_year": 1920,
-   "death_date": null,
-   "death_md": null,
-   "death_place": null,
-   "death_year": null,
+   "death_date": "27 Jun 1993",
+   "death_md": "06-27",
+   "death_place": "Duval, Florida, USA",
+   "death_year": 1993,
    "burial_date": null,
-   "burial_place": null
-  },
-  {
-   "id": "I250159783908",
-   "name": "Leonard Sanders",
-   "surname": "Sanders",
-   "living": true,
-   "line": "Thorough Good Sanders",
-   "lines": [
-    "Thorough Good Sanders"
-   ],
-   "father": "I29333121520",
-   "mother": null,
-   "spouses": [],
-   "children": []
+   "burial_place": "Post Oak Cemetery, Ozark, Dale, Alabama, USA"
   },
   {
    "id": "I250159497721",
@@ -14882,31 +15356,6 @@
    ]
   },
   {
-   "id": "I29333121470",
-   "name": "Reuben Sanders",
-   "surname": "Sanders",
-   "living": false,
-   "line": "Thorough Good Sanders",
-   "lines": [
-    "Thorough Good Sanders"
-   ],
-   "father": "I18109010294",
-   "mother": "I29333121360",
-   "spouses": [],
-   "children": [],
-   "sex": "M",
-   "birth_date": "abt 1908",
-   "birth_md": null,
-   "birth_place": "Florida",
-   "birth_year": 1908,
-   "death_date": null,
-   "death_md": null,
-   "death_place": null,
-   "death_year": null,
-   "burial_date": null,
-   "burial_place": null
-  },
-  {
    "id": "I18109010289",
    "name": "Richard Eugene Sanders",
    "surname": "Sanders",
@@ -14944,6 +15393,47 @@
    "death_md": "05-29",
    "death_place": "Richton, Perry, Mississippi, USA",
    "death_year": 1943,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000132",
+   "name": "Rita Meletha Sanders",
+   "surname": "Sanders",
+   "living": true,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": "I29333121484",
+   "mother": "I29338000128",
+   "spouses": [
+    "I29338000137"
+   ],
+   "children": []
+  },
+  {
+   "id": "I29338000114",
+   "name": "Robert T Sanders",
+   "surname": "Sanders",
+   "living": false,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": "I29333476357",
+   "mother": "I29338000111",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "abt 1945",
+   "birth_md": null,
+   "birth_place": "Florida, USA",
+   "birth_year": 1945,
+   "death_date": "Jan 2024",
+   "death_md": null,
+   "death_place": "Jacksonville, Duval, Florida, USA",
+   "death_year": 2024,
    "burial_date": null,
    "burial_place": null
   },
@@ -15050,6 +15540,39 @@
    "death_year": 1993,
    "burial_date": null,
    "burial_place": null
+  },
+  {
+   "id": "I29333121470",
+   "name": "Ruben Myzer Sanders",
+   "surname": "Sanders",
+   "living": false,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": "I18109010294",
+   "mother": "I29333121360",
+   "spouses": [
+    "I29338000104"
+   ],
+   "children": [
+    "I29338000105",
+    "I29338000106",
+    "I29338000107",
+    "I29338000108",
+    "I29338000109"
+   ],
+   "sex": "M",
+   "birth_date": "13 Feb 1907",
+   "birth_md": "02-13",
+   "birth_place": "Florida, USA",
+   "birth_year": 1907,
+   "death_date": "8 Feb 1974",
+   "death_md": "02-08",
+   "death_place": "Putnam, Florida, USA",
+   "death_year": 1974,
+   "burial_date": null,
+   "burial_place": "Riverside Memorial Park, Jacksonville, Duval, Florida, USA"
   },
   {
    "id": "I29333255682",
@@ -15226,6 +15749,20 @@
    "children": []
   },
   {
+   "id": "I29338000115",
+   "name": "Terry L Sanders",
+   "surname": "Sanders",
+   "living": true,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": "I29333476357",
+   "mother": "I29338000111",
+   "spouses": [],
+   "children": []
+  },
+  {
    "id": "I18109010292",
    "name": "Thomas Barton Sanders",
    "surname": "Sanders",
@@ -15372,6 +15909,31 @@
    "children": []
   },
   {
+   "id": "I29338000109",
+   "name": "Wendell Delano Sanders",
+   "surname": "Sanders",
+   "living": false,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": "I29333121470",
+   "mother": "I29338000104",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "24 Sep 1941",
+   "birth_md": "09-24",
+   "birth_place": "Pensacola, Escambia, Florida, USA",
+   "birth_year": 1941,
+   "death_date": "17 Mar 2000",
+   "death_md": "03-17",
+   "death_place": null,
+   "death_year": 2000,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
    "id": "I18109010274",
    "name": "William Abner Sanders",
    "surname": "Sanders",
@@ -15494,6 +16056,20 @@
    "burial_place": null
   },
   {
+   "id": "I29338000108",
+   "name": "Willie Ray Sanders",
+   "surname": "Sanders",
+   "living": true,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": "I29333121470",
+   "mother": "I29338000104",
+   "spouses": [],
+   "children": []
+  },
+  {
    "id": "I29333478665",
    "name": "Willis Eugene Sanders",
    "surname": "Sanders",
@@ -15517,6 +16093,72 @@
    "death_year": 1951,
    "burial_date": null,
    "burial_place": "Jay, Santa Rosa County, Florida, United States of America"
+  },
+  {
+   "id": "I29338000129",
+   "name": "Henry Clyde Sanders Jr",
+   "surname": "Sanders Jr",
+   "living": true,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": "I29333121484",
+   "mother": "I29338000128",
+   "spouses": [
+    "I29338000133"
+   ],
+   "children": []
+  },
+  {
+   "id": "I29338000112",
+   "name": "James Pearson Sanders Jr",
+   "surname": "Sanders Jr",
+   "living": false,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": "I29333476357",
+   "mother": "I29338000111",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "13 Jul 1941",
+   "birth_md": "07-13",
+   "birth_place": "Pensacola, Escambia, Florida, USA",
+   "birth_year": 1941,
+   "death_date": "25 Sep 2002",
+   "death_md": "09-25",
+   "death_place": "Jacksonville, Duval, Florida, USA",
+   "death_year": 2002,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000106",
+   "name": "Ruben Mizer Sanders Jr",
+   "surname": "Sanders Jr",
+   "living": false,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": "I29333121470",
+   "mother": "I29338000104",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "14 Mar 1931",
+   "birth_md": "03-14",
+   "birth_place": "Pace, Santa Rosa, Florida, USA",
+   "birth_year": 1931,
+   "death_date": "9 Sep 2003",
+   "death_md": "09-09",
+   "death_place": null,
+   "death_year": 2003,
+   "burial_date": null,
+   "burial_place": "Mandarin Cemetery, Jacksonville, Duval, Florida, USA"
   },
   {
    "id": "I18109010216",
@@ -16169,6 +16811,54 @@
    "burial_place": "Bagdad Historic Cemetery, Bagdad, Santa Rosa County, Florida, USA"
   },
   {
+   "id": "I29338000124",
+   "name": "Frank Strickland",
+   "surname": "Strickland",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000125"
+   ],
+   "children": [
+    "I29338000118"
+   ]
+  },
+  {
+   "id": "I29338000126",
+   "name": "Jewell Strickland",
+   "surname": "Strickland",
+   "living": true,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333121484"
+   ],
+   "children": []
+  },
+  {
+   "id": "I29338000118",
+   "name": "Louise Strickland",
+   "surname": "Strickland",
+   "living": true,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": "I29338000124",
+   "mother": "I29338000125",
+   "spouses": [
+    "I29333121520"
+   ],
+   "children": []
+  },
+  {
    "id": "I29338000103",
    "name": "Edmond B Stutts",
    "surname": "Stutts",
@@ -16634,6 +17324,22 @@
    "burial_place": null
   },
   {
+   "id": "I29338000135",
+   "name": "Terrence T Walsh",
+   "surname": "Walsh",
+   "living": true,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000131"
+   ],
+   "children": []
+  },
+  {
    "id": "I18109010221",
    "name": "Burvee Belvin Ward",
    "surname": "Ward",
@@ -17024,6 +17730,22 @@
    "death_year": 1992,
    "burial_date": null,
    "burial_place": null
+  },
+  {
+   "id": "I29338000133",
+   "name": "Carolyn L Wolfe",
+   "surname": "Wolfe",
+   "living": true,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000129"
+   ],
+   "children": []
   },
   {
    "id": "I18109010307",
