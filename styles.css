@@ -42,6 +42,9 @@ body {
   margin-top: 0.4rem;
 }
 
+.site-logo { margin: 0 auto 1rem; max-width: 300px; }
+.site-logo img { width: 100%; display: block; border-radius: 8px; }
+
 .site-title {
   font-family: "IM Fell English SC", "IM Fell English", serif;
   font-size: clamp(2.2rem, 6vw, 3.6rem);
