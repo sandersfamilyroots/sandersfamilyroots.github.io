@@ -1,9 +1,9 @@
 {
  "meta": {
   "generated_from": "Sanders-newly-revised.ged",
-  "people_count": 750,
-  "family_count": 238,
-  "living_count": 290,
+  "people_count": 762,
+  "family_count": 241,
+  "living_count": 297,
   "lines": [
    {
     "key": "jehu",
@@ -176,24 +176,6 @@
    "spouses": [],
    "children": [
     "I29333121360"
-   ]
-  },
-  {
-   "id": "I29334833656",
-   "name": "Frances",
-   "surname": "",
-   "living": true,
-   "line": "Jehu Barry Sanders",
-   "lines": [
-    "Jehu Barry Sanders"
-   ],
-   "father": null,
-   "mother": null,
-   "spouses": [
-    "I29334833281"
-   ],
-   "children": [
-    "I29334833679"
    ]
   },
   {
@@ -3526,6 +3508,33 @@
    "burial_place": "Roberts Cemetery, Pensacola, Escambia County, Florida, United States of America"
   },
   {
+   "id": "I29338000094",
+   "name": "Ruby Doss",
+   "surname": "Doss",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000093"
+   ],
+   "children": [
+    "I29333576670",
+    "I29338000096",
+    "I29338000095"
+   ],
+   "sex": "F",
+   "birth_date": "Abt. 1912",
+   "birth_place": "Alabama, United States",
+   "birth_year": 1912,
+   "death_date": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
    "id": "I18109010237",
    "name": "Isabella Dotsen",
    "surname": "Dotsen",
@@ -5857,6 +5866,7 @@
     "I18109015744"
    ],
    "children": [
+    "I29338000099",
     "I18109014901",
     "I29332970456",
     "I18109010292",
@@ -6142,8 +6152,31 @@
    "children": []
   },
   {
+   "id": "I29338000102",
+   "name": "James Mitchell Kitchens",
+   "surname": "Kitchens",
+   "living": false,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": "I29334833853",
+   "mother": "I29334833679",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "18 Jan 1987",
+   "birth_place": "Richton, Perry County, Mississippi, United States",
+   "birth_year": 1987,
+   "death_date": "20 Mar 2024",
+   "death_place": null,
+   "death_year": 2024,
+   "burial_date": null,
+   "burial_place": "Welcome Home Cemetery, Ovett, Jones County, Mississippi, United States"
+  },
+  {
    "id": "I29334833853",
-   "name": "John Kitchens",
+   "name": "John William Kitchens",
    "surname": "Kitchens",
    "living": true,
    "line": "Jehu Barry Sanders",
@@ -6158,7 +6191,8 @@
    "children": [
     "I29335030762",
     "I29335030743",
-    "I29335030729"
+    "I29335030729",
+    "I29338000102"
    ]
   },
   {
@@ -6198,13 +6232,15 @@
    "lines": [
     "Jehu Barry Sanders"
    ],
-   "father": null,
-   "mother": null,
+   "father": "I29338000093",
+   "mother": "I29338000094",
    "spouses": [
     "I29333255685"
    ],
    "children": [
-    "I250159497721"
+    "I250159497721",
+    "I29338000097",
+    "I29338000098"
    ],
    "sex": "F",
    "birth_date": "25 January 1933",
@@ -6214,7 +6250,58 @@
    "death_place": "Gardendale, Alabama, USA",
    "death_year": 2008,
    "burial_date": null,
-   "burial_place": "Hanceville, Cullman County, Alabama"
+   "burial_place": "Hopewell Cemetery, Hanceville, Cullman County, Alabama, United States"
+  },
+  {
+   "id": "I29338000096",
+   "name": "Eleanor Ruth Lake",
+   "surname": "Lake",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000093",
+   "mother": "I29338000094",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000095",
+   "name": "George Kenneth Lake",
+   "surname": "Lake",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000093",
+   "mother": "I29338000094",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000093",
+   "name": "Ollie George Lake",
+   "surname": "Lake",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000094"
+   ],
+   "children": [
+    "I29333576670",
+    "I29338000096",
+    "I29338000095"
+   ],
+   "sex": "M",
+   "birth_date": "Abt. 1896",
+   "birth_place": "Alabama, United States",
+   "birth_year": 1896,
+   "death_date": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I29334276796",
@@ -10395,6 +10482,8 @@
    "children": [
     "I29334833281",
     "I29334968734",
+    "I29338000100",
+    "I29338000101",
     "I29334833786",
     "I29334833777",
     "I29334833761"
@@ -12144,6 +12233,29 @@
    "children": []
   },
   {
+   "id": "I29338000099",
+   "name": "(Baby) Sanders",
+   "surname": "Sanders",
+   "living": false,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": "I18109014900",
+   "mother": "I18109012951",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": "2 JUN 1943",
+   "birth_place": "Yorktown, York County, Virginia, USA",
+   "birth_year": 1943,
+   "death_date": "2 JUN 1943",
+   "death_place": "Portsmouth, Virginia, USA",
+   "death_year": 1943,
+   "burial_date": "3 JUN 1943",
+   "burial_place": "Portsmouth, Virginia, USA"
+  },
+  {
    "id": "I252465971477",
    "name": "A J Sanders",
    "surname": "Sanders",
@@ -12264,6 +12376,20 @@
    "children": []
   },
   {
+   "id": "I29338000098",
+   "name": "Amy Leigh Sanders",
+   "surname": "Sanders",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": "I29333255685",
+   "mother": "I29333576670",
+   "spouses": [],
+   "children": []
+  },
+  {
    "id": "I29333255683",
    "name": "Andrew Jackson Sanders",
    "surname": "Sanders",
@@ -12346,6 +12472,20 @@
    "spouses": [
     "I29335029975"
    ],
+   "children": []
+  },
+  {
+   "id": "I29338000100",
+   "name": "Betty Sanders",
+   "surname": "Sanders",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": "I18109010282",
+   "mother": "I29333122278",
+   "spouses": [],
    "children": []
   },
   {
@@ -12786,6 +12926,7 @@
     "I18109012951"
    ],
    "children": [
+    "I29338000099",
     "I18109014901",
     "I29332970456",
     "I18109010292",
@@ -12920,7 +13061,25 @@
    "death_place": "Jones, Mississippi, United States,",
    "death_year": 1974,
    "burial_date": null,
-   "burial_place": "Oak Grove (Jones County), Jones County, Mississippi, United States of America"
+   "burial_place": "New Hope Baptist Church Cemetery, Oak Grove, Jones County, Mississippi, United States"
+  },
+  {
+   "id": "I29334833656",
+   "name": "Frances N. Sanders",
+   "surname": "Sanders",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29334833281"
+   ],
+   "children": [
+    "I29334833679"
+   ]
   },
   {
    "id": "I29333121539",
@@ -12974,7 +13133,7 @@
    "death_place": "Moselle, Jones, Mississippi, USA",
    "death_year": 1946,
    "burial_date": null,
-   "burial_place": "Oak Grove (Jones County), Jones County, Mississippi"
+   "burial_place": "New Hope Baptist Church Cemetery, Oak Grove, Jones County, Mississippi, United States"
   },
   {
    "id": "I29335948129",
@@ -12997,7 +13156,7 @@
    "death_place": null,
    "death_year": 2012,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "New Hope Baptist Church Cemetery, Oak Grove, Jones County, Mississippi, United States"
   },
   {
    "id": "I29333476357",
@@ -13178,7 +13337,9 @@
     "I29333576670"
    ],
    "children": [
-    "I250159497721"
+    "I250159497721",
+    "I29338000097",
+    "I29338000098"
    ],
    "sex": "M",
    "birth_date": "30 Dec 1931",
@@ -13218,7 +13379,7 @@
    "death_place": null,
    "death_year": 1998,
    "burial_date": null,
-   "burial_place": "Petal, Forrest County, Mississippi, United States of America"
+   "burial_place": "Forrest Memorial Gardens, Petal, Forrest County, Mississippi, United States"
   },
   {
    "id": "I18109010281",
@@ -13327,6 +13488,8 @@
    "children": [
     "I29334833281",
     "I29334968734",
+    "I29338000100",
+    "I29338000101",
     "I29334833786",
     "I29334833777",
     "I29334833761",
@@ -13553,7 +13716,7 @@
   },
   {
    "id": "I250159497721",
-   "name": "Leslie Sanders",
+   "name": "Leslie Ann Sanders",
    "surname": "Sanders",
    "living": true,
    "line": "Jehu Barry Sanders",
@@ -13725,7 +13888,8 @@
    "children": [
     "I29335030762",
     "I29335030743",
-    "I29335030729"
+    "I29335030729",
+    "I29338000102"
    ]
   },
   {
@@ -13865,7 +14029,7 @@
    "death_place": "Hattiesburg, Forrest, Mississippi",
    "death_year": 2011,
    "burial_date": null,
-   "burial_place": "Ovett, Jones County, Mississippi, United States of America"
+   "burial_place": "Welcome Home Cemetery, Ovett, Jones County, Mississippi, United States"
   },
   {
    "id": "I29334890218",
@@ -13919,7 +14083,9 @@
    ],
    "father": "I18109014900",
    "mother": "I18109012951",
-   "spouses": [],
+   "spouses": [
+    "I29338000092"
+   ],
    "children": []
   },
   {
@@ -14164,6 +14330,20 @@
    ]
   },
   {
+   "id": "I29338000097",
+   "name": "Stan K Sanders",
+   "surname": "Sanders",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": "I29333255685",
+   "mother": "I29333576670",
+   "spouses": [],
+   "children": []
+  },
+  {
    "id": "I29338000083",
    "name": "Tammy Sanders",
    "surname": "Sanders",
@@ -14254,9 +14434,9 @@
    "birth_date": "Apr 1884",
    "birth_place": "Shubuta, Clarke, Mississippi, USA",
    "birth_year": 1884,
-   "death_date": "1914",
-   "death_place": "Florida, USA",
-   "death_year": 1914,
+   "death_date": "Aft. 23 Apr 1910",
+   "death_place": null,
+   "death_year": 1910,
    "burial_date": null,
    "burial_place": null
   },
@@ -14306,6 +14486,20 @@
    ],
    "father": "I18109010282",
    "mother": null,
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000101",
+   "name": "Valarie Joe Sanders",
+   "surname": "Sanders",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": "I18109010282",
+   "mother": "I29333122278",
    "spouses": [],
    "children": []
   },
@@ -14474,7 +14668,7 @@
    "birth_date": "30 Dec 1928",
    "birth_place": "Richton, Perry, Mississippi, USA",
    "birth_year": 1928,
-   "death_date": "26 May 1989",
+   "death_date": "27 May 1989",
    "death_place": "Ontario, San Bernardino, California, USA",
    "death_year": 1989,
    "burial_date": null,
@@ -14956,6 +15150,22 @@
    ]
   },
   {
+   "id": "I29338000092",
+   "name": "Paige L Steburg",
+   "surname": "Steburg",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I18109010289"
+   ],
+   "children": []
+  },
+  {
    "id": "I29338000088",
    "name": "Bertha Stevison",
    "surname": "Stevison",
@@ -15071,6 +15281,29 @@
    "burial_place": "Bagdad Historic Cemetery, Bagdad, Santa Rosa County, Florida, USA"
   },
   {
+   "id": "I29338000103",
+   "name": "Edmond B Stutts",
+   "surname": "Stutts",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [],
+   "children": [
+    "I29335654986"
+   ],
+   "sex": "M",
+   "birth_date": "JAN 1824",
+   "birth_place": "North Carolina, United States",
+   "birth_year": 1824,
+   "death_date": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
    "id": "I29335654986",
    "name": "Mary H Stutts",
    "surname": "Stutts",
@@ -15079,7 +15312,7 @@
    "lines": [
     "George Lionel Sanders"
    ],
-   "father": null,
+   "father": "I29338000103",
    "mother": null,
    "spouses": [
     "I18109010278"
