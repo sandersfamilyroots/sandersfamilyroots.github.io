@@ -88,6 +88,48 @@
     </div>
   </section>
 
+  <section class="latest" id="born-today" hidden>
+    <h2>Born on This Day</h2>
+    <p class="born-today-date"></p>
+    <ul class="finds born-today-list"></ul>
+  </section>
+  <script>
+  (function () {
+    var now = new Date();
+    var md = String(now.getMonth() + 1).padStart(2, "0") + "-" + String(now.getDate()).padStart(2, "0");
+    var monthNames = ["January", "February", "March", "April", "May", "June", "July",
+                      "August", "September", "October", "November", "December"];
+    fetch("data/people.json")
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        var hits = data.people.filter(function (p) { return p.birth_md === md; });
+        hits.sort(function (a, b) { return (a.birth_year || 0) - (b.birth_year || 0); });
+        var sec = document.getElementById("born-today");
+        sec.querySelector(".born-today-date").textContent =
+          monthNames[now.getMonth()] + " " + now.getDate();
+        var list = sec.querySelector(".born-today-list");
+        if (!hits.length) {
+          var li = document.createElement("li");
+          li.textContent = "No one in the tree has a recorded birthday today.";
+          list.appendChild(li);
+        } else {
+          hits.forEach(function (p) {
+            var li = document.createElement("li");
+            var a = document.createElement("a");
+            a.href = "person.html?id=" + p.id;
+            a.textContent = p.name;
+            li.appendChild(a);
+            li.appendChild(document.createTextNode(
+              " \u2014 born " + p.birth_date + " \u00b7 " + p.line));
+            list.appendChild(li);
+          });
+        }
+        sec.hidden = false;
+      })
+      .catch(function () { /* leave the section hidden if the data cannot load */ });
+  })();
+  </script>
+
   <section class="latest">
     <h2>Latest Finds</h2>
     <ul class="finds">
