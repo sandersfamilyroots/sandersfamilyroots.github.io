@@ -1,8 +1,8 @@
 {
  "meta": {
   "generated_from": "Sanders-newly-revised.ged",
-  "people_count": 744,
-  "family_count": 235,
+  "people_count": 750,
+  "family_count": 238,
   "living_count": 290,
   "lines": [
    {
@@ -1379,6 +1379,22 @@
    "burial_place": null
   },
   {
+   "id": "I29338000087",
+   "name": "Betty Hancock Bates",
+   "surname": "Bates",
+   "living": true,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000086"
+   ],
+   "children": []
+  },
+  {
    "id": "I29333612145",
    "name": "eddie bates",
    "surname": "bates",
@@ -1400,6 +1416,58 @@
    "death_year": null,
    "burial_date": null,
    "burial_place": null
+  },
+  {
+   "id": "I29338000089",
+   "name": "Edward Eley Bates",
+   "surname": "Bates",
+   "living": false,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29333612146",
+   "mother": "I29338000088",
+   "spouses": [
+    "I29338000090"
+   ],
+   "children": [
+    "I29338000091"
+   ],
+   "sex": "M",
+   "birth_date": "20 DEC 1938",
+   "birth_place": "Bay St. Louis, Hancock County, Mississippi, USA",
+   "birth_year": 1938,
+   "death_date": "23 AUG 2007",
+   "death_place": null,
+   "death_year": 2007,
+   "burial_date": null,
+   "burial_place": "Bunker Hill Memorial Cemetery, Marion County, Mississippi, USA"
+  },
+  {
+   "id": "I29338000086",
+   "name": "J T Bates",
+   "surname": "Bates",
+   "living": false,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29333612146",
+   "mother": "I29338000026",
+   "spouses": [
+    "I29338000087"
+   ],
+   "children": [],
+   "sex": "M",
+   "birth_date": "16 JUN 1936",
+   "birth_place": "Mississippi, USA",
+   "birth_year": 1936,
+   "death_date": "30 OCT 1986",
+   "death_place": null,
+   "death_year": 1986,
+   "burial_date": null,
+   "burial_place": "Advance Cemetery, Lamar County, Mississippi, USA"
   },
   {
    "id": "I29333653036",
@@ -1845,6 +1913,29 @@
    "burial_place": null
   },
   {
+   "id": "I29338000091",
+   "name": "Timothy Edward Bates",
+   "surname": "Bates",
+   "living": false,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29338000089",
+   "mother": "I29338000090",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "15 MAR 1967",
+   "birth_place": null,
+   "birth_year": 1967,
+   "death_date": "7 MAY 2014",
+   "death_place": null,
+   "death_year": 2014,
+   "burial_date": null,
+   "burial_place": "Bunker Hill Memorial Cemetery, Marion County, Mississippi, USA"
+  },
+  {
    "id": "I29333612146",
    "name": "Will Eley Bates",
    "surname": "Bates",
@@ -1856,18 +1947,22 @@
    "father": "I29333255963",
    "mother": "I18109010287",
    "spouses": [
+    "I29338000088",
     "I29338000026"
    ],
-   "children": [],
+   "children": [
+    "I29338000089",
+    "I29338000086"
+   ],
    "sex": "M",
-   "birth_date": "5 June 1912",
-   "birth_place": "Mississippi, USA",
+   "birth_date": "2 JUN 1912",
+   "birth_place": "Lucedale, George County, Mississippi, USA",
    "birth_year": 1912,
-   "death_date": "29 March 1985",
-   "death_place": "Columbia, Marion, Mississippi, USA",
+   "death_date": "29 MAR 1985",
+   "death_place": "Columbia, Marion County, Mississippi, USA",
    "death_year": 1985,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Bunker Hill Memorial Cemetery, Marion County, Mississippi, USA"
   },
   {
    "id": "I29333651560",
@@ -2065,6 +2160,33 @@
    "death_year": 1822,
    "burial_date": null,
    "burial_place": null
+  },
+  {
+   "id": "I29338000090",
+   "name": "Barbara Louise Breland",
+   "surname": "Breland",
+   "living": false,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000089"
+   ],
+   "children": [
+    "I29338000091"
+   ],
+   "sex": "F",
+   "birth_date": "17 DEC 1945",
+   "birth_place": null,
+   "birth_year": 1945,
+   "death_date": "4 OCT 2009",
+   "death_place": null,
+   "death_year": 2009,
+   "burial_date": null,
+   "burial_place": "Bunker Hill Memorial Cemetery, Marion County, Mississippi, USA"
   },
   {
    "id": "I29334882410",
@@ -5234,9 +5356,9 @@
   },
   {
    "id": "I29338000026",
-   "name": "Mary Hudson",
+   "name": "Mary Lucinda Hudson",
    "surname": "Hudson",
-   "living": true,
+   "living": false,
    "line": "Lucy Ophelia Sanders",
    "lines": [
     "Lucy Ophelia Sanders"
@@ -5246,7 +5368,18 @@
    "spouses": [
     "I29333612146"
    ],
-   "children": []
+   "children": [
+    "I29338000086"
+   ],
+   "sex": "F",
+   "birth_date": "6 MAR 1918",
+   "birth_place": "Mississippi, USA",
+   "birth_year": 1918,
+   "death_date": "17 JUN 1936",
+   "death_place": "Mississippi, USA",
+   "death_year": 1936,
+   "burial_date": null,
+   "burial_place": "Advance Cemetery, Lamar County, Mississippi, USA"
   },
   {
    "id": "I29336876641",
@@ -14821,6 +14954,33 @@
    "children": [
     "I18109010301"
    ]
+  },
+  {
+   "id": "I29338000088",
+   "name": "Bertha Stevison",
+   "surname": "Stevison",
+   "living": false,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333612146"
+   ],
+   "children": [
+    "I29338000089"
+   ],
+   "sex": "F",
+   "birth_date": "Abt. 1912",
+   "birth_place": "Mississippi, USA",
+   "birth_year": 1912,
+   "death_date": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I29338000003",
