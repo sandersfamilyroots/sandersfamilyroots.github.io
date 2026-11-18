@@ -1,9 +1,9 @@
 {
  "meta": {
   "generated_from": "Sanders-newly-revised.ged",
-  "people_count": 862,
-  "family_count": 279,
-  "living_count": 363,
+  "people_count": 886,
+  "family_count": 285,
+  "living_count": 379,
   "lines": [
    {
     "key": "jehu",
@@ -639,16 +639,16 @@
     "I29338000117"
    ],
    "sex": "M",
-   "birth_date": "abt 1892",
-   "birth_md": null,
+   "birth_date": "11 JUL 1892",
+   "birth_md": "07-11",
    "birth_place": "Alabama, USA",
    "birth_year": 1892,
-   "death_date": null,
-   "death_md": null,
+   "death_date": "15 DEC 1969",
+   "death_md": "12-15",
    "death_place": null,
-   "death_year": null,
+   "death_year": 1969,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Post Oak Cemetery, Ozark, Dale, Alabama, USA"
   },
   {
    "id": "I29338000117",
@@ -1143,12 +1143,12 @@
    "birth_md": null,
    "birth_place": "Mississippi, United States",
    "birth_year": 1853,
-   "death_date": null,
-   "death_md": null,
+   "death_date": "4 AUG 1900",
+   "death_md": "08-04",
    "death_place": null,
-   "death_year": null,
+   "death_year": 1900,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Tyro Cemetery, Tate County, Mississippi"
   },
   {
    "id": "I29335160772",
@@ -2509,6 +2509,54 @@
    ]
   },
   {
+   "id": "I29338000226",
+   "name": "Elizabeth Bridger",
+   "surname": "Bridger",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I250164941085",
+   "mother": "I250164941102",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000225",
+   "name": "Hester Bridger",
+   "surname": "Bridger",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I250164941085",
+   "mother": "I250164941102",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000224",
+   "name": "James Bridger",
+   "surname": "Bridger",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I250164941085",
+   "mother": "I250164941102",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000223",
+   "name": "John Bridger",
+   "surname": "Bridger",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I250164941085",
+   "mother": "I250164941102",
+   "spouses": [],
+   "children": []
+  },
+  {
    "id": "I250164941085",
    "name": "Joseph Bridger",
    "surname": "Bridger",
@@ -2521,17 +2569,23 @@
     "I250164941102"
    ],
    "children": [
-    "I250164941047"
+    "I250164941047",
+    "I29338000221",
+    "I29338000222",
+    "I29338000223",
+    "I29338000224",
+    "I29338000225",
+    "I29338000226"
    ],
    "sex": "M",
    "birth_date": "1656",
    "birth_md": null,
    "birth_place": "VA",
    "birth_year": 1656,
-   "death_date": null,
+   "death_date": "BEF 25 JUN 1713",
    "death_md": null,
-   "death_place": null,
-   "death_year": null,
+   "death_place": "Isle of Wight County, Virginia",
+   "death_year": 1713,
    "burial_date": null,
    "burial_place": null
   },
@@ -2561,6 +2615,18 @@
    "death_year": 1686,
    "burial_date": null,
    "burial_place": null
+  },
+  {
+   "id": "I29338000221",
+   "name": "Joseph Bridger",
+   "surname": "Bridger",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I250164941085",
+   "mother": "I250164941102",
+   "spouses": [],
+   "children": []
   },
   {
    "id": "I250164941008",
@@ -2620,6 +2686,18 @@
    "children": [
     "I250164941243"
    ]
+  },
+  {
+   "id": "I29338000222",
+   "name": "William Bridger",
+   "surname": "Bridger",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I250164941085",
+   "mother": "I250164941102",
+   "spouses": [],
+   "children": []
   },
   {
    "id": "I29338000017",
@@ -3222,6 +3300,31 @@
    ]
   },
   {
+   "id": "I29338000206",
+   "name": "Arsand Clifton",
+   "surname": "Clifton",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333655385"
+   ],
+   "children": [],
+   "sex": "M",
+   "birth_date": "31 AUG 1902",
+   "birth_md": "08-31",
+   "birth_place": null,
+   "birth_year": 1902,
+   "death_date": "31 MAY 1991",
+   "death_md": "05-31",
+   "death_place": null,
+   "death_year": 1991,
+   "burial_date": null,
+   "burial_place": "Corinth Cemetery, Wayne County, Mississippi"
+  },
+  {
    "id": "I250164117449",
    "name": "Sarah Clough",
    "surname": "Clough",
@@ -3807,10 +3910,10 @@
    "birth_md": "01-30",
    "birth_place": null,
    "birth_year": 1913,
-   "death_date": null,
-   "death_md": null,
+   "death_date": "6 FEB 1979",
+   "death_md": "02-06",
    "death_place": null,
-   "death_year": null,
+   "death_year": 1979,
    "burial_date": null,
    "burial_place": "Neely Cemetery (Washington Cemetery), Neely, Greene County, Mississippi, USA"
   },
@@ -3959,16 +4062,16 @@
     "I29338000095"
    ],
    "sex": "F",
-   "birth_date": "Abt. 1912",
-   "birth_md": null,
+   "birth_date": "9 AUG 1911",
+   "birth_md": "08-09",
    "birth_place": "Alabama, United States",
-   "birth_year": 1912,
-   "death_date": null,
-   "death_md": null,
+   "birth_year": 1911,
+   "death_date": "21 JUL 1987",
+   "death_md": "07-21",
    "death_place": null,
-   "death_year": null,
+   "death_year": 1987,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Hopewell Cemetery, Hanceville, Cullman County, Alabama, United States"
   },
   {
    "id": "I18109010237",
@@ -4200,29 +4303,6 @@
    "death_md": null,
    "death_place": "Marksville, Louisiana, United States, Battle of Yellow Bayou, Co F, 11th Tx Inf",
    "death_year": 1864,
-   "burial_date": null,
-   "burial_place": null
-  },
-  {
-   "id": "I29333579788",
-   "name": "Benny Everett",
-   "surname": "Everett",
-   "living": false,
-   "line": "Connected family",
-   "lines": [],
-   "father": "I29333578389",
-   "mother": "I29333579771",
-   "spouses": [],
-   "children": [],
-   "sex": "M",
-   "birth_date": "abt 1879",
-   "birth_md": null,
-   "birth_place": "Texas",
-   "birth_year": 1879,
-   "death_date": null,
-   "death_md": null,
-   "death_place": null,
-   "death_year": null,
    "burial_date": null,
    "burial_place": null
   },
@@ -4466,6 +4546,29 @@
    "burial_place": null
   },
   {
+   "id": "I29333579788",
+   "name": "Benjamin Ellis Everitt",
+   "surname": "Everitt",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29333578389",
+   "mother": "I29333579771",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "30 JUN 1879",
+   "birth_md": "06-30",
+   "birth_place": "Texas",
+   "birth_year": 1879,
+   "death_date": "5 DEC 1935",
+   "death_md": "12-05",
+   "death_place": "Evergreen, San Jacinto County, Texas",
+   "death_year": 1935,
+   "burial_date": null,
+   "burial_place": "Magnolia Cemetery, San Jacinto County, Texas"
+  },
+  {
    "id": "I29333579783",
    "name": "Charles Henry Everitt",
    "surname": "Everitt",
@@ -4679,7 +4782,10 @@
     "I18109010294",
     "I18109010287",
     "I18109010278",
-    "I18109010293"
+    "I18109010293",
+    "I29338000227",
+    "I29338000228",
+    "I29338000229"
    ],
    "sex": "F",
    "birth_date": "NOV 1841",
@@ -5504,7 +5610,7 @@
    "id": "I29338000123",
    "name": "Carrie Ellis Guilford",
    "surname": "Guilford",
-   "living": true,
+   "living": false,
    "line": "Connected family",
    "lines": [],
    "father": null,
@@ -5514,7 +5620,18 @@
    ],
    "children": [
     "I29338000117"
-   ]
+   ],
+   "sex": "F",
+   "birth_date": "5 SEP 1898",
+   "birth_md": "09-05",
+   "birth_place": null,
+   "birth_year": 1898,
+   "death_date": "7 SEP 1963",
+   "death_md": "09-07",
+   "death_place": null,
+   "death_year": 1963,
+   "burial_date": null,
+   "burial_place": "Post Oak Cemetery, Ozark, Dale, Alabama, USA"
   },
   {
    "id": "I18109012452",
@@ -6139,6 +6256,84 @@
    "burial_place": "Pilgrim Cemetery, Jones County, Mississippi"
   },
   {
+   "id": "I29338000217",
+   "name": "Hannah Hopkinson",
+   "surname": "Hopkinson",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000213",
+   "mother": "I29333263034",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000213",
+   "name": "Joses Hopkinson",
+   "surname": "Hopkinson",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333263034"
+   ],
+   "children": [
+    "I29338000214",
+    "I29338000215",
+    "I29338000216",
+    "I29338000217"
+   ],
+   "sex": "M",
+   "birth_date": null,
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": null,
+   "death_date": "BEF 6 DEC 1815",
+   "death_md": null,
+   "death_place": null,
+   "death_year": 1815,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000216",
+   "name": "Molly Hopkinson",
+   "surname": "Hopkinson",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000213",
+   "mother": "I29333263034",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000214",
+   "name": "Sarah Hopkinson",
+   "surname": "Hopkinson",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000213",
+   "mother": "I29333263034",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000215",
+   "name": "William Hopkinson",
+   "surname": "Hopkinson",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000213",
+   "mother": "I29333263034",
+   "spouses": [],
+   "children": []
+  },
+  {
    "id": "I29335086340",
    "name": "David M Howton",
    "surname": "Howton",
@@ -6227,6 +6422,40 @@
    "children": [
     "I29338000198"
    ]
+  },
+  {
+   "id": "I29334276321",
+   "name": "Permelia W. Huston",
+   "surname": "Huston",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29334276320"
+   ],
+   "children": [
+    "I29334276322",
+    "I29334276485",
+    "I18109010273",
+    "I29334276323",
+    "I29334276324",
+    "I29334276484",
+    "I29334276325",
+    "I29334276326"
+   ],
+   "sex": "F",
+   "birth_date": "abt 1841",
+   "birth_md": null,
+   "birth_place": "Maine",
+   "birth_year": 1841,
+   "death_date": "6 Nov 1909",
+   "death_md": "11-06",
+   "death_place": "Yarmouth, Cumberland, Maine, USA",
+   "death_year": 1909,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I29338000161",
@@ -8314,6 +8543,29 @@
    "burial_place": null
   },
   {
+   "id": "I29338000212",
+   "name": "Doris A. Mayberry",
+   "surname": "Mayberry",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29334277072",
+   "mother": "I29338000211",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": "ABT 29 JUN 1903",
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": 1903,
+   "death_date": "4 MAY 1909",
+   "death_md": "05-04",
+   "death_place": "South Windham, Maine",
+   "death_year": 1909,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
    "id": "I29334277070",
    "name": "Florina Willis Mayberry",
    "surname": "Mayberry",
@@ -8483,40 +8735,6 @@
    "burial_place": null
   },
   {
-   "id": "I29334276321",
-   "name": "Permilea W. Mayberry",
-   "surname": "Mayberry",
-   "living": false,
-   "line": "Connected family",
-   "lines": [],
-   "father": null,
-   "mother": null,
-   "spouses": [
-    "I29334276320"
-   ],
-   "children": [
-    "I29334276322",
-    "I29334276485",
-    "I18109010273",
-    "I29334276323",
-    "I29334276324",
-    "I29334276484",
-    "I29334276325",
-    "I29334276326"
-   ],
-   "sex": "F",
-   "birth_date": "abt 1841",
-   "birth_md": null,
-   "birth_place": "Maine",
-   "birth_year": 1841,
-   "death_date": "6 Nov 1909",
-   "death_md": "11-06",
-   "death_place": "Yarmouth, Cumberland, Maine, USA",
-   "death_year": 1909,
-   "burial_date": null,
-   "burial_place": null
-  },
-  {
    "id": "I29334276638",
    "name": "Sarah J. Mayberry",
    "surname": "Mayberry",
@@ -8640,7 +8858,9 @@
    "lines": [],
    "father": "I29334276320",
    "mother": "I29334276321",
-   "spouses": [],
+   "spouses": [
+    "I29338000210"
+   ],
    "children": [],
    "sex": "F",
    "birth_date": "1869",
@@ -8663,8 +8883,12 @@
    "lines": [],
    "father": "I29334276634",
    "mother": "I29334277069",
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "I29338000211"
+   ],
+   "children": [
+    "I29338000212"
+   ],
    "sex": "M",
    "birth_date": "18 May 1868",
    "birth_md": "05-18",
@@ -10845,17 +11069,24 @@
    "lines": [],
    "father": "I29333263024",
    "mother": "I29333263025",
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "I29338000213"
+   ],
+   "children": [
+    "I29338000214",
+    "I29338000215",
+    "I29338000216",
+    "I29338000217"
+   ],
    "sex": "F",
    "birth_date": "1757",
    "birth_md": null,
    "birth_place": null,
    "birth_year": 1757,
-   "death_date": null,
-   "death_md": null,
-   "death_place": null,
-   "death_year": null,
+   "death_date": "6 DEC 1815",
+   "death_md": "12-06",
+   "death_place": "Buxton, York County, Maine",
+   "death_year": 1815,
    "burial_date": null,
    "burial_place": null
   },
@@ -11072,17 +11303,21 @@
    "lines": [],
    "father": "I250164117400",
    "mother": "I250164117449",
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "I29338000218"
+   ],
+   "children": [
+    "I29338000219"
+   ],
    "sex": "F",
    "birth_date": "3 Sep 1683",
    "birth_md": "09-03",
    "birth_place": "Newbury",
    "birth_year": 1683,
-   "death_date": null,
-   "death_md": null,
-   "death_place": null,
-   "death_year": null,
+   "death_date": "19 NOV 1754",
+   "death_md": "11-19",
+   "death_place": "Salisbury, Essex County, Massachusetts",
+   "death_year": 1754,
    "burial_date": null,
    "burial_place": null
   },
@@ -11330,17 +11565,19 @@
    "lines": [],
    "father": "I250164117400",
    "mother": "I250164117449",
-   "spouses": [],
+   "spouses": [
+    "I29338000220"
+   ],
    "children": [],
    "sex": "F",
    "birth_date": "15 Oct 1677",
    "birth_md": "10-15",
    "birth_place": "Newbury",
    "birth_year": 1677,
-   "death_date": null,
-   "death_md": null,
-   "death_place": null,
-   "death_year": null,
+   "death_date": "20 NOV 1750",
+   "death_md": "11-20",
+   "death_place": "Newbury, Essex County, Massachusetts",
+   "death_year": 1750,
    "burial_date": null,
    "burial_place": null
   },
@@ -11695,12 +11932,12 @@
    "birth_md": null,
    "birth_place": "Nebraska",
    "birth_year": 1886,
-   "death_date": null,
+   "death_date": "1970",
    "death_md": null,
    "death_place": null,
-   "death_year": null,
+   "death_year": 1970,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Ashland Cemetery, Ashland, Saunders County, Nebraska"
   },
   {
    "id": "I29338000009",
@@ -11827,6 +12064,47 @@
    "children": [
     "I29338000149"
    ]
+  },
+  {
+   "id": "I29338000211",
+   "name": "Cora C. Morse",
+   "surname": "Morse",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29334277072"
+   ],
+   "children": [
+    "I29338000212"
+   ]
+  },
+  {
+   "id": "I29338000220",
+   "name": "William Morse",
+   "surname": "Morse",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I250164117455"
+   ],
+   "children": [],
+   "sex": "M",
+   "birth_date": "23 JAN 1674",
+   "birth_md": "01-23",
+   "birth_place": "Newbury, Essex County, Massachusetts",
+   "birth_year": 1674,
+   "death_date": "10 MAY 1749",
+   "death_md": "05-10",
+   "death_place": "Newbury, Essex County, Massachusetts",
+   "death_year": 1749,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I29335160611",
@@ -12048,7 +12326,7 @@
    "death_place": "Escambia, Florida, United States",
    "death_year": 1981,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Roberts Cemetery, Pensacola, Escambia County, Florida"
   },
   {
    "id": "I29333477264",
@@ -12066,12 +12344,12 @@
    "birth_md": null,
    "birth_place": "Florida",
    "birth_year": 1914,
-   "death_date": null,
-   "death_md": null,
-   "death_place": null,
-   "death_year": null,
+   "death_date": "9 FEB 1981",
+   "death_md": "02-09",
+   "death_place": "Escambia County, Florida",
+   "death_year": 1981,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Roberts Cemetery, Pensacola, Escambia County, Florida"
   },
   {
    "id": "I29333121715",
@@ -12264,12 +12542,12 @@
    "birth_md": null,
    "birth_place": "Florida",
    "birth_year": 1875,
-   "death_date": null,
-   "death_md": null,
+   "death_date": "16 MAR 1936",
+   "death_md": "03-16",
    "death_place": null,
-   "death_year": null,
+   "death_year": 1936,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Roberts Cemetery, Pensacola, Escambia County, Florida"
   },
   {
    "id": "I29335293722",
@@ -12297,7 +12575,7 @@
    "death_place": ", Escambia, Florida, USA",
    "death_year": 1936,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Roberts Cemetery, Pensacola, Escambia County, Florida"
   },
   {
    "id": "I29333477267",
@@ -12481,17 +12759,23 @@
     "I250164941085"
    ],
    "children": [
-    "I250164941047"
+    "I250164941047",
+    "I29338000221",
+    "I29338000222",
+    "I29338000223",
+    "I29338000224",
+    "I29338000225",
+    "I29338000226"
    ],
    "sex": "F",
    "birth_date": "1656",
    "birth_md": null,
    "birth_place": "VA",
    "birth_year": 1656,
-   "death_date": null,
+   "death_date": "BET 14 DEC 1727 AND 22 JAN 1728",
    "death_md": null,
-   "death_place": null,
-   "death_year": null,
+   "death_place": "Isle of Wight County, Virginia",
+   "death_year": 1727,
    "burial_date": null,
    "burial_place": null
   },
@@ -13048,10 +13332,10 @@
    "birth_md": null,
    "birth_place": null,
    "birth_year": 1660,
-   "death_date": null,
+   "death_date": "1711",
    "death_md": null,
-   "death_place": null,
-   "death_year": null,
+   "death_place": "Isle of Wight County, Virginia",
+   "death_year": 1711,
    "burial_date": null,
    "burial_place": null
   },
@@ -14062,6 +14346,31 @@
    "children": []
   },
   {
+   "id": "I29338000210",
+   "name": "Edward O. Russell",
+   "surname": "Russell",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29334276484"
+   ],
+   "children": [],
+   "sex": "M",
+   "birth_date": "6 APR 1866",
+   "birth_md": "04-06",
+   "birth_place": "Yarmouth, Maine",
+   "birth_year": 1866,
+   "death_date": "27 JAN 1913",
+   "death_md": "01-27",
+   "death_place": "Portland, Maine",
+   "death_year": 1913,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
    "id": "I29338000175",
    "name": "Alice Stacey Sanchez",
    "surname": "Sanchez",
@@ -14103,6 +14412,42 @@
    "death_year": 1943,
    "burial_date": "3 JUN 1943",
    "burial_place": "Portsmouth, Virginia, USA"
+  },
+  {
+   "id": "I29338000227",
+   "name": "(Unnamed) Sanders",
+   "surname": "Sanders",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I18109010281",
+   "mother": "I18109010239",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000228",
+   "name": "(Unnamed) Sanders",
+   "surname": "Sanders",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I18109010281",
+   "mother": "I18109010239",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000229",
+   "name": "(Unnamed) Sanders",
+   "surname": "Sanders",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I18109010281",
+   "mother": "I18109010239",
+   "spouses": [],
+   "children": []
   },
   {
    "id": "I29333412910",
@@ -15582,7 +15927,10 @@
     "I18109010294",
     "I18109010287",
     "I18109010278",
-    "I18109010293"
+    "I18109010293",
+    "I29338000227",
+    "I29338000228",
+    "I29338000229"
    ],
    "sex": "M",
    "birth_date": "01 Jun 1831",
@@ -17919,16 +18267,16 @@
     "I29338000089"
    ],
    "sex": "F",
-   "birth_date": "Abt. 1912",
-   "birth_md": null,
+   "birth_date": "26 FEB 1912",
+   "birth_md": "02-26",
    "birth_place": "Mississippi, USA",
    "birth_year": 1912,
-   "death_date": null,
-   "death_md": null,
-   "death_place": null,
-   "death_year": null,
+   "death_date": "22 FEB 1999",
+   "death_md": "02-22",
+   "death_place": "Petal, Mississippi",
+   "death_year": 1999,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Forrest Memorial Gardens, Petal, Mississippi"
   },
   {
    "id": "I29338000003",
@@ -18211,6 +18559,56 @@
    "burial_place": "Magnolia , San Jacinto County, Texas"
   },
   {
+   "id": "I29338000219",
+   "name": "Ann True",
+   "surname": "True",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000218",
+   "mother": "I250164117461",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": null,
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": null,
+   "death_date": "24 MAY 1713",
+   "death_md": "05-24",
+   "death_place": "Salisbury, Essex County, Massachusetts",
+   "death_year": 1713,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000218",
+   "name": "John True",
+   "surname": "True",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I250164117461"
+   ],
+   "children": [
+    "I29338000219"
+   ],
+   "sex": "M",
+   "birth_date": "23 FEB 1679",
+   "birth_md": "02-23",
+   "birth_place": "Salisbury, Essex County, Massachusetts",
+   "birth_year": 1679,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
    "id": "I29334277803",
    "name": "Polly (Mary) TUFTS",
    "surname": "TUFTS",
@@ -18371,7 +18769,7 @@
   },
   {
    "id": "I29333655382",
-   "name": "Ben T Walley",
+   "name": "Benjamin Thomas Walley",
    "surname": "Walley",
    "living": false,
    "line": "Connected family",
@@ -18381,16 +18779,16 @@
    "spouses": [],
    "children": [],
    "sex": "M",
-   "birth_date": "abt 1897",
-   "birth_md": null,
+   "birth_date": "25 FEB 1896",
+   "birth_md": "02-25",
    "birth_place": "Mississippi",
-   "birth_year": 1897,
-   "death_date": null,
-   "death_md": null,
+   "birth_year": 1896,
+   "death_date": "10 MAR 1983",
+   "death_md": "03-10",
    "death_place": null,
-   "death_year": null,
+   "death_year": 1983,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Corinth Cemetery, Wayne County, Mississippi"
   },
   {
    "id": "I29333651558",
@@ -18434,19 +18832,21 @@
    "lines": [],
    "father": "I29333655380",
    "mother": "I29333655381",
-   "spouses": [],
+   "spouses": [
+    "I29338000206"
+   ],
    "children": [],
    "sex": "F",
-   "birth_date": "abt 1913",
-   "birth_md": null,
+   "birth_date": "20 MAR 1911",
+   "birth_md": "03-20",
    "birth_place": "Mississippi",
-   "birth_year": 1913,
-   "death_date": null,
-   "death_md": null,
+   "birth_year": 1911,
+   "death_date": "20 OCT 2003",
+   "death_md": "10-20",
    "death_place": null,
-   "death_year": null,
+   "death_year": 2003,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Corinth Cemetery, Wayne County, Mississippi"
   },
   {
    "id": "I29333655384",
@@ -18506,16 +18906,16 @@
    "spouses": [],
    "children": [],
    "sex": "M",
-   "birth_date": "abt 1915",
-   "birth_md": null,
+   "birth_date": "24 NOV 1914",
+   "birth_md": "11-24",
    "birth_place": "Mississippi",
-   "birth_year": 1915,
-   "death_date": null,
-   "death_md": null,
+   "birth_year": 1914,
+   "death_date": "7 JUL 1991",
+   "death_md": "07-07",
    "death_place": null,
-   "death_year": null,
+   "death_year": 1991,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Corinth Cemetery, Wayne County, Mississippi"
   },
   {
    "id": "I29333655381",
@@ -18743,6 +19143,18 @@
    "burial_place": null
   },
   {
+   "id": "I29338000208",
+   "name": "Betty J. Watson",
+   "surname": "Watson",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I252465971443",
+   "mother": "I252465971444",
+   "spouses": [],
+   "children": []
+  },
+  {
    "id": "I252465971444",
    "name": "Florence Watson",
    "surname": "Watson",
@@ -18762,19 +19174,22 @@
     "I252465971448",
     "I252465971449",
     "I252465971450",
-    "I252465971451"
+    "I252465971451",
+    "I29338000207",
+    "I29338000208",
+    "I29338000209"
    ],
    "sex": "F",
-   "birth_date": "abt 1907",
-   "birth_md": null,
+   "birth_date": "15 APR 1907",
+   "birth_md": "04-15",
    "birth_place": "Mississippi",
    "birth_year": 1907,
-   "death_date": null,
-   "death_md": null,
+   "death_date": "23 APR 1945",
+   "death_md": "04-23",
    "death_place": null,
-   "death_year": null,
+   "death_year": 1945,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Elberta Public Cemetery, Baldwin County, Alabama"
   },
   {
    "id": "I252465971451",
@@ -18803,6 +19218,18 @@
   {
    "id": "I252465971446",
    "name": "John Edward Watson",
+   "surname": "Watson",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I252465971443",
+   "mother": "I252465971444",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000209",
+   "name": "Joyce L. Watson",
    "surname": "Watson",
    "living": true,
    "line": "Connected family",
@@ -18846,7 +19273,10 @@
     "I252465971448",
     "I252465971449",
     "I252465971450",
-    "I252465971451"
+    "I252465971451",
+    "I29338000207",
+    "I29338000208",
+    "I29338000209"
    ],
    "sex": "M",
    "birth_date": "abt 1895",
@@ -18859,6 +19289,18 @@
    "death_year": null,
    "burial_date": null,
    "burial_place": null
+  },
+  {
+   "id": "I29338000207",
+   "name": "Mary E. Watson",
+   "surname": "Watson",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I252465971443",
+   "mother": "I252465971444",
+   "spouses": [],
+   "children": []
   },
   {
    "id": "I252465971447",
