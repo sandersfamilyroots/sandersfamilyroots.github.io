@@ -1,9 +1,9 @@
 {
  "meta": {
   "generated_from": "Sanders-newly-revised.ged",
-  "people_count": 901,
-  "family_count": 294,
-  "living_count": 385,
+  "people_count": 903,
+  "family_count": 295,
+  "living_count": 386,
   "lines": [
    {
     "key": "jehu",
@@ -5731,6 +5731,22 @@
    "burial_place": null
   },
   {
+   "id": "I29338000247",
+   "name": "Joseph Lionel Grenier",
+   "surname": "Grenier",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000248"
+   ],
+   "children": [
+    "I252465971454"
+   ]
+  },
+  {
    "id": "I29338000241",
    "name": "Joshua Grenier",
    "surname": "Grenier",
@@ -5748,13 +5764,13 @@
    "id": "I252465971454",
    "name": "Leonard G. Grenier",
    "surname": "Grenier",
-   "living": true,
+   "living": false,
    "line": "Jehu Barry Sanders",
    "lines": [
     "Jehu Barry Sanders"
    ],
-   "father": null,
-   "mother": null,
+   "father": "I29338000247",
+   "mother": "I29338000248",
    "spouses": [
     "I252465971453"
    ],
@@ -5762,7 +5778,18 @@
     "I252465971455",
     "I252465971456",
     "I252465971457"
-   ]
+   ],
+   "sex": "M",
+   "birth_date": "4 APR 1925",
+   "birth_md": "04-04",
+   "birth_place": "Amesbury, Essex, Massachusetts, USA",
+   "birth_year": 1925,
+   "death_date": "MAY 2012",
+   "death_md": null,
+   "death_place": "Pensacola, Escambia, Florida, USA",
+   "death_year": 2012,
+   "burial_date": null,
+   "burial_place": "Eastern Gate Memorial Gardens, Pensacola, Escambia, Florida, USA"
   },
   {
    "id": "I252465971455",
@@ -16920,7 +16947,7 @@
    "death_place": "Pensacola, Escambia County, Florida, USA",
    "death_year": 2008,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Eastern Gate Memorial Gardens, Pensacola, Escambia, Florida, USA"
   },
   {
    "id": "I29334833281",
@@ -18887,6 +18914,22 @@
    "death_year": 1895,
    "burial_date": null,
    "burial_place": "Magnolia , San Jacinto County, Texas"
+  },
+  {
+   "id": "I29338000248",
+   "name": "Elizabeth Catherine Trotter",
+   "surname": "Trotter",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000247"
+   ],
+   "children": [
+    "I252465971454"
+   ]
   },
   {
    "id": "I29338000219",
