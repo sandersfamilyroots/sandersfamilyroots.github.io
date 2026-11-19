@@ -1,9 +1,9 @@
 {
  "meta": {
   "generated_from": "Sanders-newly-revised.ged",
-  "people_count": 903,
-  "family_count": 295,
-  "living_count": 386,
+  "people_count": 906,
+  "family_count": 298,
+  "living_count": 387,
   "lines": [
    {
     "key": "jehu",
@@ -1188,7 +1188,7 @@
   },
   {
    "id": "I29335160772",
-   "name": "Bobby Barrington",
+   "name": "Robert John Barrington Jr.",
    "surname": "Barrington",
    "living": true,
    "line": "Jehu Barry Sanders",
@@ -5686,6 +5686,22 @@
    "children": []
   },
   {
+   "id": "I252465971455",
+   "name": "Eddie Ronald Grenier",
+   "surname": "Grenier",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": "I252465971454",
+   "mother": "I252465971453",
+   "spouses": [
+    "I29338000249"
+   ],
+   "children": []
+  },
+  {
    "id": "I252465971457",
    "name": "Jeff Grenier",
    "surname": "Grenier",
@@ -5790,20 +5806,6 @@
    "death_year": 2012,
    "burial_date": null,
    "burial_place": "Eastern Gate Memorial Gardens, Pensacola, Escambia, Florida, USA"
-  },
-  {
-   "id": "I252465971455",
-   "name": "Ron Grenier",
-   "surname": "Grenier",
-   "living": true,
-   "line": "Jehu Barry Sanders",
-   "lines": [
-    "Jehu Barry Sanders"
-   ],
-   "father": "I252465971454",
-   "mother": "I252465971453",
-   "spouses": [],
-   "children": []
   },
   {
    "id": "I18109012439",
@@ -6487,6 +6489,22 @@
    "death_year": 1850,
    "burial_date": null,
    "burial_place": null
+  },
+  {
+   "id": "I29338000250",
+   "name": "Ralph Franklin Holder",
+   "surname": "Holder",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29335160685"
+   ],
+   "children": []
   },
   {
    "id": "I252465971458",
@@ -9229,6 +9247,22 @@
    "mother": null,
    "spouses": [
     "I18109010277"
+   ],
+   "children": []
+  },
+  {
+   "id": "I29338000249",
+   "name": "Muriel McCallum",
+   "surname": "McCallum",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I252465971455"
    ],
    "children": []
   },
@@ -12400,9 +12434,9 @@
   },
   {
    "id": "I29335160611",
-   "name": "Alec Nagtalon",
+   "name": "Alex Nagtalon",
    "surname": "Nagtalon",
-   "living": true,
+   "living": false,
    "line": "Jehu Barry Sanders",
    "lines": [
     "Jehu Barry Sanders"
@@ -12413,14 +12447,38 @@
     "I18109010277"
    ],
    "children": [
-    "I29335160685"
-   ]
+    "I29335160685",
+    "I29338000251"
+   ],
+   "sex": "M",
+   "birth_date": "ABT 1910",
+   "birth_md": null,
+   "birth_place": "Philippines",
+   "birth_year": 1910,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000251",
+   "name": "Alex Nagtalon Jr.",
+   "surname": "Nagtalon",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29335160611",
+   "mother": null,
+   "spouses": [],
+   "children": []
   },
   {
    "id": "I29335160685",
-   "name": "Patricia Nagtalon",
+   "name": "Patricia Anita Nagtalon",
    "surname": "Nagtalon",
-   "living": true,
+   "living": false,
    "line": "Jehu Barry Sanders",
    "lines": [
     "Jehu Barry Sanders"
@@ -12428,9 +12486,21 @@
    "father": "I29335160611",
    "mother": "I18109010277",
    "spouses": [
-    "I29335160772"
+    "I29335160772",
+    "I29338000250"
    ],
-   "children": []
+   "children": [],
+   "sex": "F",
+   "birth_date": "30 Jul 1946",
+   "birth_md": "07-30",
+   "birth_place": "Kansas City, Jackson County, Missouri",
+   "birth_year": 1946,
+   "death_date": "9 Feb 2023",
+   "death_md": "02-09",
+   "death_place": "Pensacola, Escambia County, Florida",
+   "death_year": 2023,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I29334277381",
