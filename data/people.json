@@ -1,9 +1,9 @@
 {
  "meta": {
   "generated_from": "Sanders-newly-revised.ged",
-  "people_count": 906,
-  "family_count": 298,
-  "living_count": 387,
+  "people_count": 908,
+  "family_count": 300,
+  "living_count": 388,
   "lines": [
    {
     "key": "jehu",
@@ -7621,6 +7621,22 @@
    ]
   },
   {
+   "id": "I29338000252",
+   "name": "Alice Juanita Kennedy",
+   "surname": "Kennedy",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I18109010286"
+   ],
+   "children": []
+  },
+  {
    "id": "I29336948155",
    "name": "Alice Kennedy",
    "surname": "Kennedy",
@@ -7650,6 +7666,22 @@
    "father": "I18109010216",
    "mother": "I18109010232",
    "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000253",
+   "name": "Tina Kilburn",
+   "surname": "Kilburn",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I18109010286"
+   ],
    "children": []
   },
   {
@@ -16740,21 +16772,35 @@
   },
   {
    "id": "I18109010286",
-   "name": "Lloyd Sanders",
+   "name": "Lloyd Yvonne Sanders",
    "surname": "Sanders",
-   "living": true,
+   "living": false,
    "line": "Jehu Barry Sanders",
    "lines": [
     "Jehu Barry Sanders"
    ],
    "father": "I18109010290",
    "mother": "I18109010248",
-   "spouses": [],
+   "spouses": [
+    "I29338000252",
+    "I29338000253"
+   ],
    "children": [
     "I29334890218",
     "I29334889628",
     "I29334890194"
-   ]
+   ],
+   "sex": "M",
+   "birth_date": "30 Jul 1946",
+   "birth_md": "07-30",
+   "birth_place": "Jay, Santa Rosa, Florida, USA",
+   "birth_year": 1946,
+   "death_date": "28 NOV 2022",
+   "death_md": "11-28",
+   "death_place": "Pensacola, Escambia, Florida, USA",
+   "death_year": 2022,
+   "burial_date": null,
+   "burial_place": "Eastern Gate Memorial Gardens, Pensacola, Escambia, Florida, USA"
   },
   {
    "id": "I18109010287",
