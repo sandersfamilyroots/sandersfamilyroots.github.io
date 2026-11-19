@@ -1,9 +1,9 @@
 {
  "meta": {
   "generated_from": "Sanders-newly-revised.ged",
-  "people_count": 908,
-  "family_count": 300,
-  "living_count": 388,
+  "people_count": 917,
+  "family_count": 306,
+  "living_count": 393,
   "lines": [
    {
     "key": "jehu",
@@ -3556,7 +3556,7 @@
   },
   {
    "id": "I29338000203",
-   "name": "J. D. Collins",
+   "name": "Jude Davis Collins",
    "surname": "Collins",
    "living": true,
    "line": "Connected family",
@@ -3949,6 +3949,36 @@
    "mother": null,
    "spouses": [
     "I18109010292"
+   ],
+   "children": []
+  },
+  {
+   "id": "I29338000262",
+   "name": "Gordon Francis Davis",
+   "surname": "Davis",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29337205973"
+   ],
+   "children": [
+    "I29338000263"
+   ]
+  },
+  {
+   "id": "I29338000263",
+   "name": "Tonyia Elizabeth Davis",
+   "surname": "Davis",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000262",
+   "mother": "I29337205973",
+   "spouses": [
+    "I29338000264"
    ],
    "children": []
   },
@@ -4385,29 +4415,6 @@
    "mother": "I29338000118",
    "spouses": [],
    "children": []
-  },
-  {
-   "id": "I250154199915",
-   "name": "Bette Ann Engel",
-   "surname": "Engel",
-   "living": false,
-   "line": "Connected family",
-   "lines": [],
-   "father": "I18109010230",
-   "mother": "I250154199813",
-   "spouses": [],
-   "children": [],
-   "sex": null,
-   "birth_date": "15 July 1918",
-   "birth_md": "07-15",
-   "birth_place": null,
-   "birth_year": 1918,
-   "death_date": "22 June 1958",
-   "death_md": "06-22",
-   "death_place": null,
-   "death_year": 1958,
-   "burial_date": null,
-   "burial_place": "Harlan, Shelby County, Iowa, United States of America"
   },
   {
    "id": "I29333478763",
@@ -5750,7 +5757,7 @@
    "id": "I29338000247",
    "name": "Joseph Lionel Grenier",
    "surname": "Grenier",
-   "living": true,
+   "living": false,
    "line": "Connected family",
    "lines": [],
    "father": null,
@@ -5760,7 +5767,18 @@
    ],
    "children": [
     "I252465971454"
-   ]
+   ],
+   "sex": "M",
+   "birth_date": "14 DEC 1889",
+   "birth_md": "12-14",
+   "birth_place": "Canada",
+   "birth_year": 1889,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I29338000241",
@@ -5778,7 +5796,7 @@
   },
   {
    "id": "I252465971454",
-   "name": "Leonard G. Grenier",
+   "name": "Leonard Gerard Grenier",
    "surname": "Grenier",
    "living": false,
    "line": "Jehu Barry Sanders",
@@ -5800,8 +5818,8 @@
    "birth_md": "04-04",
    "birth_place": "Amesbury, Essex, Massachusetts, USA",
    "birth_year": 1925,
-   "death_date": "MAY 2012",
-   "death_md": null,
+   "death_date": "6 MAY 2012",
+   "death_md": "05-06",
    "death_place": "Pensacola, Escambia, Florida, USA",
    "death_year": 2012,
    "burial_date": null,
@@ -6389,6 +6407,20 @@
    "mother": null,
    "spouses": [
     "I29338000132"
+   ],
+   "children": []
+  },
+  {
+   "id": "I29338000264",
+   "name": "William Edward Henegar",
+   "surname": "Henegar",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000263"
    ],
    "children": []
   },
@@ -7070,6 +7102,20 @@
    "death_year": 1869,
    "burial_date": null,
    "burial_place": null
+  },
+  {
+   "id": "I29338000260",
+   "name": "Ruth Jones",
+   "surname": "Jones",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000259"
+   ],
+   "children": []
   },
   {
    "id": "I29334277235",
@@ -8022,9 +8068,9 @@
   },
   {
    "id": "I29337205973",
-   "name": "Lillian Lister",
+   "name": "Lillian Sara Lister",
    "surname": "Lister",
-   "living": true,
+   "living": false,
    "line": "Jehu Barry Sanders",
    "lines": [
     "Jehu Barry Sanders"
@@ -8032,9 +8078,23 @@
    "father": null,
    "mother": null,
    "spouses": [
-    "I18109010275"
+    "I18109010275",
+    "I29338000262"
    ],
-   "children": []
+   "children": [
+    "I29338000263"
+   ],
+   "sex": "F",
+   "birth_date": "ABT 1908",
+   "birth_md": null,
+   "birth_place": "Alabama, USA",
+   "birth_year": 1908,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I29334277242",
@@ -12136,7 +12196,7 @@
    "burial_place": "Wolf Ridge Cemetery (Wilson Annex), Mobile, Mobile County, Alabama, USA"
   },
   {
-   "id": "I250154199815",
+   "id": "I250154199915",
    "name": "Betty Ann Moon",
    "surname": "Moon",
    "living": false,
@@ -12147,16 +12207,16 @@
    "spouses": [],
    "children": [],
    "sex": "F",
-   "birth_date": "abt 1919",
-   "birth_md": null,
-   "birth_place": "Wyoming",
-   "birth_year": 1919,
-   "death_date": null,
-   "death_md": null,
+   "birth_date": "15 July 1918",
+   "birth_md": "07-15",
+   "birth_place": "Wyoming, USA",
+   "birth_year": 1918,
+   "death_date": "22 June 1958",
+   "death_md": "06-22",
    "death_place": null,
-   "death_year": null,
+   "death_year": 1958,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Harlan, Shelby County, Iowa, United States of America"
   },
   {
    "id": "I18109010230",
@@ -12172,7 +12232,6 @@
    ],
    "children": [
     "I250154199915",
-    "I250154199815",
     "I250154199816"
    ],
    "sex": "M",
@@ -12356,7 +12415,6 @@
    ],
    "children": [
     "I250154199915",
-    "I250154199815",
     "I250154199816"
    ],
    "sex": "F",
@@ -13167,6 +13225,29 @@
    "burial_place": null
   },
   {
+   "id": "I29338000254",
+   "name": "Jewell O Odom",
+   "surname": "Odom",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": "I29333255687",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": "ABT 1919",
+   "birth_md": null,
+   "birth_place": "Mississippi, USA",
+   "birth_year": 1919,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
    "id": "I29333412909",
    "name": "Myrtis L Oglesby",
    "surname": "Oglesby",
@@ -13469,17 +13550,24 @@
    "lines": [],
    "father": "I29335667183",
    "mother": "I29338000180",
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "I29338000256",
+    "I29338000258"
+   ],
+   "children": [
+    "I29338000257",
+    "I29338000259",
+    "I29338000261"
+   ],
    "sex": "F",
    "birth_date": "14 Dec 1906",
    "birth_md": "12-14",
    "birth_place": null,
    "birth_year": 1906,
-   "death_date": null,
-   "death_md": null,
-   "death_place": null,
-   "death_year": null,
+   "death_date": "20 JUN 1996",
+   "death_md": "06-20",
+   "death_place": "Eastabuchie, Jones County, Mississippi, USA",
+   "death_year": 1996,
    "burial_date": null,
    "burial_place": null
   },
@@ -13611,6 +13699,34 @@
    "children": []
   },
   {
+   "id": "I29338000261",
+   "name": "Tommy Philips",
+   "surname": "Philips",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000258",
+   "mother": "I29338000189",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000256",
+   "name": "Edward Phillips",
+   "surname": "Phillips",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000189"
+   ],
+   "children": [
+    "I29338000257"
+   ]
+  },
+  {
    "id": "I29338000181",
    "name": "Nancy Emily Ann Phillips",
    "surname": "Phillips",
@@ -13642,6 +13758,29 @@
    "death_year": 1986,
    "burial_date": null,
    "burial_place": "Pilgrim Cemetery, Jones County, Mississippi"
+  },
+  {
+   "id": "I29338000257",
+   "name": "William Ray Phillips",
+   "surname": "Phillips",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000256",
+   "mother": "I29338000189",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "27 MAR 1925",
+   "birth_md": "03-27",
+   "birth_place": "Jones County, Mississippi, USA",
+   "birth_year": 1925,
+   "death_date": "1 JUN 2001",
+   "death_md": "06-01",
+   "death_place": null,
+   "death_year": 2001,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I29338000152",
@@ -13742,6 +13881,34 @@
    "burial_place": null
   },
   {
+   "id": "I29338000258",
+   "name": "Albert Dow Pulliam",
+   "surname": "Pulliam",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000189"
+   ],
+   "children": [
+    "I29338000259",
+    "I29338000261"
+   ],
+   "sex": "M",
+   "birth_date": "19 NOV 1902",
+   "birth_md": "11-19",
+   "birth_place": "Jones County, Mississippi, USA",
+   "birth_year": 1902,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
    "id": "I250157118705",
    "name": "Mattie Lee Pulliam",
    "surname": "Pulliam",
@@ -13786,6 +13953,20 @@
    "mother": null,
    "spouses": [
     "I29336867607"
+   ],
+   "children": []
+  },
+  {
+   "id": "I29338000259",
+   "name": "Rufus Pulliam",
+   "surname": "Pulliam",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000258",
+   "mother": "I29338000189",
+   "spouses": [
+    "I29338000260"
    ],
    "children": []
   },
@@ -15033,7 +15214,7 @@
    "death_place": "Lamar County, Mississippi, USA",
    "death_year": 1991,
    "burial_date": null,
-   "burial_place": "Pensacola, Escambia County, Florida"
+   "burial_place": "Eastern Gate Memorial Gardens, Pensacola, Escambia County, Florida, USA"
   },
   {
    "id": "I252465971477",
@@ -19932,7 +20113,9 @@
    "spouses": [
     "I18109010282"
    ],
-   "children": []
+   "children": [
+    "I29338000254"
+   ]
   },
   {
    "id": "I252465971468",
