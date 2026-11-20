@@ -1,9 +1,9 @@
 {
  "meta": {
   "generated_from": "Sanders-newly-revised.ged",
-  "people_count": 917,
-  "family_count": 306,
-  "living_count": 393,
+  "people_count": 935,
+  "family_count": 312,
+  "living_count": 399,
   "lines": [
    {
     "key": "jehu",
@@ -375,6 +375,38 @@
    "children": [
     "I29338000242"
    ]
+  },
+  {
+   "id": "I29338000277",
+   "name": "Emma Adams",
+   "surname": "Adams",
+   "living": false,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333612145"
+   ],
+   "children": [
+    "I29338000278",
+    "I29338000279",
+    "I29338000280",
+    "I29338000281"
+   ],
+   "sex": "F",
+   "birth_date": "ABT 1895",
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": 1895,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I29333995822",
@@ -1633,9 +1665,34 @@
    "children": []
   },
   {
+   "id": "I29338000278",
+   "name": "Caroline Bates",
+   "surname": "Bates",
+   "living": false,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29333612145",
+   "mother": "I29338000277",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": "ABT 1911",
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": 1911,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
    "id": "I29333612145",
-   "name": "eddie bates",
-   "surname": "bates",
+   "name": "Edward Bates",
+   "surname": "Bates",
    "living": false,
    "line": "Lucy Ophelia Sanders",
    "lines": [
@@ -1643,17 +1700,24 @@
    ],
    "father": "I29333255963",
    "mother": "I18109010287",
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "I29338000277"
+   ],
+   "children": [
+    "I29338000278",
+    "I29338000279",
+    "I29338000280",
+    "I29338000281"
+   ],
    "sex": "M",
-   "birth_date": "1897",
-   "birth_md": null,
-   "birth_place": "missisippi usa",
-   "birth_year": 1897,
-   "death_date": null,
+   "birth_date": "15 JUN 1894",
+   "birth_md": "06-15",
+   "birth_place": "Choctaw County, Alabama, USA",
+   "birth_year": 1894,
+   "death_date": "OCT 1962",
    "death_md": null,
-   "death_place": null,
-   "death_year": null,
+   "death_place": "Mississippi, USA",
+   "death_year": 1962,
    "burial_date": null,
    "burial_place": null
   },
@@ -1712,6 +1776,31 @@
    "death_year": 1986,
    "burial_date": null,
    "burial_place": "Advance Cemetery, Lamar County, Mississippi, USA"
+  },
+  {
+   "id": "I29338000280",
+   "name": "James Dorsey Bates",
+   "surname": "Bates",
+   "living": false,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29333612145",
+   "mother": "I29338000277",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "ABT 1917",
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": 1917,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I29333653036",
@@ -2092,6 +2181,31 @@
    "burial_place": null
   },
   {
+   "id": "I29338000281",
+   "name": "Rosie Lee Bates",
+   "surname": "Bates",
+   "living": false,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29333612145",
+   "mother": "I29338000277",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": "ABT 1919",
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": 1919,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
    "id": "I29338000032",
    "name": "Roy Bates",
    "surname": "Bates",
@@ -2120,6 +2234,31 @@
     "I29338000034"
    ],
    "children": []
+  },
+  {
+   "id": "I29338000279",
+   "name": "Rufus Talmadge Bates",
+   "surname": "Bates",
+   "living": false,
+   "line": "Lucy Ophelia Sanders",
+   "lines": [
+    "Lucy Ophelia Sanders"
+   ],
+   "father": "I29333612145",
+   "mother": "I29338000277",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "ABT 1913",
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": 1913,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I29338000030",
@@ -2353,7 +2492,8 @@
    "father": null,
    "mother": null,
    "spouses": [
-    "I29333121470"
+    "I29333121470",
+    "I29338000270"
    ],
    "children": [
     "I29338000105",
@@ -2367,12 +2507,12 @@
    "birth_md": null,
    "birth_place": "Florida, USA",
    "birth_year": 1911,
-   "death_date": null,
-   "death_md": null,
-   "death_place": null,
-   "death_year": null,
+   "death_date": "29 MAY 2004",
+   "death_md": "05-29",
+   "death_place": "Clay County, Florida, USA",
+   "death_year": 2004,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "New Hope Primitive Baptist Church Cemetery, La Crosse, Alachua County, Florida, USA"
   },
   {
    "id": "I29338000027",
@@ -5679,6 +5819,52 @@
    "children": []
   },
   {
+   "id": "I29338000271",
+   "name": "Albert Francois Lionel Grenier",
+   "surname": "Grenier",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000247",
+   "mother": "I29338000248",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "18 APR 1918",
+   "birth_md": "04-18",
+   "birth_place": "Amesbury, Essex County, Massachusetts, USA",
+   "birth_year": 1918,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000272",
+   "name": "Bernadette Grenier",
+   "surname": "Grenier",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000247",
+   "mother": "I29338000248",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": "ABT 1921",
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": 1921,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
    "id": "I29338000242",
    "name": "Daniel Grenier",
    "surname": "Grenier",
@@ -5707,6 +5893,29 @@
     "I29338000249"
    ],
    "children": []
+  },
+  {
+   "id": "I29338000273",
+   "name": "Jeannette Hortense Grenier",
+   "surname": "Grenier",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000247",
+   "mother": "I29338000248",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": "5 JUL 1923",
+   "birth_md": "07-05",
+   "birth_place": "Amesbury, Essex County, Massachusetts, USA",
+   "birth_year": 1923,
+   "death_date": "17 MAY 1996",
+   "death_md": "05-17",
+   "death_place": "Hampton Falls, Rockingham County, New Hampshire, USA",
+   "death_year": 1996,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I252465971457",
@@ -5766,17 +5975,21 @@
     "I29338000248"
    ],
    "children": [
-    "I252465971454"
+    "I29338000271",
+    "I29338000272",
+    "I29338000273",
+    "I252465971454",
+    "I29338000274"
    ],
    "sex": "M",
    "birth_date": "14 DEC 1889",
    "birth_md": "12-14",
    "birth_place": "Canada",
    "birth_year": 1889,
-   "death_date": null,
-   "death_md": null,
+   "death_date": "7 JUL 1947",
+   "death_md": "07-07",
    "death_place": null,
-   "death_year": null,
+   "death_year": 1947,
    "burial_date": null,
    "burial_place": null
   },
@@ -5791,6 +6004,18 @@
    ],
    "father": "I252465971456",
    "mother": null,
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000274",
+   "name": "Lena Grenier",
+   "surname": "Grenier",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000247",
+   "mother": "I29338000248",
    "spouses": [],
    "children": []
   },
@@ -5960,6 +6185,36 @@
    "children": []
   },
   {
+   "id": "I29334886536",
+   "name": "Carolyn Ella Hall",
+   "surname": "Hall",
+   "living": false,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29334886156"
+   ],
+   "children": [
+    "I29334886551",
+    "I29334886559"
+   ],
+   "sex": "F",
+   "birth_date": "1 Nov 1943",
+   "birth_md": "11-01",
+   "birth_place": "Foley, Baldwin County, Alabama",
+   "birth_year": 1943,
+   "death_date": "20 Dec 2010",
+   "death_md": "12-20",
+   "death_place": "Seminole, Baldwin County, Alabama",
+   "death_year": 2010,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
    "id": "I29337205830",
    "name": "Linda Ann Hansel",
    "surname": "Hansel",
@@ -5976,6 +6231,20 @@
    "children": [
     "I29337205840"
    ]
+  },
+  {
+   "id": "I29338000270",
+   "name": "Robert Harris",
+   "surname": "Harris",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000104"
+   ],
+   "children": []
   },
   {
    "id": "I29333693503",
@@ -6930,31 +7199,23 @@
    "children": []
   },
   {
-   "id": "I29338000111",
-   "name": "Willie Pearl Johnson",
+   "id": "I29338000268",
+   "name": "Thomas V. Johnson",
    "surname": "Johnson",
    "living": false,
-   "line": "Thorough Good Sanders",
-   "lines": [
-    "Thorough Good Sanders"
-   ],
+   "line": "Connected family",
+   "lines": [],
    "father": null,
    "mother": null,
    "spouses": [
-    "I29333476357"
+    "I29338000111"
    ],
-   "children": [
-    "I29338000112",
-    "I29338000113",
-    "I29338000114",
-    "I29338000115",
-    "I29338000116"
-   ],
-   "sex": "F",
-   "birth_date": "abt 1914",
+   "children": [],
+   "sex": "M",
+   "birth_date": "ABT 1906",
    "birth_md": null,
-   "birth_place": "Florida, USA",
-   "birth_year": 1914,
+   "birth_place": null,
+   "birth_year": 1906,
    "death_date": null,
    "death_md": null,
    "death_place": null,
@@ -7716,7 +7977,7 @@
   },
   {
    "id": "I29338000253",
-   "name": "Tina Kilburn",
+   "name": "Tina Annette Kilburn",
    "surname": "Kilburn",
    "living": true,
    "line": "Jehu Barry Sanders",
@@ -7848,6 +8109,33 @@
    "death_year": 2008,
    "burial_date": null,
    "burial_place": "Hopewell Cemetery, Hanceville, Cullman County, Alabama, United States"
+  },
+  {
+   "id": "I29338000265",
+   "name": "Donna V. Lake",
+   "surname": "Lake",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29335160611"
+   ],
+   "children": [
+    "I29338000251"
+   ],
+   "sex": "F",
+   "birth_date": "ABT 1916",
+   "birth_md": null,
+   "birth_place": "Nebraska",
+   "birth_year": 1916,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I29338000096",
@@ -8010,6 +8298,22 @@
    "death_year": 1878,
    "burial_date": null,
    "burial_place": null
+  },
+  {
+   "id": "I29338000276",
+   "name": "Emilie Lavallee",
+   "surname": "Lavallee",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000275"
+   ],
+   "children": [
+    "I29338000248"
+   ]
   },
   {
    "id": "I250164941055",
@@ -8405,6 +8709,22 @@
    "death_year": null,
    "burial_date": null,
    "burial_place": null
+  },
+  {
+   "id": "I29338000267",
+   "name": "Minnie L. Malphurs",
+   "surname": "Malphurs",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000266"
+   ],
+   "children": [
+    "I29338000111"
+   ]
   },
   {
    "id": "I29333690861",
@@ -12524,7 +12844,7 @@
   },
   {
    "id": "I29335160611",
-   "name": "Alex Nagtalon",
+   "name": "Alex Agcaoili Nagtalon",
    "surname": "Nagtalon",
    "living": false,
    "line": "Jehu Barry Sanders",
@@ -12534,17 +12854,18 @@
    "father": null,
    "mother": null,
    "spouses": [
-    "I18109010277"
+    "I18109010277",
+    "I29338000265"
    ],
    "children": [
     "I29335160685",
     "I29338000251"
    ],
    "sex": "M",
-   "birth_date": "ABT 1910",
+   "birth_date": "1908",
    "birth_md": null,
-   "birth_place": "Philippines",
-   "birth_year": 1910,
+   "birth_place": "Ilocos Norte, Philippines",
+   "birth_year": 1908,
    "death_date": null,
    "death_md": null,
    "death_place": null,
@@ -12560,7 +12881,7 @@
    "line": "Connected family",
    "lines": [],
    "father": "I29335160611",
-   "mother": null,
+   "mother": "I29338000265",
    "spouses": [],
    "children": []
   },
@@ -13838,6 +14159,20 @@
    "burial_place": null
   },
   {
+   "id": "I29338000269",
+   "name": "Poppell",
+   "surname": "Poppell",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000111"
+   ],
+   "children": []
+  },
+  {
    "id": "I29338000238",
    "name": "Ethan Corey Prentiss",
    "surname": "Prentiss",
@@ -13879,6 +14214,57 @@
    "death_year": 2020,
    "burial_date": null,
    "burial_place": null
+  },
+  {
+   "id": "I29338000266",
+   "name": "Edward Prevatt",
+   "surname": "Prevatt",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000267"
+   ],
+   "children": [
+    "I29338000111"
+   ]
+  },
+  {
+   "id": "I29338000111",
+   "name": "Willie Pearl Prevatt",
+   "surname": "Prevatt",
+   "living": false,
+   "line": "Thorough Good Sanders",
+   "lines": [
+    "Thorough Good Sanders"
+   ],
+   "father": "I29338000266",
+   "mother": "I29338000267",
+   "spouses": [
+    "I29333476357",
+    "I29338000268",
+    "I29338000269"
+   ],
+   "children": [
+    "I29338000112",
+    "I29338000113",
+    "I29338000114",
+    "I29338000115",
+    "I29338000116"
+   ],
+   "sex": "F",
+   "birth_date": "12 MAY 1913",
+   "birth_md": "05-12",
+   "birth_place": "Fort Myers, Lee County, Florida, USA",
+   "birth_year": 1913,
+   "death_date": "3 JUL 2002",
+   "death_md": "07-03",
+   "death_place": "Jacksonville, Duval County, Florida, USA",
+   "death_year": 2002,
+   "burial_date": null,
+   "burial_place": "Riverside Memorial Park, Jacksonville, Duval County, Florida, USA"
   },
   {
    "id": "I29338000258",
@@ -15435,36 +15821,6 @@
    "mother": "I29336948155",
    "spouses": [],
    "children": []
-  },
-  {
-   "id": "I29334886536",
-   "name": "Carolyn E. Sanders",
-   "surname": "Sanders",
-   "living": false,
-   "line": "Jehu Barry Sanders",
-   "lines": [
-    "Jehu Barry Sanders"
-   ],
-   "father": null,
-   "mother": null,
-   "spouses": [
-    "I29334886156"
-   ],
-   "children": [
-    "I29334886551",
-    "I29334886559"
-   ],
-   "sex": "F",
-   "birth_date": "1 Nov 1943",
-   "birth_md": "11-01",
-   "birth_place": "Foley, Baldwin County, Alabama",
-   "birth_year": 1943,
-   "death_date": "20 Dec 2010",
-   "death_md": "12-20",
-   "death_place": "Seminole, Baldwin County, Alabama",
-   "death_year": 2010,
-   "burial_date": null,
-   "burial_place": null
   },
   {
    "id": "I29337205391",
@@ -19216,16 +19572,47 @@
    "id": "I29338000248",
    "name": "Elizabeth Catherine Trotter",
    "surname": "Trotter",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000275",
+   "mother": "I29338000276",
+   "spouses": [
+    "I29338000247"
+   ],
+   "children": [
+    "I29338000271",
+    "I29338000272",
+    "I29338000273",
+    "I252465971454",
+    "I29338000274"
+   ],
+   "sex": "F",
+   "birth_date": "16 JAN 1890",
+   "birth_md": "01-16",
+   "birth_place": "Springvale, York County, Maine, USA",
+   "birth_year": 1890,
+   "death_date": "21 JAN 1981",
+   "death_md": "01-21",
+   "death_place": "Amesbury, Essex County, Massachusetts, USA",
+   "death_year": 1981,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000275",
+   "name": "Albert Trottier",
+   "surname": "Trottier",
    "living": true,
    "line": "Connected family",
    "lines": [],
    "father": null,
    "mother": null,
    "spouses": [
-    "I29338000247"
+    "I29338000276"
    ],
    "children": [
-    "I252465971454"
+    "I29338000248"
    ]
   },
   {
@@ -19405,6 +19792,29 @@
     "I250159497721"
    ],
    "children": []
+  },
+  {
+   "id": "I29338000282",
+   "name": "Adam van Gilst",
+   "surname": "van Gilst",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "ABT 1910",
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": 1910,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I29338000147",
