@@ -2,8 +2,8 @@
  "meta": {
   "generated_from": "Sanders-newly-revised.ged",
   "people_count": 935,
-  "family_count": 312,
-  "living_count": 399,
+  "family_count": 318,
+  "living_count": 405,
   "lines": [
    {
     "key": "jehu",
@@ -575,16 +575,16 @@
     "I29338000038"
    ],
    "sex": "M",
-   "birth_date": "Abt. 1919",
-   "birth_md": null,
+   "birth_date": "9 OCT 1918",
+   "birth_md": "10-09",
    "birth_place": "Kentucky, USA",
-   "birth_year": 1919,
-   "death_date": null,
+   "birth_year": 1918,
+   "death_date": "MAR 1979",
    "death_md": null,
    "death_place": null,
-   "death_year": null,
+   "death_year": 1979,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Restlawn Memorial Park, Jacksonville, Duval County, Florida, USA"
   },
   {
    "id": "I29338000037",
@@ -1152,12 +1152,12 @@
    "birth_md": null,
    "birth_place": "Mississippi, United States",
    "birth_year": 1849,
-   "death_date": null,
-   "death_md": null,
-   "death_place": null,
-   "death_year": null,
+   "death_date": "12 FEB 1914",
+   "death_md": "02-12",
+   "death_place": "Marshall County, Mississippi, USA",
+   "death_year": 1914,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Tyro Cemetery, Tate County, Mississippi, USA"
   },
   {
    "id": "I29333689667",
@@ -1180,7 +1180,6 @@
     "I29333691217",
     "I29333690857",
     "I29333690861",
-    "I29333690862",
     "I29333691218"
    ],
    "sex": "F",
@@ -1204,7 +1203,9 @@
    "lines": [],
    "father": "I29333691209",
    "mother": "I29333691210",
-   "spouses": [],
+   "spouses": [
+    "I29338000285"
+   ],
    "children": [],
    "sex": "M",
    "birth_date": "1853",
@@ -2629,7 +2630,6 @@
    ],
    "children": [
     "I29333263027",
-    "I29333263470",
     "I29333263026",
     "I29333263030",
     "I29333263465",
@@ -2653,10 +2653,10 @@
    "birth_md": "04-13",
    "birth_place": "Salisbury,Essex,  MassachusettsColony",
    "birth_year": 1727,
-   "death_date": "4 May 1822",
-   "death_md": "05-04",
+   "death_date": "18 JAN 1820",
+   "death_md": "01-18",
    "death_place": "Buxton, York, Maine, United States",
-   "death_year": 1822,
+   "death_year": 1820,
    "burial_date": null,
    "burial_place": null
   },
@@ -3644,7 +3644,7 @@
    "id": "I250164117449",
    "name": "Sarah Clough",
    "surname": "Clough",
-   "living": true,
+   "living": false,
    "line": "Connected family",
    "lines": [],
    "father": null,
@@ -3660,7 +3660,18 @@
     "I250164117460",
     "I250164117461",
     "I250164117462"
-   ]
+   ],
+   "sex": "F",
+   "birth_date": null,
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": null,
+   "death_date": "18 MAR 1706",
+   "death_md": "03-18",
+   "death_place": "Salisbury, Essex County, Massachusetts, USA",
+   "death_year": 1706,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I252465971487",
@@ -3823,6 +3834,22 @@
    "mother": "I29333685477",
    "spouses": [],
    "children": []
+  },
+  {
+   "id": "I29338000288",
+   "name": "Lovisa Crague",
+   "surname": "Crague",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29334276632"
+   ],
+   "children": [
+    "I29338000289"
+   ]
   },
   {
    "id": "I29337205546",
@@ -4061,8 +4088,7 @@
     "I29333578390",
     "I29333578391",
     "I29333578392",
-    "I29333578393",
-    "I29333579769"
+    "I29333578393"
    ],
    "sex": "F",
    "birth_date": "1826",
@@ -4645,12 +4671,12 @@
    "birth_md": null,
    "birth_place": "Mississippi",
    "birth_year": 1872,
-   "death_date": null,
-   "death_md": null,
+   "death_date": "19 MAR 1950",
+   "death_md": "03-19",
    "death_place": null,
-   "death_year": null,
+   "death_year": 1950,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Magnolia Cemetery, San Jacinto County, Texas, USA"
   },
   {
    "id": "I29333579787",
@@ -4796,29 +4822,6 @@
    "death_md": "12-06",
    "death_place": "Choctaw, Alabama, United States",
    "death_year": 1905,
-   "burial_date": null,
-   "burial_place": null
-  },
-  {
-   "id": "I29333579769",
-   "name": "Wiley D. Everett",
-   "surname": "Everett",
-   "living": false,
-   "line": "Connected family",
-   "lines": [],
-   "father": "I29333578387",
-   "mother": "I29333578388",
-   "spouses": [],
-   "children": [],
-   "sex": "M",
-   "birth_date": "abt 1861",
-   "birth_md": null,
-   "birth_place": "Alabama",
-   "birth_year": 1861,
-   "death_date": null,
-   "death_md": null,
-   "death_place": null,
-   "death_year": null,
    "burial_date": null,
    "burial_place": null
   },
@@ -5072,7 +5075,6 @@
     "I29333578391",
     "I29333578392",
     "I29333578393",
-    "I29333579769",
     "I18109010239",
     "I29333578389"
    ],
@@ -5508,6 +5510,29 @@
    "burial_place": null
   },
   {
+   "id": "I29338000289",
+   "name": "Almon Frank",
+   "surname": "Frank",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29334276632",
+   "mother": "I29338000288",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "ABT 1842",
+   "birth_md": null,
+   "birth_place": "Windham, Cumberland County, Maine, USA",
+   "birth_year": 1842,
+   "death_date": "FEB 1907",
+   "death_md": null,
+   "death_place": "Portland, Cumberland County, Maine, USA",
+   "death_year": 1907,
+   "burial_date": null,
+   "burial_place": "Woodbury Cemetery, Westbrook, Cumberland County, Maine, USA"
+  },
+  {
    "id": "I29334276631",
    "name": "Alvin Frank",
    "surname": "Frank",
@@ -5539,8 +5564,12 @@
    "lines": [],
    "father": "I29334276628",
    "mother": "I29334276629",
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "I29338000288"
+   ],
+   "children": [
+    "I29338000289"
+   ],
    "sex": "M",
    "birth_date": "ABT 1804",
    "birth_md": null,
@@ -6258,10 +6287,10 @@
    "spouses": [],
    "children": [],
    "sex": "F",
-   "birth_date": "30 September 1762",
-   "birth_md": "09-30",
-   "birth_place": "Westfield, Union Co., NJ",
-   "birth_year": 1762,
+   "birth_date": "BEF 30 SEP 1764",
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": 1764,
    "death_date": null,
    "death_md": null,
    "death_place": null,
@@ -6411,10 +6440,10 @@
    "birth_md": "10-26",
    "birth_place": "Morris, Morris County, New Jersey, USA",
    "birth_year": 1738,
-   "death_date": "February 20, 1811",
-   "death_md": "02-20",
+   "death_date": "BEF OCT 1810",
+   "death_md": null,
    "death_place": "Greeneville, Greene Co., Tn",
-   "death_year": 1811,
+   "death_year": 1810,
    "burial_date": null,
    "burial_place": null
   },
@@ -6660,6 +6689,36 @@
    "mother": null,
    "spouses": [
     "I29338000063"
+   ],
+   "children": []
+  },
+  {
+   "id": "I29338000287",
+   "name": "Jemima Haskell",
+   "surname": "Haskell",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000286"
+   ],
+   "children": [
+    "I29334277382"
+   ]
+  },
+  {
+   "id": "I29338000285",
+   "name": "Zana Hawkins",
+   "surname": "Hawkins",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333691214"
    ],
    "children": []
   },
@@ -7033,7 +7092,6 @@
     "I29334276320"
    ],
    "children": [
-    "I29334276322",
     "I29334276485",
     "I18109010273",
     "I29334276323",
@@ -8179,14 +8237,77 @@
     "I29338000095"
    ],
    "sex": "M",
-   "birth_date": "Abt. 1896",
-   "birth_md": null,
+   "birth_date": "5 JUN 1895",
+   "birth_md": "06-05",
    "birth_place": "Alabama, United States",
-   "birth_year": 1896,
+   "birth_year": 1895,
+   "death_date": "1 JUL 1963",
+   "death_md": "07-01",
+   "death_place": null,
+   "death_year": 1963,
+   "burial_date": null,
+   "burial_place": "Hopewell Cemetery, Hanceville, Cullman County, Alabama, USA"
+  },
+  {
+   "id": "I29338000293",
+   "name": "Hannah Lane",
+   "surname": "Lane",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000292",
+   "mother": "I29333263032",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": "1 JAN 1795",
+   "birth_md": "01-01",
+   "birth_place": null,
+   "birth_year": 1795,
    "death_date": null,
    "death_md": null,
    "death_place": null,
    "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000292",
+   "name": "Isaac Lane",
+   "surname": "Lane",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333263032"
+   ],
+   "children": [
+    "I29338000293",
+    "I29338000294"
+   ]
+  },
+  {
+   "id": "I29338000294",
+   "name": "Udoxy Lane",
+   "surname": "Lane",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000292",
+   "mother": "I29333263032",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": "19 JAN 1797",
+   "birth_md": "01-19",
+   "birth_place": null,
+   "birth_year": 1797,
+   "death_date": "7 MAY 1798",
+   "death_md": "05-07",
+   "death_place": null,
+   "death_year": 1798,
    "burial_date": null,
    "burial_place": null
   },
@@ -8823,29 +8944,6 @@
    "burial_place": null
   },
   {
-   "id": "I29333690862",
-   "name": "Mathe Manasco",
-   "surname": "Manasco",
-   "living": false,
-   "line": "Connected family",
-   "lines": [],
-   "father": "I18109010260",
-   "mother": "I29333689667",
-   "spouses": [],
-   "children": [],
-   "sex": "M",
-   "birth_date": "Apr 1884",
-   "birth_md": null,
-   "birth_place": "Mississippi",
-   "birth_year": 1884,
-   "death_date": null,
-   "death_md": null,
-   "death_place": null,
-   "death_year": null,
-   "burial_date": null,
-   "burial_place": null
-  },
-  {
    "id": "I29333690859",
    "name": "Oscar Manasco",
    "surname": "Manasco",
@@ -8892,38 +8990,10 @@
    "burial_place": null
   },
   {
-   "id": "I29336823587",
-   "name": "Abbie Marchal",
-   "surname": "Marchal",
-   "living": false,
-   "line": "Connected family",
-   "lines": [],
-   "father": null,
-   "mother": null,
-   "spouses": [],
-   "children": [
-    "I29336823588",
-    "I29336823589",
-    "I29333582388",
-    "I29336823590"
-   ],
-   "sex": "F",
-   "birth_date": "abt 1875",
-   "birth_md": null,
-   "birth_place": "Alabama",
-   "birth_year": 1875,
-   "death_date": null,
-   "death_md": null,
-   "death_place": null,
-   "death_year": null,
-   "burial_date": null,
-   "burial_place": null
-  },
-  {
    "id": "I29338000005",
    "name": "Addie Marshall",
    "surname": "Marshall",
-   "living": true,
+   "living": false,
    "line": "Connected family",
    "lines": [],
    "father": null,
@@ -8936,7 +9006,18 @@
     "I29338000007",
     "I29333582388",
     "I29338000008"
-   ]
+   ],
+   "sex": "F",
+   "birth_date": "abt 1875",
+   "birth_md": null,
+   "birth_place": "Alabama",
+   "birth_year": 1875,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I29333262825",
@@ -9084,7 +9165,6 @@
     "I29334276321"
    ],
    "children": [
-    "I29334276322",
     "I29334276485",
     "I18109010273",
     "I29334276323",
@@ -9194,29 +9274,6 @@
    "burial_place": null
   },
   {
-   "id": "I29334276323",
-   "name": "Berten A. Mayberry",
-   "surname": "Mayberry",
-   "living": false,
-   "line": "Connected family",
-   "lines": [],
-   "father": "I29334276320",
-   "mother": "I29334276321",
-   "spouses": [],
-   "children": [],
-   "sex": "M",
-   "birth_date": "abt 1866",
-   "birth_md": null,
-   "birth_place": "Maine",
-   "birth_year": 1866,
-   "death_date": null,
-   "death_md": null,
-   "death_place": null,
-   "death_year": null,
-   "burial_date": null,
-   "burial_place": null
-  },
-  {
    "id": "I29334276326",
    "name": "Blanche W. Mayberry",
    "surname": "Mayberry",
@@ -9232,12 +9289,39 @@
    "birth_md": null,
    "birth_place": "Maine",
    "birth_year": 1880,
-   "death_date": null,
+   "death_date": "1881",
    "death_md": null,
    "death_place": null,
-   "death_year": null,
+   "death_year": 1881,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Riverside Cemetery, Yarmouth, Cumberland County, Maine, USA"
+  },
+  {
+   "id": "I29334276323",
+   "name": "Burton A. Mayberry",
+   "surname": "Mayberry",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29334276320",
+   "mother": "I29334276321",
+   "spouses": [
+    "I29338000290"
+   ],
+   "children": [
+    "I29338000291"
+   ],
+   "sex": "M",
+   "birth_date": "25 JUL 1865",
+   "birth_md": "07-25",
+   "birth_place": "Maine",
+   "birth_year": 1865,
+   "death_date": "16 JAN 1938",
+   "death_md": "01-16",
+   "death_place": null,
+   "death_year": 1938,
+   "burial_date": null,
+   "burial_place": "Riverside Cemetery, Yarmouth, Cumberland County, Maine, USA"
   },
   {
    "id": "I29334276637",
@@ -9284,6 +9368,29 @@
    "death_md": "05-04",
    "death_place": "South Windham, Maine",
    "death_year": 1909,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000291",
+   "name": "Edwin B. Mayberry",
+   "surname": "Mayberry",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29334276323",
+   "mother": "I29338000290",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "31 OCT 1895",
+   "birth_md": "10-31",
+   "birth_place": null,
+   "birth_year": 1895,
+   "death_date": "26 SEP 1918",
+   "death_md": "09-26",
+   "death_place": "Camp Devens, Ayer, Middlesex County, Massachusetts, USA",
+   "death_year": 1918,
    "burial_date": null,
    "burial_place": null
   },
@@ -9349,12 +9456,12 @@
    "birth_md": null,
    "birth_place": "Maine",
    "birth_year": 1867,
-   "death_date": null,
+   "death_date": "1882",
    "death_md": null,
    "death_place": null,
-   "death_year": null,
+   "death_year": 1882,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Riverside Cemetery, Yarmouth, Cumberland County, Maine, USA"
   },
   {
    "id": "I18109010273",
@@ -9426,29 +9533,6 @@
    "birth_md": null,
    "birth_place": "Maine",
    "birth_year": 1848,
-   "death_date": null,
-   "death_md": null,
-   "death_place": null,
-   "death_year": null,
-   "burial_date": null,
-   "burial_place": null
-  },
-  {
-   "id": "I29334276322",
-   "name": "Olive E. Mayberry",
-   "surname": "Mayberry",
-   "living": false,
-   "line": "Connected family",
-   "lines": [],
-   "father": "I29334276320",
-   "mother": "I29334276321",
-   "spouses": [],
-   "children": [],
-   "sex": "F",
-   "birth_date": "abt 1862",
-   "birth_md": null,
-   "birth_place": "Maine",
-   "birth_year": 1862,
    "death_date": null,
    "death_md": null,
    "death_place": null,
@@ -9564,12 +9648,12 @@
    "birth_md": null,
    "birth_place": "Maine, USA",
    "birth_year": 1862,
-   "death_date": null,
+   "death_date": "1955",
    "death_md": null,
    "death_place": null,
-   "death_year": null,
+   "death_year": 1955,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Riverside Cemetery, Yarmouth, Cumberland County, Maine, USA"
   },
   {
    "id": "I29334276484",
@@ -9589,12 +9673,12 @@
    "birth_md": null,
    "birth_place": "Maine, USA",
    "birth_year": 1869,
-   "death_date": null,
+   "death_date": "1941",
    "death_md": null,
    "death_place": null,
-   "death_year": null,
+   "death_year": 1941,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Riverside Cemetery, Yarmouth, Cumberland County, Maine, USA"
   },
   {
    "id": "I29334277072",
@@ -9614,12 +9698,12 @@
    "sex": "M",
    "birth_date": "18 May 1868",
    "birth_md": "05-18",
-   "birth_place": "Windham, Connecticut, United States",
+   "birth_place": "Windham, Cumberland County, Maine, USA",
    "birth_year": 1868,
-   "death_date": null,
-   "death_md": null,
-   "death_place": null,
-   "death_year": null,
+   "death_date": "23 MAR 1953",
+   "death_md": "03-23",
+   "death_place": "Westbrook, Cumberland County, Maine, USA",
+   "death_year": 1953,
    "burial_date": null,
    "burial_place": null
   },
@@ -9729,29 +9813,6 @@
    "burial_place": "Riverside Memorial Park, Jacksonville, Duval County, Florida, USA"
   },
   {
-   "id": "I29336823588",
-   "name": "Daisie Mcfarland",
-   "surname": "Mcfarland",
-   "living": false,
-   "line": "Connected family",
-   "lines": [],
-   "father": null,
-   "mother": "I29336823587",
-   "spouses": [],
-   "children": [],
-   "sex": "F",
-   "birth_date": "abt 1899",
-   "birth_md": null,
-   "birth_place": "Alabama",
-   "birth_year": 1899,
-   "death_date": null,
-   "death_md": null,
-   "death_place": null,
-   "death_year": null,
-   "burial_date": null,
-   "burial_place": null
-  },
-  {
    "id": "I29338000006",
    "name": "Daisie McFarland",
    "surname": "McFarland",
@@ -9787,29 +9848,6 @@
    "mother": "I29336876641",
    "spouses": [],
    "children": []
-  },
-  {
-   "id": "I29336823589",
-   "name": "Florence Mcfarland",
-   "surname": "Mcfarland",
-   "living": false,
-   "line": "Connected family",
-   "lines": [],
-   "father": null,
-   "mother": "I29336823587",
-   "spouses": [],
-   "children": [],
-   "sex": "F",
-   "birth_date": "abt 1901",
-   "birth_md": null,
-   "birth_place": "Alabama",
-   "birth_year": 1901,
-   "death_date": null,
-   "death_md": null,
-   "death_place": null,
-   "death_year": null,
-   "burial_date": null,
-   "burial_place": null
   },
   {
    "id": "I29338000007",
@@ -9877,29 +9915,6 @@
     "I29333582388",
     "I29338000008"
    ]
-  },
-  {
-   "id": "I29336823590",
-   "name": "Leeander Mcfarland",
-   "surname": "Mcfarland",
-   "living": false,
-   "line": "Connected family",
-   "lines": [],
-   "father": null,
-   "mother": "I29336823587",
-   "spouses": [],
-   "children": [],
-   "sex": "M",
-   "birth_date": "abt 1907",
-   "birth_md": null,
-   "birth_place": "Alabama",
-   "birth_year": 1907,
-   "death_date": null,
-   "death_md": null,
-   "death_place": null,
-   "death_year": null,
-   "burial_date": null,
-   "burial_place": null
   },
   {
    "id": "I29338000008",
@@ -10362,10 +10377,10 @@
    "birth_md": null,
    "birth_place": "Mississippi",
    "birth_year": 1846,
-   "death_date": null,
+   "death_date": "BET SEP 1878 AND 29 AUG 1880",
    "death_md": null,
-   "death_place": null,
-   "death_year": null,
+   "death_place": "Clarke County, Mississippi, USA",
+   "death_year": 1878,
    "burial_date": null,
    "burial_place": null
   },
@@ -10794,7 +10809,6 @@
     "I29333689476",
     "I29333689477",
     "I29333689478",
-    "I29333689483",
     "I29333689479",
     "I29333689480",
     "I29333689481",
@@ -10809,31 +10823,6 @@
    "death_md": null,
    "death_place": "Texas, United States",
    "death_year": 1906,
-   "burial_date": null,
-   "burial_place": null
-  },
-  {
-   "id": "I29333692712",
-   "name": "Jacob Menasco",
-   "surname": "Menasco",
-   "living": false,
-   "line": "Connected family",
-   "lines": [],
-   "father": null,
-   "mother": null,
-   "spouses": [
-    "I29333691541"
-   ],
-   "children": [],
-   "sex": "M",
-   "birth_date": "1828",
-   "birth_md": null,
-   "birth_place": "AL",
-   "birth_year": 1828,
-   "death_date": null,
-   "death_md": null,
-   "death_place": null,
-   "death_year": null,
    "burial_date": null,
    "burial_place": null
   },
@@ -11151,29 +11140,6 @@
    "burial_place": null
   },
   {
-   "id": "I29333689483",
-   "name": "John M Menasco",
-   "surname": "Menasco",
-   "living": false,
-   "line": "Connected family",
-   "lines": [],
-   "father": "I18109010252",
-   "mother": "I18109010297",
-   "spouses": [],
-   "children": [],
-   "sex": "M",
-   "birth_date": "1854",
-   "birth_md": null,
-   "birth_place": "Clarke, Mississippi, USA",
-   "birth_year": 1854,
-   "death_date": "8 Feb 1933",
-   "death_md": "02-08",
-   "death_place": "Hattiesburg, Forrest, Mississippi",
-   "death_year": 1933,
-   "burial_date": null,
-   "burial_place": null
-  },
-  {
    "id": "I18109010256",
    "name": "John Menasco",
    "surname": "Menasco",
@@ -11357,7 +11323,7 @@
   },
   {
    "id": "I29333691218",
-   "name": "Martha Mattie Menasco",
+   "name": "Martha Menasco",
    "surname": "Menasco",
    "living": false,
    "line": "Connected family",
@@ -11468,7 +11434,6 @@
     "I29333691217",
     "I29333690857",
     "I29333690861",
-    "I29333690862",
     "I29333691218"
    ],
    "sex": "M",
@@ -11720,29 +11685,6 @@
    "burial_place": null
   },
   {
-   "id": "I29333263470",
-   "name": "Abel Merrill",
-   "surname": "Merrill",
-   "living": false,
-   "line": "Connected family",
-   "lines": [],
-   "father": "I29333263024",
-   "mother": "I29333263025",
-   "spouses": [],
-   "children": [],
-   "sex": "M",
-   "birth_date": "6 Jun 1748",
-   "birth_md": "06-06",
-   "birth_place": "Salisbury, Essex, Massachusetts, United States",
-   "birth_year": 1748,
-   "death_date": "8 Dec 1828",
-   "death_md": "12-08",
-   "death_place": "Turner, Androscoggin, Maine, United States",
-   "death_year": 1828,
-   "burial_date": null,
-   "burial_place": null
-  },
-  {
    "id": "I250164117400",
    "name": "Daniel Merrill",
    "surname": "Merrill",
@@ -11752,7 +11694,8 @@
    "father": "I250164117450",
    "mother": "I250164117451",
    "spouses": [
-    "I250164117449"
+    "I250164117449",
+    "I29338000295"
    ],
    "children": [
     "I250164117452",
@@ -12141,15 +12084,20 @@
    "lines": [],
    "father": "I29333263024",
    "mother": "I29333263025",
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "I29338000292"
+   ],
+   "children": [
+    "I29338000293",
+    "I29338000294"
+   ],
    "sex": "F",
    "birth_date": "1773",
    "birth_md": null,
    "birth_place": "Buxton, York, Maine, United States",
    "birth_year": 1773,
-   "death_date": "2 Mar 1799",
-   "death_md": "03-02",
+   "death_date": "22 MAR 1799",
+   "death_md": "03-22",
    "death_place": "Buxton, York, Maine, United States",
    "death_year": 1799,
    "burial_date": null,
@@ -12217,7 +12165,6 @@
    "children": [
     "I29333263464",
     "I29333263027",
-    "I29333263470",
     "I29333263026",
     "I29333263030",
     "I29333263465",
@@ -12241,8 +12188,8 @@
    "birth_md": "01-08",
    "birth_place": "Salisbury, Essex, Massachusetts, United States",
    "birth_year": 1729,
-   "death_date": "04 May 1822",
-   "death_md": "05-04",
+   "death_date": "5 MAY 1822",
+   "death_md": "05-05",
    "death_place": "Buxton, Maine  USA",
    "death_year": 1822,
    "burial_date": null,
@@ -12802,6 +12749,20 @@
    ]
   },
   {
+   "id": "I29338000295",
+   "name": "Sarah Morrill",
+   "surname": "Morrill",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I250164117400"
+   ],
+   "children": []
+  },
+  {
    "id": "I29338000211",
    "name": "Cora C. Morse",
    "surname": "Morse",
@@ -12984,14 +12945,30 @@
    "burial_place": "Bagdad, Santa Rosa County, Florida"
   },
   {
+   "id": "I29338000286",
+   "name": "Joel Nevens",
+   "surname": "Nevens",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000287"
+   ],
+   "children": [
+    "I29334277382"
+   ]
+  },
+  {
    "id": "I29334277382",
    "name": "Mariam Whitney Nevins",
    "surname": "Nevins",
    "living": false,
    "line": "Connected family",
    "lines": [],
-   "father": null,
-   "mother": null,
+   "father": "I29338000286",
+   "mother": "I29338000287",
    "spouses": [
     "I29334277233"
    ],
@@ -13000,10 +12977,10 @@
     "I29334277384"
    ],
    "sex": "F",
-   "birth_date": "Jan 16 1814",
+   "birth_date": "16 JAN 1813",
    "birth_md": "01-16",
-   "birth_place": null,
-   "birth_year": 1814,
+   "birth_place": "New Gloucester, Cumberland County, Maine, USA",
+   "birth_year": 1813,
    "death_date": null,
    "death_md": null,
    "death_place": null,
@@ -13062,29 +13039,6 @@
    "death_date": "9 Feb 1981",
    "death_md": "02-09",
    "death_place": "Escambia, Florida, United States",
-   "death_year": 1981,
-   "burial_date": null,
-   "burial_place": "Roberts Cemetery, Pensacola, Escambia County, Florida"
-  },
-  {
-   "id": "I29333477264",
-   "name": "Blake Nobles",
-   "surname": "Nobles",
-   "living": false,
-   "line": "Connected family",
-   "lines": [],
-   "father": "I29333477262",
-   "mother": "I29333477263",
-   "spouses": [],
-   "children": [],
-   "sex": "M",
-   "birth_date": "abt 1914",
-   "birth_md": null,
-   "birth_place": "Florida",
-   "birth_year": 1914,
-   "death_date": "9 FEB 1981",
-   "death_md": "02-09",
-   "death_place": "Escambia County, Florida",
    "death_year": 1981,
    "burial_date": null,
    "burial_place": "Roberts Cemetery, Pensacola, Escambia County, Florida"
@@ -13177,7 +13131,7 @@
    "living": false,
    "line": "Connected family",
    "lines": [],
-   "father": "I29333477262",
+   "father": "I29335293722",
    "mother": "I29333477263",
    "spouses": [],
    "children": [],
@@ -13186,12 +13140,12 @@
    "birth_md": null,
    "birth_place": "Florida",
    "birth_year": 1921,
-   "death_date": null,
-   "death_md": null,
-   "death_place": null,
-   "death_year": null,
+   "death_date": "5 MAR 1959",
+   "death_md": "03-05",
+   "death_place": "Bay County, Florida, USA",
+   "death_year": 1959,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Roberts Cemetery, Pensacola, Escambia County, Florida, USA"
   },
   {
    "id": "I252465971484",
@@ -13235,10 +13189,10 @@
    "father": null,
    "mother": null,
    "spouses": [
-    "I29333477262"
+    "I29335293722"
    ],
    "children": [
-    "I29333477264",
+    "I29335293724",
     "I29333122618",
     "I29333121715",
     "I29333477266",
@@ -13257,37 +13211,6 @@
    "burial_place": null
   },
   {
-   "id": "I29333477262",
-   "name": "Luford Nobles",
-   "surname": "Nobles",
-   "living": false,
-   "line": "Connected family",
-   "lines": [],
-   "father": null,
-   "mother": null,
-   "spouses": [
-    "I29333477263"
-   ],
-   "children": [
-    "I29333477264",
-    "I29333122618",
-    "I29333121715",
-    "I29333477266",
-    "I29333477267"
-   ],
-   "sex": "M",
-   "birth_date": "abt 1875",
-   "birth_md": null,
-   "birth_place": "Florida",
-   "birth_year": 1875,
-   "death_date": "16 MAR 1936",
-   "death_md": "03-16",
-   "death_place": null,
-   "death_year": 1936,
-   "burial_date": null,
-   "burial_place": "Roberts Cemetery, Pensacola, Escambia County, Florida"
-  },
-  {
    "id": "I29335293722",
    "name": "Luford Nobles",
    "surname": "Nobles",
@@ -13297,17 +13220,21 @@
    "father": null,
    "mother": null,
    "spouses": [
+    "I29333477263",
     "I29335293723"
    ],
    "children": [
     "I29335293724",
-    "I29333121715"
+    "I29333122618",
+    "I29333121715",
+    "I29333477266",
+    "I29333477267"
    ],
    "sex": "M",
-   "birth_date": "25 Dec 1876",
+   "birth_date": "25 DEC 1873",
    "birth_md": "12-25",
    "birth_place": "Escambia, Florida, USA",
-   "birth_year": 1876,
+   "birth_year": 1873,
    "death_date": "16 Mar 1936",
    "death_md": "03-16",
    "death_place": ", Escambia, Florida, USA",
@@ -13322,7 +13249,7 @@
    "living": true,
    "line": "Connected family",
    "lines": [],
-   "father": "I29333477262",
+   "father": "I29335293722",
    "mother": "I29333477263",
    "spouses": [],
    "children": []
@@ -13336,7 +13263,7 @@
    "lines": [
     "Thorough Good Sanders"
    ],
-   "father": "I29333477262",
+   "father": "I29335293722",
    "mother": "I29333477263",
    "spouses": [
     "I29333121497"
@@ -14147,10 +14074,10 @@
     "I250164941085"
    ],
    "sex": "F",
-   "birth_date": "1660",
+   "birth_date": "BET 1631 AND 1638",
    "birth_md": null,
    "birth_place": null,
-   "birth_year": 1660,
+   "birth_year": 1631,
    "death_date": "1711",
    "death_md": null,
    "death_place": "Isle of Wight County, Virginia",
@@ -16410,7 +16337,7 @@
    "death_place": "Pensacola, Escambia, Florida",
    "death_year": 1968,
    "burial_date": "07/05/1968",
-   "burial_place": "FL"
+   "burial_place": "Barrancas National Cemetery, Pensacola, Escambia County, Florida, USA"
   },
   {
    "id": "I29338000105",
@@ -17055,7 +16982,7 @@
    "death_place": "Richton, Perry, Mississippi, USA",
    "death_year": 1974,
    "burial_date": null,
-   "burial_place": "Blodgett, Jones County, Mississippi"
+   "burial_place": "Brown Cemetery, Blodgett, Mississippi, USA"
   },
   {
    "id": "I29334889628",
@@ -17664,7 +17591,9 @@
    "father": "I18109010286",
    "mother": "I29336948155",
    "spouses": [
-    "I29334890825"
+    "I29334890825",
+    "I29338000283",
+    "I29338000284"
    ],
    "children": [
     "I29334890674"
@@ -18723,8 +18652,8 @@
    "living": false,
    "line": "Connected family",
    "lines": [],
-   "father": null,
-   "mother": null,
+   "father": "I29333690333",
+   "mother": "I29333690159",
    "spouses": [
     "I18109010252"
    ],
@@ -18734,7 +18663,6 @@
     "I29333689476",
     "I29333689477",
     "I29333689478",
-    "I29333689483",
     "I29333689479",
     "I29333689480",
     "I29333689481",
@@ -18753,31 +18681,6 @@
    "burial_place": null
   },
   {
-   "id": "I29333691541",
-   "name": "Elmina Minerva Saxon",
-   "surname": "Saxon",
-   "living": false,
-   "line": "Connected family",
-   "lines": [],
-   "father": "I29333690333",
-   "mother": "I29333690159",
-   "spouses": [
-    "I29333692712"
-   ],
-   "children": [],
-   "sex": "F",
-   "birth_date": "19 Sep 1831",
-   "birth_md": "09-19",
-   "birth_place": "Alabama",
-   "birth_year": 1831,
-   "death_date": "24 Nov 1877",
-   "death_md": "11-24",
-   "death_place": "Wayne, Mississippi, United States",
-   "death_year": 1877,
-   "burial_date": null,
-   "burial_place": null
-  },
-  {
    "id": "I29333690333",
    "name": "John Saxon",
    "surname": "Saxon",
@@ -18792,7 +18695,7 @@
    "children": [
     "I29333691540",
     "I18109010298",
-    "I29333691541"
+    "I18109010297"
    ],
    "sex": "M",
    "birth_date": "7 Aug 1797",
@@ -19762,6 +19665,38 @@
    ]
   },
   {
+   "id": "I29338000283",
+   "name": "Unknown",
+   "surname": "Unknown",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29334890218"
+   ],
+   "children": []
+  },
+  {
+   "id": "I29338000284",
+   "name": "Unknown",
+   "surname": "Unknown",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29334890218"
+   ],
+   "children": []
+  },
+  {
    "id": "I29338000235",
    "name": "James Rhodes Upshaw",
    "surname": "Upshaw",
@@ -19865,7 +19800,7 @@
    "children": [
     "I29333691540",
     "I18109010298",
-    "I29333691541"
+    "I18109010297"
    ],
    "sex": "F",
    "birth_date": "26 Aug 1800",
@@ -20167,7 +20102,7 @@
    "death_place": null,
    "death_year": 2018,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Bagdad Historical Cemetery, Bagdad, Santa Rosa County, Florida, USA"
   },
   {
    "id": "I29338000191",
@@ -20367,7 +20302,7 @@
   },
   {
    "id": "I252465971443",
-   "name": "Lee Andrew Watson",
+   "name": "Lee Roy Watson",
    "surname": "Watson",
    "living": false,
    "line": "Connected family",
@@ -20391,16 +20326,16 @@
     "I29338000209"
    ],
    "sex": "M",
-   "birth_date": "abt 1895",
-   "birth_md": null,
+   "birth_date": "11 JUL 1893",
+   "birth_md": "07-11",
    "birth_place": "Alabama",
-   "birth_year": 1895,
-   "death_date": null,
-   "death_md": null,
+   "birth_year": 1893,
+   "death_date": "9 JUL 1975",
+   "death_md": "07-09",
    "death_place": null,
-   "death_year": null,
+   "death_year": 1975,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Elberta Public Cemetery, Elberta, Baldwin County, Alabama, USA"
   },
   {
    "id": "I29338000207",
@@ -20540,6 +20475,33 @@
    "mother": "I29336896144",
    "spouses": [],
    "children": []
+  },
+  {
+   "id": "I29338000290",
+   "name": "Nellie V. Whitten",
+   "surname": "Whitten",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29334276323"
+   ],
+   "children": [
+    "I29338000291"
+   ],
+   "sex": "F",
+   "birth_date": null,
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": null,
+   "death_date": "1956",
+   "death_md": null,
+   "death_place": null,
+   "death_year": 1956,
+   "burial_date": null,
+   "burial_place": "Riverside Cemetery, Yarmouth, Cumberland County, Maine, USA"
   },
   {
    "id": "I29336896274",
