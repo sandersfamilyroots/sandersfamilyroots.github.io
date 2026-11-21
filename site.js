@@ -7,6 +7,7 @@
   var byId = {};
   var meta = null;
   var memorials = {};
+  var service = {};
 
   function load() {
     var peopleP = fetch("data/people.json")
@@ -16,9 +17,15 @@
     var memorialsP = fetch("data/memorials.json")
       .then(function (r) { return r.json(); })
       .catch(function () { return {}; });
-    return Promise.all([peopleP, memorialsP]).then(function (res) {
+    // Military service views are a hand-curated overlay too
+    // (data/service.json); missing file simply means no service views.
+    var serviceP = fetch("data/service.json")
+      .then(function (r) { return r.json(); })
+      .catch(function () { return {}; });
+    return Promise.all([peopleP, memorialsP, serviceP]).then(function (res) {
       var data = res[0];
       memorials = res[1] || {};
+      service = res[2] || {};
       meta = data.meta;
       data.people.forEach(function (p) { byId[p.id] = p; });
       return data.people;
@@ -103,6 +110,13 @@
         'Try the <a href="people.html">People index</a>.</p>';
       return;
     }
+    // Military-only view, as the They Served roster links open it:
+    // person.html?id=...&view=service, for a person with service data.
+    if (new URLSearchParams(location.search).get("view") === "service" &&
+        !p.living && service[p.id]) {
+      renderServiceView(p, service[p.id]);
+      return;
+    }
     document.title = p.name + " — Sanders Family Roots";
     var html = "<h2>" + escapeHtml(p.name) + "</h2>";
     if (p.line) {
@@ -122,11 +136,58 @@
       html += "</dl>";
     }
     html += memorialSection(p);
+    if (!p.living && service[p.id]) {
+      html += '<p class="lines-intro"><a href="person.html?id=' + encodeURIComponent(p.id) +
+        '&view=service">They Served &middot; See ' + (p.sex === "F" ? "her" : "his") +
+        ' military service view &rarr;</a></p>';
+    }
     html += "<h3>Parents</h3>" + relList([p.father, p.mother].filter(Boolean));
     html += "<h3>" + (p.spouses && p.spouses.length > 1 ? "Spouses" : "Spouse") + "</h3>" + relList(p.spouses);
     html += "<h3>Children</h3>" + relList(p.children);
     html += '<p class="back-links"><a href="people.html">&larr; Everyone in the tree</a> · ' +
       '<a href="lines.html">The five lines</a></p>';
+    box.innerHTML = html;
+  }
+
+  /* ---------------- Military service view ----------------
+     Data comes from data/service.json (curated by hand, like the
+     memorials overlay). HARD RULE: only ever rendered for a person
+     who is NOT flagged living in people.json. Shows service only —
+     summary, military records, documents note — with everything
+     else left on the full page, which it links back to. */
+  function renderServiceView(p, s) {
+    var box = document.getElementById("person-view");
+    if (!box) return;
+    document.title = p.name + ", military service view — Sanders Family Roots";
+    var fullUrl = "person.html?id=" + encodeURIComponent(p.id);
+    var html = '<p class="lines-intro"><a href="they-served.html">They Served</a> &middot; ' +
+      'Military service view &middot; <a href="' + fullUrl + '">See ' +
+      (p.sex === "F" ? "her" : "his") + ' full page &rarr;</a></p>';
+    html += "<h2>" + escapeHtml(p.name) + "</h2>";
+    if (s.dates_line)
+      html += '<p class="line-dates">' + escapeHtml(s.dates_line) + "</p>";
+    html += '<div class="line-cards"><article class="line-card"><h3>Service summary</h3><p>';
+    if (s.summary_lead) html += "<strong>" + escapeHtml(s.summary_lead) + "</strong> ";
+    html += escapeHtml(s.summary || "") + "</p></article></div>";
+    if (s.records && s.records.length) {
+      html += "<h3>Military records</h3><ul class='finds'>";
+      s.records.forEach(function (r) {
+        html += "<li>";
+        if (r.url)
+          html += '<a href="' + escapeHtml(r.url) + '">' + escapeHtml(r.text) + "</a>";
+        else if (r.lead)
+          html += "<strong>" + escapeHtml(r.lead) + "</strong>";
+        if (r.note) html += " &mdash; " + escapeHtml(r.note);
+        html += "</li>";
+      });
+      html += "</ul>";
+    }
+    if (s.documents_before || s.documents_after) {
+      html += "<h3>Documents &amp; photos</h3>" +
+        '<p class="lines-intro">' + escapeHtml(s.documents_before || "") +
+        '<a href="' + fullUrl + '">full page</a>' +
+        escapeHtml(s.documents_after || "") + "</p>";
+    }
     box.innerHTML = html;
   }
 
