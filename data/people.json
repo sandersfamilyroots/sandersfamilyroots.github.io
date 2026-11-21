@@ -1,9 +1,9 @@
 {
  "meta": {
   "generated_from": "Sanders-newly-revised.ged",
-  "people_count": 935,
-  "family_count": 318,
-  "living_count": 405,
+  "people_count": 979,
+  "family_count": 332,
+  "living_count": 420,
   "lines": [
    {
     "key": "jehu",
@@ -96,33 +96,6 @@
    "death_year": null,
    "burial_date": null,
    "burial_place": null
-  },
-  {
-   "id": "I29334914024",
-   "name": "Eula Mae",
-   "surname": "",
-   "living": false,
-   "line": "Jehu Barry Sanders",
-   "lines": [
-    "Jehu Barry Sanders"
-   ],
-   "father": null,
-   "mother": null,
-   "spouses": [
-    "I18109010233"
-   ],
-   "children": [],
-   "sex": "F",
-   "birth_date": "03 Feb 1903",
-   "birth_md": "02-03",
-   "birth_place": null,
-   "birth_year": 1903,
-   "death_date": "22 May 1956",
-   "death_md": "05-22",
-   "death_place": null,
-   "death_year": 1956,
-   "burial_date": null,
-   "burial_place": "Tuscaloosa Memorial Park, Tuscaloosa, Tuscaloosa County, Alabama, United States of America"
   },
   {
    "id": "I29333417592",
@@ -1520,17 +1493,19 @@
    "lines": [],
    "father": "I18109010742",
    "mother": "I18109012439",
-   "spouses": [],
+   "spouses": [
+    "I29338000309"
+   ],
    "children": [],
    "sex": "F",
-   "birth_date": "7 Jul 1883",
-   "birth_md": "07-07",
+   "birth_date": "Jul 1883",
+   "birth_md": null,
    "birth_place": "Mississippi",
    "birth_year": 1883,
-   "death_date": "1936",
+   "death_date": null,
    "death_md": null,
    "death_place": null,
-   "death_year": 1936,
+   "death_year": null,
    "burial_date": null,
    "burial_place": null
   },
@@ -1642,12 +1617,12 @@
    "birth_md": null,
    "birth_place": "Jones, Mississippi, United States",
    "birth_year": 1886,
-   "death_date": "1921",
-   "death_md": null,
+   "death_date": "28 Mar 1920",
+   "death_md": "03-28",
    "death_place": "Perry, Mississippi, United States",
-   "death_year": 1921,
+   "death_year": 1920,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Buck Creek Memorial Cemetery, Perry County, Mississippi, USA"
   },
   {
    "id": "I29338000087",
@@ -2482,6 +2457,84 @@
    ]
   },
   {
+   "id": "I29338000328",
+   "name": "Curtis Leonard Blanton",
+   "surname": "Blanton",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000325",
+   "mother": "I29338000326",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "4 Jul 1920",
+   "birth_md": "07-04",
+   "birth_place": "Brent, Escambia County, Florida, USA",
+   "birth_year": 1920,
+   "death_date": "10 Mar 1999",
+   "death_md": "03-10",
+   "death_place": null,
+   "death_year": 1999,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000327",
+   "name": "Ethel M. Blanton",
+   "surname": "Blanton",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000325",
+   "mother": "I29338000326",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": "ABT 1908",
+   "birth_md": null,
+   "birth_place": "Florida, USA",
+   "birth_year": 1908,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000329",
+   "name": "James W. Blanton",
+   "surname": "Blanton",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000330"
+   ],
+   "children": [
+    "I29338000325"
+   ]
+  },
+  {
+   "id": "I29338000330",
+   "name": "Jerutha Blanton",
+   "surname": "Blanton",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000329"
+   ],
+   "children": [
+    "I29338000325"
+   ]
+  },
+  {
    "id": "I29338000104",
    "name": "Mildred Louise Blanton",
    "surname": "Blanton",
@@ -2490,8 +2543,8 @@
    "lines": [
     "Thorough Good Sanders"
    ],
-   "father": null,
-   "mother": null,
+   "father": "I29338000325",
+   "mother": "I29338000326",
    "spouses": [
     "I29333121470",
     "I29338000270"
@@ -2514,6 +2567,51 @@
    "death_year": 2004,
    "burial_date": null,
    "burial_place": "New Hope Primitive Baptist Church Cemetery, La Crosse, Alachua County, Florida, USA"
+  },
+  {
+   "id": "I29338000325",
+   "name": "Timothy Leonard Blanton",
+   "surname": "Blanton",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000329",
+   "mother": "I29338000330",
+   "spouses": [
+    "I29338000326"
+   ],
+   "children": [
+    "I29338000327",
+    "I29338000104",
+    "I29338000328"
+   ],
+   "sex": "M",
+   "birth_date": "20 Oct 1886",
+   "birth_md": "10-20",
+   "birth_place": "Wallace, Duplin County, North Carolina, USA",
+   "birth_year": 1886,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000337",
+   "name": "Lula Block",
+   "surname": "Block",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000336"
+   ],
+   "children": [
+    "I18109010247"
+   ]
   },
   {
    "id": "I29338000027",
@@ -3365,6 +3463,22 @@
    ]
   },
   {
+   "id": "I29338000339",
+   "name": "Ada Mae Carraway",
+   "surname": "Carraway",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000338"
+   ],
+   "children": [
+    "I18109010246"
+   ]
+  },
+  {
    "id": "I29336320330",
    "name": "Anthony David Carroll",
    "surname": "Carroll",
@@ -3485,6 +3599,22 @@
    "mother": "I29336319962",
    "spouses": [],
    "children": []
+  },
+  {
+   "id": "I29338000303",
+   "name": "Eva C Catoe",
+   "surname": "Catoe",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000302"
+   ],
+   "children": [
+    "I18109010221"
+   ]
   },
   {
    "id": "I29337205679",
@@ -3834,6 +3964,32 @@
    "mother": "I29333685477",
    "spouses": [],
    "children": []
+  },
+  {
+   "id": "I29338000309",
+   "name": "Felder F. Courtney",
+   "surname": "Courtney",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333964483",
+    "I29338000310"
+   ],
+   "children": [],
+   "sex": "M",
+   "birth_date": "8 Oct 1883",
+   "birth_md": "10-08",
+   "birth_place": null,
+   "birth_year": 1883,
+   "death_date": "17 Dec 1975",
+   "death_md": "12-17",
+   "death_place": null,
+   "death_year": 1975,
+   "burial_date": null,
+   "burial_place": "Buck Creek Memorial Cemetery, Perry County, Mississippi, USA"
   },
   {
    "id": "I29338000288",
@@ -4583,6 +4739,38 @@
    "children": []
   },
   {
+   "id": "I29338000335",
+   "name": "Stephen W. Emmons",
+   "surname": "Emmons",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000326"
+   ],
+   "children": []
+  },
+  {
+   "id": "I29338000297",
+   "name": "Beryl Esse",
+   "surname": "Esse",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000296"
+   ],
+   "children": [
+    "I29338000298"
+   ]
+  },
+  {
    "id": "I29333478763",
    "name": "Gunnar Olsen Esse",
    "surname": "Esse",
@@ -4596,7 +4784,9 @@
    "spouses": [
     "I18109010288"
    ],
-   "children": [],
+   "children": [
+    "I29338000296"
+   ],
    "sex": "M",
    "birth_date": "27 Mar 1910",
    "birth_md": "03-27",
@@ -4607,7 +4797,25 @@
    "death_place": "San Antonio, Bexar, Texas",
    "death_year": 2011,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Bueche Cemetery, Windcrest, Bexar County, Texas, USA"
+  },
+  {
+   "id": "I29338000296",
+   "name": "Terry L. Esse",
+   "surname": "Esse",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": "I29333478763",
+   "mother": "I18109010288",
+   "spouses": [
+    "I29338000297"
+   ],
+   "children": [
+    "I29338000298"
+   ]
   },
   {
    "id": "I29333579786",
@@ -6113,7 +6321,7 @@
    "death_place": "Perry Co, Mississippi",
    "death_year": 1923,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Burch Cemetery, Richton, Perry County, Mississippi, USA"
   },
   {
    "id": "I29333964475",
@@ -6990,8 +7198,24 @@
    "children": []
   },
   {
+   "id": "I29338000307",
+   "name": "David L. Howton",
+   "surname": "Howton",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000308"
+   ],
+   "children": [
+    "I29334914024"
+   ]
+  },
+  {
    "id": "I29335086340",
-   "name": "David M Howton",
+   "name": "David Murphy Howton",
    "surname": "Howton",
    "living": false,
    "line": "Jehu Barry Sanders",
@@ -7015,6 +7239,33 @@
    "death_year": 1985,
    "burial_date": null,
    "burial_place": "Tuscaloosa, Tuscaloosa, Alabama, USA"
+  },
+  {
+   "id": "I29334914024",
+   "name": "Eula Mae Howton",
+   "surname": "Howton",
+   "living": false,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": "I29338000307",
+   "mother": "I29338000308",
+   "spouses": [
+    "I18109010233"
+   ],
+   "children": [],
+   "sex": "F",
+   "birth_date": "03 Feb 1903",
+   "birth_md": "02-03",
+   "birth_place": "Alabama, USA",
+   "birth_year": 1903,
+   "death_date": "22 May 1956",
+   "death_md": "05-22",
+   "death_place": "Tuscaloosa, Tuscaloosa County, Alabama, USA",
+   "death_year": 1956,
+   "burial_date": null,
+   "burial_place": "Tuscaloosa Memorial Park, Tuscaloosa, Tuscaloosa County, Alabama, United States of America"
   },
   {
    "id": "I29336878002",
@@ -7282,6 +7533,29 @@
    "burial_place": null
   },
   {
+   "id": "I29338000301",
+   "name": "Alton Jones",
+   "surname": "Jones",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000299",
+   "mother": "I29338000300",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "15 Nov 1919",
+   "birth_md": "11-15",
+   "birth_place": "Jay, Santa Rosa County, Florida, USA",
+   "birth_year": 1919,
+   "death_date": "27 Feb 1993",
+   "death_md": "02-27",
+   "death_place": null,
+   "death_year": 1993,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
    "id": "I250164760187",
    "name": "Bridger Jones",
    "surname": "Jones",
@@ -7306,8 +7580,8 @@
    "lines": [
     "Jehu Barry Sanders"
    ],
-   "father": null,
-   "mother": null,
+   "father": "I29338000299",
+   "mother": "I29338000300",
    "spouses": [
     "I18109010290"
    ],
@@ -7318,7 +7592,7 @@
     "I18109010286"
    ],
    "sex": "F",
-   "birth_date": "Jan 27 1924",
+   "birth_date": "27 Jan 1924",
    "birth_md": "01-27",
    "birth_place": "Florida",
    "birth_year": 1924,
@@ -7327,7 +7601,7 @@
    "death_place": "Escambia County, Florida, USA",
    "death_year": 2014,
    "burial_date": null,
-   "burial_place": "Pensacola, Escambia County, Florida, United States of America"
+   "burial_place": "Eastern Gate Memorial Gardens, Pensacola, Escambia County, Florida, USA"
   },
   {
    "id": "I250164057465",
@@ -7435,6 +7709,34 @@
     "I29338000259"
    ],
    "children": []
+  },
+  {
+   "id": "I29338000299",
+   "name": "Willis Samuel Jones",
+   "surname": "Jones",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000300"
+   ],
+   "children": [
+    "I18109010248",
+    "I29338000301"
+   ],
+   "sex": "M",
+   "birth_date": "1867",
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": 1867,
+   "death_date": "1942",
+   "death_md": null,
+   "death_place": "Santa Rosa County, Florida, USA",
+   "death_year": 1942,
+   "burial_date": null,
+   "burial_place": "Mount Carmel Cemetery, Jay, Santa Rosa County, Florida, USA"
   },
   {
    "id": "I29334277235",
@@ -7566,14 +7868,14 @@
    "sex": "M",
    "birth_date": "29 Sep 1882",
    "birth_md": "09-29",
-   "birth_place": "Caseo Cumber, Maine",
+   "birth_place": "Casco, Cumberland County, Maine, USA",
    "birth_year": 1882,
    "death_date": "06 APR 1956",
    "death_md": "04-06",
-   "death_place": "Nebraska, USA",
+   "death_place": "Omaha, Douglas County, Nebraska, USA",
    "death_year": 1956,
    "burial_date": null,
-   "burial_place": "Ashland, Saunders County, Nebraska"
+   "burial_place": "Ashland Cemetery, Ashland, Saunders County, Nebraska, USA"
   },
   {
    "id": "I18109012950",
@@ -8424,7 +8726,7 @@
    "id": "I29338000276",
    "name": "Emilie Lavallee",
    "surname": "Lavallee",
-   "living": true,
+   "living": false,
    "line": "Connected family",
    "lines": [],
    "father": null,
@@ -8433,8 +8735,25 @@
     "I29338000275"
    ],
    "children": [
-    "I29338000248"
-   ]
+    "I29338000318",
+    "I29338000319",
+    "I29338000248",
+    "I29338000320",
+    "I29338000321",
+    "I29338000322",
+    "I29338000323"
+   ],
+   "sex": "F",
+   "birth_date": "ABT 1861",
+   "birth_md": null,
+   "birth_place": "Canada",
+   "birth_year": 1861,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I250164941055",
@@ -8470,13 +8789,13 @@
   },
   {
    "id": "I18109010246",
-   "name": "Jeanette Lewis",
+   "name": "Edna Jeanette Lewis",
    "surname": "Lewis",
-   "living": true,
+   "living": false,
    "line": "Connected family",
    "lines": [],
-   "father": null,
-   "mother": null,
+   "father": "I29338000338",
+   "mother": "I29338000339",
    "spouses": [
     "I18109010247"
    ],
@@ -8489,6 +8808,33 @@
     "I18109016203",
     "I18109010232",
     "I18109016204"
+   ],
+   "sex": "F",
+   "birth_date": "09 APR 1938",
+   "birth_md": "04-09",
+   "birth_place": "Florida, USA",
+   "birth_year": 1938,
+   "death_date": "6 Aug 2021",
+   "death_md": "08-06",
+   "death_place": null,
+   "death_year": 2021,
+   "burial_date": null,
+   "burial_place": "Bay Springs Full Gospel Church Cemetery, Bay Springs, Escambia County, Florida, USA"
+  },
+  {
+   "id": "I29338000338",
+   "name": "Noah Edward Lewis",
+   "surname": "Lewis",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000339"
+   ],
+   "children": [
+    "I18109010246"
    ]
   },
   {
@@ -8620,8 +8966,8 @@
    "living": false,
    "line": "Connected family",
    "lines": [],
-   "father": null,
-   "mother": null,
+   "father": "I29338000336",
+   "mother": "I29338000337",
    "spouses": [
     "I18109010246"
    ],
@@ -8642,10 +8988,10 @@
    "birth_year": 1934,
    "death_date": "24 APR 2008",
    "death_md": "04-24",
-   "death_place": "Pensacola, Escambia Co, Florida, USA",
+   "death_place": null,
    "death_year": 2008,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Bay Springs Full Gospel Church Cemetery, Bay Springs, Escambia County, Florida, USA"
   },
   {
    "id": "I18109016203",
@@ -8686,6 +9032,22 @@
    "mother": "I18109010246",
    "spouses": [],
    "children": []
+  },
+  {
+   "id": "I29338000336",
+   "name": "John Melvin Lollie",
+   "surname": "Lollie",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000337"
+   ],
+   "children": [
+    "I18109010247"
+   ]
   },
   {
    "id": "I18109016202",
@@ -8833,9 +9195,9 @@
   },
   {
    "id": "I29338000267",
-   "name": "Minnie L. Malphurs",
+   "name": "Minnie Lee Malphurs",
    "surname": "Malphurs",
-   "living": true,
+   "living": false,
    "line": "Connected family",
    "lines": [],
    "father": null,
@@ -8844,8 +9206,22 @@
     "I29338000266"
    ],
    "children": [
-    "I29338000111"
-   ]
+    "I29338000313",
+    "I29338000111",
+    "I29338000314",
+    "I29338000315"
+   ],
+   "sex": "F",
+   "birth_date": "8 Mar 1894",
+   "birth_md": "03-08",
+   "birth_place": "Georgia, USA",
+   "birth_year": 1894,
+   "death_date": "12 Jan 1979",
+   "death_md": "01-12",
+   "death_place": "Duval County, Florida, USA",
+   "death_year": 1979,
+   "burial_date": null,
+   "burial_place": "New Hope Primitive Baptist Cemetery, La Crosse, Alachua County, Florida, USA"
   },
   {
    "id": "I29333690861",
@@ -8988,6 +9364,22 @@
    "death_year": 1910,
    "burial_date": null,
    "burial_place": null
+  },
+  {
+   "id": "I29338000317",
+   "name": "Celina Marchand",
+   "surname": "Marchand",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000316"
+   ],
+   "children": [
+    "I29338000275"
+   ]
   },
   {
    "id": "I29338000005",
@@ -12432,6 +12824,22 @@
    ]
   },
   {
+   "id": "I29338000308",
+   "name": "Lizzie Miller",
+   "surname": "Miller",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000307"
+   ],
+   "children": [
+    "I29334914024"
+   ]
+  },
+  {
    "id": "I29333123629",
    "name": "Vera Miller",
    "surname": "Miller",
@@ -12593,12 +13001,12 @@
    "birth_md": "09-23",
    "birth_place": "Nebraska, USA",
    "birth_year": 1882,
-   "death_date": "AUG 1974",
-   "death_md": null,
-   "death_place": "Plattsmouth, Cass, Nebraska, USA",
+   "death_date": "26 Aug 1974",
+   "death_md": "08-26",
+   "death_place": null,
    "death_year": 1974,
    "burial_date": null,
-   "burial_place": "Ashland, Saunders County, Nebraska"
+   "burial_place": "Ashland Cemetery, Ashland, Saunders County, Nebraska, USA"
   },
   {
    "id": "I18109010231",
@@ -12924,13 +13332,14 @@
    "living": false,
    "line": "Connected family",
    "lines": [],
-   "father": null,
-   "mother": null,
+   "father": "I29338000305",
+   "mother": "I29338000306",
    "spouses": [
     "I18109010221"
    ],
    "children": [
-    "I18109010217"
+    "I18109010217",
+    "I29338000304"
    ],
    "sex": "F",
    "birth_date": "23 JAN 1926",
@@ -12942,7 +13351,39 @@
    "death_place": "Pensacola, Escambia Co, Florida, USA",
    "death_year": 2012,
    "burial_date": null,
-   "burial_place": "Bagdad, Santa Rosa County, Florida"
+   "burial_place": "Bagdad Cemetery, Bagdad, Santa Rosa County, Florida, USA"
+  },
+  {
+   "id": "I29338000305",
+   "name": "James Nelson",
+   "surname": "Nelson",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000306"
+   ],
+   "children": [
+    "I18109010220"
+   ]
+  },
+  {
+   "id": "I29338000306",
+   "name": "Vera Nelson",
+   "surname": "Nelson",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000305"
+   ],
+   "children": [
+    "I18109010220"
+   ]
   },
   {
    "id": "I29338000286",
@@ -14031,6 +14472,31 @@
    "burial_place": null
   },
   {
+   "id": "I29338000298",
+   "name": "Carrie Lynn Pierce",
+   "surname": "Pierce",
+   "living": false,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": "I29338000296",
+   "mother": "I29338000297",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": "ABT 1969",
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": 1969,
+   "death_date": "25 Jan 2010",
+   "death_md": "01-25",
+   "death_place": "Corpus Christi, Nueces County, Texas, USA",
+   "death_year": 2010,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
    "id": "I29338000152",
    "name": "Allen Henry Pinder",
    "surname": "Pinder",
@@ -14143,8 +14609,96 @@
    "burial_place": null
   },
   {
+   "id": "I29338000314",
+   "name": "Arlice Prevatt",
+   "surname": "Prevatt",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000266",
+   "mother": "I29338000267",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": "8 Mar 1915",
+   "birth_md": "03-08",
+   "birth_place": null,
+   "birth_year": 1915,
+   "death_date": "10 Feb 1917",
+   "death_md": "02-10",
+   "death_place": null,
+   "death_year": 1917,
+   "burial_date": null,
+   "burial_place": "New Hope Primitive Baptist Cemetery, La Crosse, Alachua County, Florida, USA"
+  },
+  {
+   "id": "I29338000315",
+   "name": "Bobbie E Prevatt",
+   "surname": "Prevatt",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000266",
+   "mother": "I29338000267",
+   "spouses": [],
+   "children": []
+  },
+  {
    "id": "I29338000266",
-   "name": "Edward Prevatt",
+   "name": "Edward James Prevatt",
+   "surname": "Prevatt",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000311",
+   "mother": "I29338000312",
+   "spouses": [
+    "I29338000267"
+   ],
+   "children": [
+    "I29338000313",
+    "I29338000111",
+    "I29338000314",
+    "I29338000315"
+   ],
+   "sex": "M",
+   "birth_date": "8 Nov 1891",
+   "birth_md": "11-08",
+   "birth_place": "Bradford County, Florida, USA",
+   "birth_year": 1891,
+   "death_date": "19 Apr 1973",
+   "death_md": "04-19",
+   "death_place": "Duval County, Florida, USA",
+   "death_year": 1973,
+   "burial_date": null,
+   "burial_place": "New Hope Primitive Baptist Cemetery, La Crosse, Alachua County, Florida, USA"
+  },
+  {
+   "id": "I29338000313",
+   "name": "Fred Prevatt",
+   "surname": "Prevatt",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000266",
+   "mother": "I29338000267",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "28 Nov 1910",
+   "birth_md": "11-28",
+   "birth_place": null,
+   "birth_year": 1910,
+   "death_date": "30 Nov 1918",
+   "death_md": "11-30",
+   "death_place": null,
+   "death_year": 1918,
+   "burial_date": null,
+   "burial_place": "New Hope Primitive Baptist Cemetery, La Crosse, Alachua County, Florida, USA"
+  },
+  {
+   "id": "I29338000311",
+   "name": "Lafayette Prevatt",
    "surname": "Prevatt",
    "living": true,
    "line": "Connected family",
@@ -14152,10 +14706,26 @@
    "father": null,
    "mother": null,
    "spouses": [
-    "I29338000267"
+    "I29338000312"
    ],
    "children": [
-    "I29338000111"
+    "I29338000266"
+   ]
+  },
+  {
+   "id": "I29338000312",
+   "name": "Rachael Prevatt",
+   "surname": "Prevatt",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000311"
+   ],
+   "children": [
+    "I29338000266"
    ]
   },
   {
@@ -15242,6 +15812,45 @@
    "children": []
   },
   {
+   "id": "I29338000324",
+   "name": "Hattie Roy",
+   "surname": "Roy",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000323"
+   ],
+   "children": []
+  },
+  {
+   "id": "I29338000310",
+   "name": "Dicy Rummels",
+   "surname": "Rummels",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000309"
+   ],
+   "children": [],
+   "sex": "F",
+   "birth_date": "4 Feb 1878",
+   "birth_md": "02-04",
+   "birth_place": null,
+   "birth_year": 1878,
+   "death_date": "23 Apr 1950",
+   "death_md": "04-23",
+   "death_place": null,
+   "death_year": 1950,
+   "burial_date": null,
+   "burial_place": "Buck Creek Memorial Cemetery, Perry County, Mississippi, USA"
+  },
+  {
    "id": "I29338000210",
    "name": "Edward O. Russell",
    "surname": "Russell",
@@ -15453,7 +16062,7 @@
    "birth_year": 1931,
    "death_date": "17 Jun 2020",
    "death_md": "06-17",
-   "death_place": null,
+   "death_place": "Arkadelphia, Clark County, Arkansas, USA",
    "death_year": 2020,
    "burial_date": null,
    "burial_place": "Rome Cemetery, Clark County, Arkansas, USA"
@@ -16597,7 +17206,7 @@
    "id": "I29337205367",
    "name": "Jeanne Sanders",
    "surname": "Sanders",
-   "living": true,
+   "living": false,
    "line": "Jehu Barry Sanders",
    "lines": [
     "Jehu Barry Sanders"
@@ -16614,7 +17223,18 @@
     "I29337205485",
     "I29337205516",
     "I29337205495"
-   ]
+   ],
+   "sex": "F",
+   "birth_date": "15 Sep 1954",
+   "birth_md": "09-15",
+   "birth_place": "Arkansas, USA",
+   "birth_year": 1954,
+   "death_date": "BEF 17 Jun 2020",
+   "death_md": null,
+   "death_place": null,
+   "death_year": 2020,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I18109010280",
@@ -16791,10 +17411,10 @@
    "birth_year": 1931,
    "death_date": "15 Feb 1992",
    "death_md": "02-15",
-   "death_place": "Gardendale, Jefferson, Alabama, USA",
+   "death_place": null,
    "death_year": 1992,
    "burial_date": null,
-   "burial_place": "Hanceville, Cullman County, Alabama"
+   "burial_place": "Hopewell Cemetery, Hanceville, Cullman County, Alabama, USA"
   },
   {
    "id": "I29338000143",
@@ -17365,7 +17985,9 @@
    "spouses": [
     "I29333478763"
    ],
-   "children": [],
+   "children": [
+    "I29338000296"
+   ],
    "sex": "F",
    "birth_date": "24 MAR 1915",
    "birth_md": "03-24",
@@ -17376,7 +17998,7 @@
    "death_place": "Texas, USA",
    "death_year": 2010,
    "burial_date": null,
-   "burial_place": "Windcrest, Bexar County, Texas, USA"
+   "burial_place": "Bueche Cemetery, Windcrest, Bexar County, Texas, USA"
   },
   {
    "id": "I252465971466",
@@ -17758,7 +18380,7 @@
    "death_place": "Pensacola, Escambia, Florida, USA",
    "death_year": 1991,
    "burial_date": null,
-   "burial_place": "Pensacola, Escambia County, Florida, USA"
+   "burial_place": "Eastern Gate Memorial Gardens, Pensacola, Escambia County, Florida, USA"
   },
   {
    "id": "I252465971462",
@@ -17846,7 +18468,7 @@
    "death_place": "Cottondale, Tuscaloosa, Alabama, USA",
    "death_year": 1985,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Tuscaloosa Memorial Park, Tuscaloosa, Tuscaloosa County, Alabama, USA"
   },
   {
    "id": "I29338000142",
@@ -17916,7 +18538,7 @@
    "death_place": "Richton, Perry, Mississippi, USA",
    "death_year": 1922,
    "burial_date": null,
-   "burial_place": null
+   "burial_place": "Burch Cemetery, Richton, Perry County, Mississippi, USA"
   },
   {
    "id": "I18109014911",
@@ -19432,6 +20054,34 @@
    "children": []
   },
   {
+   "id": "I29338000300",
+   "name": "Lemma Eugene Trawick",
+   "surname": "Trawick",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000299"
+   ],
+   "children": [
+    "I18109010248",
+    "I29338000301"
+   ],
+   "sex": "F",
+   "birth_date": "12 Jul 1895",
+   "birth_md": "07-12",
+   "birth_place": "Alabama, USA",
+   "birth_year": 1895,
+   "death_date": "30 Aug 1978",
+   "death_md": "08-30",
+   "death_place": null,
+   "death_year": 1978,
+   "burial_date": null,
+   "burial_place": "Mount Carmel Cemetery, Jay, Santa Rosa County, Florida, USA"
+  },
+  {
    "id": "I29333579771",
    "name": "Isephenia Lavicy Abrigella Traywick",
    "surname": "Traywick",
@@ -19503,8 +20153,87 @@
    "burial_place": null
   },
   {
+   "id": "I29338000318",
+   "name": "Albert L. Trottier",
+   "surname": "Trottier",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000275",
+   "mother": "I29338000276",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "1885",
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": 1885,
+   "death_date": "29 Mar 1892",
+   "death_md": "03-29",
+   "death_place": "Springvale, Sanford, York County, Maine, USA",
+   "death_year": 1892,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
    "id": "I29338000275",
    "name": "Albert Trottier",
+   "surname": "Trottier",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000316",
+   "mother": "I29338000317",
+   "spouses": [
+    "I29338000276"
+   ],
+   "children": [
+    "I29338000318",
+    "I29338000319",
+    "I29338000248",
+    "I29338000320",
+    "I29338000321",
+    "I29338000322",
+    "I29338000323"
+   ],
+   "sex": "M",
+   "birth_date": "Feb 1860",
+   "birth_md": null,
+   "birth_place": "Canada",
+   "birth_year": 1860,
+   "death_date": "23 Jun 1909",
+   "death_md": "06-23",
+   "death_place": "Amesbury, Essex County, Massachusetts, USA",
+   "death_year": 1909,
+   "burial_date": "25 Jun 1909",
+   "burial_place": "Springvale, Maine, USA"
+  },
+  {
+   "id": "I29338000322",
+   "name": "Alexander Trottier",
+   "surname": "Trottier",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000275",
+   "mother": "I29338000276",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "ABT 1899",
+   "birth_md": null,
+   "birth_place": "Maine, USA",
+   "birth_year": 1899,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000316",
+   "name": "Leo Trottier",
    "surname": "Trottier",
    "living": true,
    "line": "Connected family",
@@ -19512,11 +20241,105 @@
    "father": null,
    "mother": null,
    "spouses": [
-    "I29338000276"
+    "I29338000317"
    ],
    "children": [
-    "I29338000248"
+    "I29338000275"
    ]
+  },
+  {
+   "id": "I29338000319",
+   "name": "Louis H. Trottier",
+   "surname": "Trottier",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000275",
+   "mother": "I29338000276",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "22 Feb 1885",
+   "birth_md": "02-22",
+   "birth_place": "Maine, USA",
+   "birth_year": 1885,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000320",
+   "name": "Marian Trottier",
+   "surname": "Trottier",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000275",
+   "mother": "I29338000276",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": "ABT 1892",
+   "birth_md": null,
+   "birth_place": "Maine, USA",
+   "birth_year": 1892,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000321",
+   "name": "Regina Trottier",
+   "surname": "Trottier",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000275",
+   "mother": "I29338000276",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": "ABT 1895",
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": 1895,
+   "death_date": "4 Jun 1897",
+   "death_md": "06-04",
+   "death_place": "Springvale, Sanford, York County, Maine, USA",
+   "death_year": 1897,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000323",
+   "name": "William Trottier",
+   "surname": "Trottier",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000275",
+   "mother": "I29338000276",
+   "spouses": [
+    "I29338000324"
+   ],
+   "children": [],
+   "sex": "M",
+   "birth_date": "ABT 1902",
+   "birth_md": null,
+   "birth_place": "Massachusetts, USA",
+   "birth_year": 1902,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I29338000219",
@@ -19768,6 +20591,140 @@
    "children": [
     "I29338000148"
    ]
+  },
+  {
+   "id": "I29338000334",
+   "name": "Frances L. Villar",
+   "surname": "Villar",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000331",
+   "mother": "I29338000332",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": "Aug 1890",
+   "birth_md": null,
+   "birth_place": "Florida, USA",
+   "birth_year": 1890,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000333",
+   "name": "Isabella Villar",
+   "surname": "Villar",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000331",
+   "mother": "I29338000332",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": "Aug 1889",
+   "birth_md": null,
+   "birth_place": "Florida, USA",
+   "birth_year": 1889,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000332",
+   "name": "Josephen Villar",
+   "surname": "Villar",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000331"
+   ],
+   "children": [
+    "I29338000326",
+    "I29338000333",
+    "I29338000334"
+   ],
+   "sex": "F",
+   "birth_date": "Jul 1869",
+   "birth_md": null,
+   "birth_place": "Florida, USA",
+   "birth_year": 1869,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000326",
+   "name": "Josephine Villar",
+   "surname": "Villar",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000331",
+   "mother": "I29338000332",
+   "spouses": [
+    "I29338000325",
+    "I29338000335"
+   ],
+   "children": [
+    "I29338000327",
+    "I29338000104",
+    "I29338000328"
+   ],
+   "sex": "F",
+   "birth_date": "Dec 1883",
+   "birth_md": null,
+   "birth_place": "Pensacola, Escambia County, Florida, USA",
+   "birth_year": 1883,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000331",
+   "name": "Martin Villar",
+   "surname": "Villar",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000332"
+   ],
+   "children": [
+    "I29338000326",
+    "I29338000333",
+    "I29338000334"
+   ],
+   "sex": "M",
+   "birth_date": "Jul 1849",
+   "birth_md": null,
+   "birth_place": "Florida, USA",
+   "birth_year": 1849,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I29338000234",
@@ -20045,19 +21002,59 @@
    "children": []
   },
   {
+   "id": "I29338000302",
+   "name": "Bardtley F Ward",
+   "surname": "Ward",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000303"
+   ],
+   "children": [
+    "I18109010221"
+   ]
+  },
+  {
+   "id": "I29338000304",
+   "name": "Belvin Ray Ward",
+   "surname": "Ward",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I18109010221",
+   "mother": "I18109010220",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "13 NOV 1952",
+   "birth_md": "11-13",
+   "birth_place": "Pensacola, Escambia County, Florida, USA",
+   "birth_year": 1952,
+   "death_date": "12 JAN 2006",
+   "death_md": "01-12",
+   "death_place": null,
+   "death_year": 2006,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
    "id": "I18109010221",
    "name": "Burvee Belvin Ward",
    "surname": "Ward",
    "living": false,
    "line": "Connected family",
    "lines": [],
-   "father": null,
-   "mother": null,
+   "father": "I29338000302",
+   "mother": "I29338000303",
    "spouses": [
     "I18109010220"
    ],
    "children": [
-    "I18109010217"
+    "I18109010217",
+    "I29338000304"
    ],
    "sex": "M",
    "birth_date": "31 JAN 1924",
@@ -20068,8 +21065,8 @@
    "death_md": "12-29",
    "death_place": "Tuskegee, Macon, Alabama, United States",
    "death_year": 2000,
-   "burial_date": "JAN",
-   "burial_place": "Bagdad Cemetery, Santa Rosa Co., Florida"
+   "burial_date": null,
+   "burial_place": "Bagdad Cemetery, Bagdad, Santa Rosa County, Florida, USA"
   },
   {
    "id": "I18109010217",
@@ -20178,10 +21175,10 @@
     "I18109015745"
    ],
    "sex": "M",
-   "birth_date": "abt 1926",
-   "birth_md": null,
+   "birth_date": "1 Feb 1923",
+   "birth_md": "02-01",
    "birth_place": "Alabama",
-   "birth_year": 1926,
+   "birth_year": 1923,
    "death_date": "30 Mar 1966",
    "death_md": "03-30",
    "death_place": "Foley, Baldwin, Alabama",
