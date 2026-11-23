@@ -194,7 +194,6 @@ footer {
 .footer-note { font-style: italic; font-size: 0.92rem; max-width: 560px; margin: 0.3rem auto 0; }
 
 /* Share & Contact */
-.main-nav a.nav-new { color: var(--accent); font-weight: bold; }
 .how-line { border-top: 1px solid var(--rule); margin-top: 1.4rem; padding-top: 1rem; }
 .how-steps { font-family: "IM Fell English", serif; font-size: 1.08rem; color: var(--accent); margin: 0 0 0.4rem; }
 .how-line p { margin: 0.2rem 0; max-width: 46rem; }
