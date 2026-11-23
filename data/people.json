@@ -1,9 +1,9 @@
 {
  "meta": {
   "generated_from": "Sanders-newly-revised.ged",
-  "people_count": 979,
-  "family_count": 332,
-  "living_count": 420,
+  "people_count": 989,
+  "family_count": 334,
+  "living_count": 429,
   "lines": [
    {
     "key": "jehu",
@@ -6947,6 +6947,22 @@
    "children": []
   },
   {
+   "id": "I29338000344",
+   "name": "Anita Heathcock",
+   "surname": "Heathcock",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000343"
+   ],
+   "children": [
+    "I29338000253"
+   ]
+  },
+  {
    "id": "I29338000264",
    "name": "William Edward Henegar",
    "surname": "Henegar",
@@ -8308,18 +8324,12 @@
    "name": "Alice Kennedy",
    "surname": "Kennedy",
    "living": true,
-   "line": "Jehu Barry Sanders",
-   "lines": [
-    "Jehu Barry Sanders"
-   ],
+   "line": "Connected family",
+   "lines": [],
    "father": null,
    "mother": null,
    "spouses": [],
-   "children": [
-    "I29334890218",
-    "I29334889628",
-    "I29334890194"
-   ]
+   "children": []
   },
   {
    "id": "I29333145194",
@@ -8336,20 +8346,50 @@
    "children": []
   },
   {
+   "id": "I29338000343",
+   "name": "Alton Kilburn",
+   "surname": "Kilburn",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000344"
+   ],
+   "children": [
+    "I29338000253"
+   ]
+  },
+  {
    "id": "I29338000253",
    "name": "Tina Annette Kilburn",
    "surname": "Kilburn",
-   "living": true,
+   "living": false,
    "line": "Jehu Barry Sanders",
    "lines": [
     "Jehu Barry Sanders"
    ],
-   "father": null,
-   "mother": null,
+   "father": "I29338000343",
+   "mother": "I29338000344",
    "spouses": [
     "I18109010286"
    ],
-   "children": []
+   "children": [
+    "I29334890194",
+    "I29334889628"
+   ],
+   "sex": "F",
+   "birth_date": "15 MAY 1962",
+   "birth_md": "05-15",
+   "birth_place": "Missouri, USA",
+   "birth_year": 1962,
+   "death_date": "28 MAY 2018",
+   "death_md": "05-28",
+   "death_place": "Pensacola, Escambia, Florida, USA",
+   "death_year": 2018,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I29335030762",
@@ -9106,7 +9146,8 @@
     "I29335667348"
    ],
    "children": [
-    "I29335948141"
+    "I29335948141",
+    "I29338000340"
    ]
   },
   {
@@ -9481,6 +9522,83 @@
    "death_year": 1843,
    "burial_date": null,
    "burial_place": null
+  },
+  {
+   "id": "I29338000346",
+   "name": "Drayden Martorana",
+   "surname": "Martorana",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": "I29338000345",
+   "mother": "I29334889628",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000347",
+   "name": "Jakob Martorana",
+   "surname": "Martorana",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": "I29338000345",
+   "mother": "I29334889628",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000345",
+   "name": "Michael Martorana",
+   "surname": "Martorana",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29334889628"
+   ],
+   "children": [
+    "I29338000346",
+    "I29338000347",
+    "I29338000348",
+    "I29338000349"
+   ]
+  },
+  {
+   "id": "I29338000348",
+   "name": "Piper Martorana",
+   "surname": "Martorana",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": "I29338000345",
+   "mother": "I29334889628",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000349",
+   "name": "Remi Martorana",
+   "surname": "Martorana",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": "I29338000345",
+   "mother": "I29334889628",
+   "spouses": [],
+   "children": []
   },
   {
    "id": "I29337433263",
@@ -13339,7 +13457,8 @@
    ],
    "children": [
     "I18109010217",
-    "I29338000304"
+    "I29338000304",
+    "I29338000341"
    ],
    "sex": "F",
    "birth_date": "23 JAN 1926",
@@ -14152,6 +14271,20 @@
    "burial_place": null
   },
   {
+   "id": "I29338000340",
+   "name": "Frankie Patterson",
+   "surname": "Patterson",
+   "living": true,
+   "line": "George Lionel Sanders",
+   "lines": [
+    "George Lionel Sanders"
+   ],
+   "father": "I29335668276",
+   "mother": "I29335667348",
+   "spouses": [],
+   "children": []
+  },
+  {
    "id": "I29338000188",
    "name": "H. H. Patterson",
    "surname": "Patterson",
@@ -14287,7 +14420,8 @@
     "I29335668276"
    ],
    "children": [
-    "I29335948141"
+    "I29335948141",
+    "I29338000340"
    ],
    "sex": "F",
    "birth_date": "17 Feb 1930",
@@ -16354,7 +16488,7 @@
     "Jehu Barry Sanders"
    ],
    "father": "I18109010286",
-   "mother": "I29336948155",
+   "mother": "I29338000253",
    "spouses": [],
    "children": []
   },
@@ -17614,9 +17748,16 @@
     "Jehu Barry Sanders"
    ],
    "father": "I18109010286",
-   "mother": "I29336948155",
-   "spouses": [],
-   "children": []
+   "mother": "I29338000253",
+   "spouses": [
+    "I29338000345"
+   ],
+   "children": [
+    "I29338000346",
+    "I29338000347",
+    "I29338000348",
+    "I29338000349"
+   ]
   },
   {
    "id": "I18109010283",
@@ -17871,8 +18012,8 @@
    ],
    "children": [
     "I29334890218",
-    "I29334889628",
-    "I29334890194"
+    "I29334890194",
+    "I29334889628"
    ],
    "sex": "M",
    "birth_date": "30 Jul 1946",
@@ -18211,7 +18352,7 @@
     "Jehu Barry Sanders"
    ],
    "father": "I18109010286",
-   "mother": "I29336948155",
+   "mother": null,
    "spouses": [
     "I29334890825",
     "I29338000283",
@@ -21054,7 +21195,8 @@
    ],
    "children": [
     "I18109010217",
-    "I29338000304"
+    "I29338000304",
+    "I29338000341"
    ],
    "sex": "M",
    "birth_date": "31 JAN 1924",
@@ -21102,6 +21244,20 @@
    "burial_place": "Bagdad Historical Cemetery, Bagdad, Santa Rosa County, Florida, USA"
   },
   {
+   "id": "I29338000341",
+   "name": "Edward Ward",
+   "surname": "Ward",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I18109010221",
+   "mother": "I18109010220",
+   "spouses": [
+    "I29338000342"
+   ],
+   "children": []
+  },
+  {
    "id": "I29338000191",
    "name": "Joe L. Ward",
    "surname": "Ward",
@@ -21144,6 +21300,20 @@
    "death_year": 2002,
    "burial_date": null,
    "burial_place": null
+  },
+  {
+   "id": "I29338000342",
+   "name": "Linda Ward",
+   "surname": "Ward",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000341"
+   ],
+   "children": []
   },
   {
    "id": "I29338000192",
