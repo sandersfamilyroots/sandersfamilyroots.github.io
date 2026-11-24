@@ -1,9 +1,9 @@
 {
  "meta": {
   "generated_from": "Sanders-newly-revised.ged",
-  "people_count": 1015,
-  "family_count": 343,
-  "living_count": 441,
+  "people_count": 1054,
+  "family_count": 361,
+  "living_count": 458,
   "lines": [
    {
     "key": "jehu",
@@ -495,6 +495,22 @@
    "burial_place": null
   },
   {
+   "id": "I29338000388",
+   "name": "Sarah E. Allen",
+   "surname": "Allen",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000387"
+   ],
+   "children": [
+    "I29338000385"
+   ]
+  },
+  {
    "id": "I29333995823",
    "name": "Vernon Eugene Allen",
    "surname": "Allen",
@@ -519,17 +535,30 @@
   },
   {
    "id": "I29338000038",
-   "name": "Diana V. Alton",
+   "name": "Dianne Yvonnie Alton",
    "surname": "Alton",
-   "living": true,
+   "living": false,
    "line": "Thomas J. Sanders",
    "lines": [
     "Thomas J. Sanders"
    ],
    "father": "I29338000036",
    "mother": "I29333582389",
-   "spouses": [],
-   "children": []
+   "spouses": [
+    "I29338000412"
+   ],
+   "children": [],
+   "sex": "F",
+   "birth_date": "5 FEB 1949",
+   "birth_md": "02-05",
+   "birth_place": "Jacksonville, Duval County, Florida, USA",
+   "birth_year": 1949,
+   "death_date": "24 NOV 1990",
+   "death_md": "11-24",
+   "death_place": "Baker, Florida, USA",
+   "death_year": 1990,
+   "burial_date": null,
+   "burial_place": "Restlawn Memorial Park, Jacksonville, Duval County, Florida, USA"
   },
   {
    "id": "I29338000036",
@@ -2422,6 +2451,18 @@
    "burial_place": "Gulfport, Harrison County, Mississippi"
   },
   {
+   "id": "I29338000380",
+   "name": "Debra Baylis",
+   "surname": "Baylis",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000376",
+   "mother": "I29338000370",
+   "spouses": [],
+   "children": []
+  },
+  {
    "id": "I29338000244",
    "name": "Hannah Bevis",
    "surname": "Bevis",
@@ -2468,6 +2509,20 @@
    "children": [
     "I29338000244"
    ]
+  },
+  {
+   "id": "I29338000382",
+   "name": "Dan Bickham",
+   "surname": "Bickham",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000370"
+   ],
+   "children": []
   },
   {
    "id": "I29338000060",
@@ -6012,6 +6067,18 @@
    "burial_place": null
   },
   {
+   "id": "I29338000381",
+   "name": "Eletha Gardner",
+   "surname": "Gardner",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000376",
+   "mother": "I29338000370",
+   "spouses": [],
+   "children": []
+  },
+  {
    "id": "I29338000035",
    "name": "William Perry Garmany",
    "surname": "Garmany",
@@ -6141,6 +6208,92 @@
     "I29334886156"
    ],
    "children": []
+  },
+  {
+   "id": "I29338000402",
+   "name": "Mary Graham",
+   "surname": "Graham",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000401"
+   ],
+   "children": [
+    "I29338000400"
+   ],
+   "sex": "F",
+   "birth_date": "ABT 1866",
+   "birth_md": null,
+   "birth_place": "Mississippi, USA",
+   "birth_year": 1866,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000401",
+   "name": "Matt V. Graham",
+   "surname": "Graham",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000402"
+   ],
+   "children": [
+    "I29338000400"
+   ],
+   "sex": "M",
+   "birth_date": "JAN 1862",
+   "birth_md": null,
+   "birth_place": "Mississippi, USA",
+   "birth_year": 1862,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000400",
+   "name": "Winnie A. Graham",
+   "surname": "Graham",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000401",
+   "mother": "I29338000402",
+   "spouses": [
+    "I29338000399"
+   ],
+   "children": [
+    "I29338000403",
+    "I29338000404",
+    "I29338000405",
+    "I29337433263",
+    "I29338000407",
+    "I29338000408"
+   ],
+   "sex": "F",
+   "birth_date": "NOV 1885",
+   "birth_md": null,
+   "birth_place": "Mississippi, USA",
+   "birth_year": 1885,
+   "death_date": "1922",
+   "death_md": null,
+   "death_place": null,
+   "death_year": 1922,
+   "burial_date": null,
+   "burial_place": "Brown Cemetery, Blodgett, Jones County, Mississippi, USA"
   },
   {
    "id": "I29338000358",
@@ -6402,6 +6555,40 @@
    "burial_place": "Eastern Gate Memorial Gardens, Pensacola, Escambia, Florida, USA"
   },
   {
+   "id": "I29338000386",
+   "name": "Emily Jane Griffin",
+   "surname": "Griffin",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000385"
+   ],
+   "children": [
+    "I29338000398",
+    "I29338000258",
+    "I29338000352",
+    "I29338000391",
+    "I29338000395",
+    "I29338000393",
+    "I29338000396",
+    "I29338000397"
+   ],
+   "sex": "F",
+   "birth_date": "ABT 1873",
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": 1873,
+   "death_date": "1 JUL 1954",
+   "death_md": "07-01",
+   "death_place": null,
+   "death_year": 1954,
+   "burial_date": null,
+   "burial_place": "Roseland Park Cemetery, Hattiesburg, Forrest County, Mississippi, USA"
+  },
+  {
    "id": "I18109012439",
    "name": "Margaret Elizabeth Grimsley",
    "surname": "Grimsley",
@@ -6532,6 +6719,22 @@
    "mother": null,
    "spouses": [
     "I29333964484"
+   ],
+   "children": []
+  },
+  {
+   "id": "I29338000414",
+   "name": "Bonney Gail Hague",
+   "surname": "Hague",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29333478666"
    ],
    "children": []
   },
@@ -7189,6 +7392,50 @@
    "burial_place": null
   },
   {
+   "id": "I29338000379",
+   "name": "Alton Holder",
+   "surname": "Holder",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000376",
+   "mother": "I29338000370",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000376",
+   "name": "Holder",
+   "surname": "Holder",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000370"
+   ],
+   "children": [
+    "I29338000377",
+    "I29338000378",
+    "I29338000379",
+    "I29338000380",
+    "I29338000381"
+   ]
+  },
+  {
+   "id": "I29338000377",
+   "name": "Kenneth Ray Holder",
+   "surname": "Holder",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000376",
+   "mother": "I29338000370",
+   "spouses": [],
+   "children": []
+  },
+  {
    "id": "I29338000250",
    "name": "Ralph Franklin Holder",
    "surname": "Holder",
@@ -7202,6 +7449,18 @@
    "spouses": [
     "I29335160685"
    ],
+   "children": []
+  },
+  {
+   "id": "I29338000378",
+   "name": "Robert D. Holder",
+   "surname": "Holder",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000376",
+   "mother": "I29338000370",
+   "spouses": [],
    "children": []
   },
   {
@@ -7395,7 +7654,7 @@
    "death_place": "Tuscaloosa, Tuscaloosa County, Alabama, USA",
    "death_year": 1956,
    "burial_date": null,
-   "burial_place": "Tuscaloosa Memorial Park, Tuscaloosa, Tuscaloosa County, Alabama, United States of America"
+   "burial_place": "Big Hurricane Cemetery, Brookwood, Tuscaloosa County, Alabama, USA"
   },
   {
    "id": "I29336878002",
@@ -7513,6 +7772,33 @@
    ]
   },
   {
+   "id": "I29338000383",
+   "name": "Grover Henry Jacobsen",
+   "surname": "Jacobsen",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000384"
+   ],
+   "children": [
+    "I29336876641"
+   ],
+   "sex": "M",
+   "birth_date": "ABT 1918",
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": 1918,
+   "death_date": "24 APR 2007",
+   "death_md": "04-24",
+   "death_place": "Jacksonville, Duval County, Florida, USA",
+   "death_year": 2007,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
    "id": "I29336876641",
    "name": "Rosann Kay Jacobsen",
    "surname": "Jacobsen",
@@ -7521,8 +7807,8 @@
    "lines": [
     "Thomas J. Sanders"
    ],
-   "father": null,
-   "mother": null,
+   "father": "I29338000383",
+   "mother": "I29338000384",
    "spouses": [
     "I29333685479"
    ],
@@ -8418,6 +8704,20 @@
    ]
   },
   {
+   "id": "I29338000389",
+   "name": "C. L. Kelly",
+   "surname": "Kelly",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000385"
+   ],
+   "children": []
+  },
+  {
    "id": "I29338000252",
    "name": "Alice Juanita Kennedy",
    "surname": "Kennedy",
@@ -8443,6 +8743,22 @@
    "father": null,
    "mother": null,
    "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000411",
+   "name": "Robert Reid Kenney",
+   "surname": "Kenney",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29336876657"
+   ],
    "children": []
   },
   {
@@ -8592,6 +8908,33 @@
    "mother": "I29334833679",
    "spouses": [],
    "children": []
+  },
+  {
+   "id": "I29338000384",
+   "name": "Marcella V. Krosch",
+   "surname": "Krosch",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000383"
+   ],
+   "children": [
+    "I29336876641"
+   ],
+   "sex": "F",
+   "birth_date": "AUG 1922",
+   "birth_md": null,
+   "birth_place": "Faribault County, Minnesota, USA",
+   "birth_year": 1922,
+   "death_date": "14 JUL 2016",
+   "death_md": "07-14",
+   "death_place": "Jacksonville, Duval County, Florida, USA",
+   "death_year": 2016,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I29333576670",
@@ -9292,6 +9635,22 @@
    "burial_place": "Midway Cemetery #2, Lamar County, Mississippi"
   },
   {
+   "id": "I29338000412",
+   "name": "Lowery",
+   "surname": "Lowery",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000038"
+   ],
+   "children": []
+  },
+  {
    "id": "I29336134603",
    "name": "Kelsey Machado",
    "surname": "Machado",
@@ -9537,6 +9896,22 @@
    ]
   },
   {
+   "id": "I29338000410",
+   "name": "Michael Lee Marr",
+   "surname": "Marr",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000002"
+   ],
+   "children": []
+  },
+  {
    "id": "I29338000005",
    "name": "Addie Marshall",
    "surname": "Marshall",
@@ -9715,6 +10090,75 @@
    "children": []
   },
   {
+   "id": "I29338000403",
+   "name": "George Sherman Mason",
+   "surname": "Mason",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000399",
+   "mother": "I29338000400",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "15 OCT 1900",
+   "birth_md": "10-15",
+   "birth_place": null,
+   "birth_year": 1900,
+   "death_date": "29 DEC 1974",
+   "death_md": "12-29",
+   "death_place": null,
+   "death_year": 1974,
+   "burial_date": null,
+   "burial_place": "Bethel Baptist Church Cemetery, Marion, Mississippi, USA"
+  },
+  {
+   "id": "I29338000407",
+   "name": "Martha Belle Mason",
+   "surname": "Mason",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000399",
+   "mother": "I29338000400",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": "13 MAR 1918",
+   "birth_md": "03-13",
+   "birth_place": "Janice, Mississippi, USA",
+   "birth_year": 1918,
+   "death_date": "25 OCT 1994",
+   "death_md": "10-25",
+   "death_place": null,
+   "death_year": 1994,
+   "burial_date": null,
+   "burial_place": "Brown Cemetery, Blodgett, Jones County, Mississippi, USA"
+  },
+  {
+   "id": "I29338000404",
+   "name": "Matthew Mason",
+   "surname": "Mason",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000399",
+   "mother": "I29338000400",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "ABT 1905",
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": 1905,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
    "id": "I29337433263",
    "name": "Sadie Mae Mason",
    "surname": "Mason",
@@ -9723,8 +10167,8 @@
    "lines": [
     "Lucy Ophelia Sanders"
    ],
-   "father": null,
-   "mother": null,
+   "father": "I29338000399",
+   "mother": "I29338000400",
    "spouses": [
     "I29333612143"
    ],
@@ -9737,16 +10181,72 @@
     "I29338000043"
    ],
    "sex": "F",
-   "birth_date": "1913",
-   "birth_md": null,
-   "birth_place": null,
-   "birth_year": 1913,
-   "death_date": "1942",
-   "death_md": null,
-   "death_place": null,
+   "birth_date": "16 AUG 1908",
+   "birth_md": "08-16",
+   "birth_place": "Richton, Perry County, Mississippi, USA",
+   "birth_year": 1908,
+   "death_date": "7 JUL 1942",
+   "death_md": "07-07",
+   "death_place": "Gulfport, Harrison County, Mississippi, USA",
    "death_year": 1942,
    "burial_date": null,
    "burial_place": "Allen Cemetery, Long Beach, Harrison County, Mississippi, USA"
+  },
+  {
+   "id": "I29338000399",
+   "name": "Thomas N. Mason",
+   "surname": "Mason",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000400"
+   ],
+   "children": [
+    "I29338000403",
+    "I29338000404",
+    "I29338000405",
+    "I29337433263",
+    "I29338000407"
+   ],
+   "sex": "M",
+   "birth_date": "JAN 1875",
+   "birth_md": null,
+   "birth_place": "Mississippi, USA",
+   "birth_year": 1875,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000405",
+   "name": "Verdie Mason",
+   "surname": "Mason",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000399",
+   "mother": "I29338000400",
+   "spouses": [
+    "I29338000406"
+   ],
+   "children": [],
+   "sex": "F",
+   "birth_date": "ABT 1907",
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": 1907,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I18109010249",
@@ -10470,7 +10970,9 @@
    ],
    "father": "I29333685479",
    "mother": "I29336876641",
-   "spouses": [],
+   "spouses": [
+    "I29338000411"
+   ],
    "children": []
   },
   {
@@ -10669,7 +11171,10 @@
    ],
    "father": "I29333685479",
    "mother": "I29336876641",
-   "spouses": [],
+   "spouses": [
+    "I29338000409",
+    "I29338000410"
+   ],
    "children": []
   },
   {
@@ -13477,6 +13982,34 @@
    "burial_place": null
   },
   {
+   "id": "I29338000392",
+   "name": "Moss",
+   "surname": "Moss",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000391"
+   ],
+   "children": []
+  },
+  {
+   "id": "I29338000394",
+   "name": "Sam L. Myers",
+   "surname": "Myers",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000393"
+   ],
+   "children": []
+  },
+  {
    "id": "I29335160611",
    "name": "Alex Agcaoili Nagtalon",
    "surname": "Nagtalon",
@@ -14397,6 +14930,31 @@
    ]
   },
   {
+   "id": "I29338000187",
+   "name": "Betty Jean Patterson",
+   "surname": "Patterson",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29336867562",
+   "mother": "I29338000181",
+   "spouses": [
+    "I29338000413"
+   ],
+   "children": [],
+   "sex": "F",
+   "birth_date": "22 FEB 1936",
+   "birth_md": "02-22",
+   "birth_place": null,
+   "birth_year": 1936,
+   "death_date": "27 AUG 2025",
+   "death_md": "08-27",
+   "death_place": null,
+   "death_year": 2025,
+   "burial_date": null,
+   "burial_place": "Moselle Memorial Gardens, Jones County, Mississippi, USA"
+  },
+  {
    "id": "I29338000355",
    "name": "Billie Gene Patterson",
    "surname": "Patterson",
@@ -14424,18 +14982,6 @@
    "death_year": 2024,
    "burial_date": null,
    "burial_place": "Moselle Memorial Gardens, Moselle, Jones County, Mississippi, USA"
-  },
-  {
-   "id": "I29338000187",
-   "name": "Billie Jane Patterson",
-   "surname": "Patterson",
-   "living": true,
-   "line": "Connected family",
-   "lines": [],
-   "father": "I29336867562",
-   "mother": "I29338000181",
-   "spouses": [],
-   "children": []
   },
   {
    "id": "I29338000373",
@@ -14634,7 +15180,8 @@
    "children": [
     "I29338000257",
     "I29338000259",
-    "I29338000261"
+    "I29338000261",
+    "I29338000390"
    ],
    "sex": "F",
    "birth_date": "14 Dec 1906",
@@ -14902,6 +15449,22 @@
    "burial_place": null
   },
   {
+   "id": "I29338000409",
+   "name": "Jeffrey John Pierce",
+   "surname": "Pierce",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000002"
+   ],
+   "children": []
+  },
+  {
    "id": "I29338000152",
    "name": "Allen Henry Pinder",
    "surname": "Pinder",
@@ -14953,6 +15516,29 @@
    "death_md": null,
    "death_place": "Isle of Wight County, Virginia",
    "death_year": 1711,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000408",
+   "name": "Mannda Plumber",
+   "surname": "Plumber",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": "I29338000400",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": "ABT 1913",
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": 1913,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
    "burial_date": null,
    "burial_place": null
   },
@@ -15175,20 +15761,83 @@
    "living": false,
    "line": "Connected family",
    "lines": [],
-   "father": null,
-   "mother": null,
+   "father": "I29338000385",
+   "mother": "I29338000386",
    "spouses": [
     "I29338000189"
    ],
    "children": [
     "I29338000259",
-    "I29338000261"
+    "I29338000261",
+    "I29338000390"
    ],
    "sex": "M",
-   "birth_date": "19 NOV 1902",
-   "birth_md": "11-19",
+   "birth_date": "19 SEP 1901",
+   "birth_md": "09-19",
    "birth_place": "Jones County, Mississippi, USA",
-   "birth_year": 1902,
+   "birth_year": 1901,
+   "death_date": "25 NOV 1968",
+   "death_md": "11-25",
+   "death_place": null,
+   "death_year": 1968,
+   "burial_date": null,
+   "burial_place": "Union Cemetery, Moselle, Jones County, Mississippi, USA"
+  },
+  {
+   "id": "I29338000387",
+   "name": "Albert G. Pulliam",
+   "surname": "Pulliam",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000388"
+   ],
+   "children": [
+    "I29338000385"
+   ]
+  },
+  {
+   "id": "I29338000395",
+   "name": "Callie Pulliam",
+   "surname": "Pulliam",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000385",
+   "mother": "I29338000386",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": "ABT 1909",
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": 1909,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000396",
+   "name": "George Lee Pulliam",
+   "surname": "Pulliam",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000385",
+   "mother": "I29338000386",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "ABT 1912",
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": 1912,
    "death_date": null,
    "death_md": null,
    "death_place": null,
@@ -15198,15 +15847,35 @@
   },
   {
    "id": "I29338000370",
-   "name": "Glady Pulliam",
+   "name": "Gladys Pulliam",
    "surname": "Pulliam",
-   "living": true,
+   "living": false,
    "line": "Connected family",
    "lines": [],
    "father": "I29338000352",
    "mother": "I29338000353",
-   "spouses": [],
-   "children": []
+   "spouses": [
+    "I29338000376",
+    "I29338000382"
+   ],
+   "children": [
+    "I29338000377",
+    "I29338000378",
+    "I29338000379",
+    "I29338000380",
+    "I29338000381"
+   ],
+   "sex": "F",
+   "birth_date": "20 MAY 1935",
+   "birth_md": "05-20",
+   "birth_place": null,
+   "birth_year": 1935,
+   "death_date": "1 OCT 2014",
+   "death_md": "10-01",
+   "death_place": "Hattiesburg, Forrest County, Mississippi, USA",
+   "death_year": 2014,
+   "burial_date": null,
+   "burial_place": "Union Cemetery, Moselle, Jones County, Mississippi, USA"
   },
   {
    "id": "I29338000352",
@@ -15215,8 +15884,8 @@
    "living": false,
    "line": "Connected family",
    "lines": [],
-   "father": null,
-   "mother": null,
+   "father": "I29338000385",
+   "mother": "I29338000386",
    "spouses": [
     "I29338000371",
     "I29338000353"
@@ -15238,6 +15907,20 @@
    "death_year": 1977,
    "burial_date": null,
    "burial_place": "Union Cemetery, Moselle, Jones County, Mississippi, USA"
+  },
+  {
+   "id": "I29338000393",
+   "name": "Loran Pulliam",
+   "surname": "Pulliam",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000385",
+   "mother": "I29338000386",
+   "spouses": [
+    "I29338000394"
+   ],
+   "children": []
   },
   {
    "id": "I250157118705",
@@ -15270,6 +15953,29 @@
    "death_year": 2007,
    "burial_date": null,
    "burial_place": "Forrest Memorial Gardens, Petal, Forrest County, Mississippi, United States"
+  },
+  {
+   "id": "I29338000398",
+   "name": "Nancy Elizabeth Pulliam",
+   "surname": "Pulliam",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000385",
+   "mother": "I29338000386",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": "ABT 1900",
+   "birth_md": null,
+   "birth_place": null,
+   "birth_year": 1900,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
   },
   {
    "id": "I29338000369",
@@ -15311,6 +16017,20 @@
    "children": []
   },
   {
+   "id": "I29338000413",
+   "name": "Pulliam",
+   "surname": "Pulliam",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000187"
+   ],
+   "children": []
+  },
+  {
    "id": "I29338000371",
    "name": "Ruby Pulliam",
    "surname": "Pulliam",
@@ -15325,6 +16045,41 @@
    "children": []
   },
   {
+   "id": "I29338000385",
+   "name": "Rufus Almond Pulliam",
+   "surname": "Pulliam",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000387",
+   "mother": "I29338000388",
+   "spouses": [
+    "I29338000386",
+    "I29338000389"
+   ],
+   "children": [
+    "I29338000398",
+    "I29338000258",
+    "I29338000352",
+    "I29338000391",
+    "I29338000395",
+    "I29338000393",
+    "I29338000396",
+    "I29338000397"
+   ],
+   "sex": "M",
+   "birth_date": "12 MAY 1878",
+   "birth_md": "05-12",
+   "birth_place": "Newton County, Mississippi, USA",
+   "birth_year": 1878,
+   "death_date": "5 FEB 1963",
+   "death_md": "02-05",
+   "death_place": null,
+   "death_year": 1963,
+   "burial_date": null,
+   "burial_place": "Sharon Cemetery, Sharon, Jones County, Mississippi, USA"
+  },
+  {
    "id": "I29338000259",
    "name": "Rufus Pulliam",
    "surname": "Pulliam",
@@ -15337,6 +16092,77 @@
     "I29338000260"
    ],
    "children": []
+  },
+  {
+   "id": "I29338000397",
+   "name": "Rufus Vinson Pulliam",
+   "surname": "Pulliam",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000385",
+   "mother": "I29338000386",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "30 APR 1916",
+   "birth_md": "04-30",
+   "birth_place": "Moselle, Jones County, Mississippi, USA",
+   "birth_year": 1916,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null
+  },
+  {
+   "id": "I29338000391",
+   "name": "Sarah Caroline Pulliam",
+   "surname": "Pulliam",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000385",
+   "mother": "I29338000386",
+   "spouses": [
+    "I29338000392"
+   ],
+   "children": [],
+   "sex": "F",
+   "birth_date": "3 FEB 1907",
+   "birth_md": "02-03",
+   "birth_place": "Moselle, Jones County, Mississippi, USA",
+   "birth_year": 1907,
+   "death_date": "26 JAN 2001",
+   "death_md": "01-26",
+   "death_place": null,
+   "death_year": 2001,
+   "burial_date": null,
+   "burial_place": "Union Cemetery, Moselle, Jones County, Mississippi, USA"
+  },
+  {
+   "id": "I29338000390",
+   "name": "Thomas A. Pulliam",
+   "surname": "Pulliam",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29338000258",
+   "mother": "I29338000189",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "15 JUL 1941",
+   "birth_md": "07-15",
+   "birth_place": null,
+   "birth_year": 1941,
+   "death_date": "10 DEC 2010",
+   "death_md": "12-10",
+   "death_place": null,
+   "death_year": 2010,
+   "burial_date": null,
+   "burial_place": "Union Cemetery, Moselle, Jones County, Mississippi, USA"
   },
   {
    "id": "I29338000368",
@@ -17377,7 +18203,8 @@
    "father": "I18109010290",
    "mother": "I18109010248",
    "spouses": [
-    "I29333479009"
+    "I29333479009",
+    "I29338000414"
    ],
    "children": [
     "I29335895784"
@@ -17387,8 +18214,8 @@
    "birth_md": "12-20",
    "birth_place": "Florida, USA",
    "birth_year": 1943,
-   "death_date": "15 Jun 1992",
-   "death_md": "06-15",
+   "death_date": "7 Jun 1992",
+   "death_md": "06-07",
    "death_place": null,
    "death_year": 1992,
    "burial_date": null,
@@ -21532,7 +22359,7 @@
    "death_place": "Pass Christian, Harrison, Mississippi, USA",
    "death_year": 1977,
    "burial_date": null,
-   "burial_place": "Gulfport, Harrison County, Mississippi"
+   "burial_place": "Allen Cemetery, Long Beach, Harrison County, Mississippi, USA"
   },
   {
    "id": "I29333655385",
@@ -22281,6 +23108,20 @@
    "death_year": 1992,
    "burial_date": null,
    "burial_place": null
+  },
+  {
+   "id": "I29338000406",
+   "name": "Johnnie H. Williams",
+   "surname": "Williams",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000405"
+   ],
+   "children": []
   },
   {
    "id": "I29338000133",
