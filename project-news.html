@@ -42,15 +42,53 @@
     </div>
   </section>
 
-  <section>
-    <h2>On this day in family history — November 24</h2>
-    <ul class="finds">
-      <li><b>James A. Walley</b> was born on this day in <b>1914</b>.</li>
-      <li><b>Permelia Ann Menasco</b> died on this day in <b>1908</b>.</li>
-      <li><b>Dianne Yvonnie Alton</b> died on this day in <b>1990</b>.</li>
-    </ul>
-    <p class="news-sub">Drawn from the tree each day — birthdays, wedding days, and anniversaries of our ancestors.</p>
+  <section id="on-this-day" hidden>
+    <h2>On this day in family history — <span class="otd-date"></span></h2>
+    <ul class="finds otd-list"></ul>
+    <p class="news-sub">Drawn from the tree and refreshed every day — births and deaths on this date in family history.</p>
   </section>
+  <script>
+  (function () {
+    var now = new Date();
+    var md = String(now.getMonth() + 1).padStart(2, "0") + "-" + String(now.getDate()).padStart(2, "0");
+    var monthNames = ["January", "February", "March", "April", "May", "June", "July",
+                      "August", "September", "October", "November", "December"];
+    fetch("data/people.json")
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        var births = data.people.filter(function (p) { return p.birth_md === md; });
+        births.sort(function (a, b) { return (a.birth_year || 0) - (b.birth_year || 0); });
+        var deaths = data.people.filter(function (p) { return p.death_md === md; });
+        deaths.sort(function (a, b) { return (a.death_year || 0) - (b.death_year || 0); });
+        var sec = document.getElementById("on-this-day");
+        sec.querySelector(".otd-date").textContent =
+          monthNames[now.getMonth()] + " " + now.getDate();
+        var list = sec.querySelector(".otd-list");
+        function addItem(p, verb, year) {
+          var li = document.createElement("li");
+          var a = document.createElement("a");
+          a.href = "person.html?id=" + p.id;
+          a.textContent = p.name;
+          li.appendChild(a);
+          li.appendChild(document.createTextNode(" " + verb + " on this day in "));
+          var b = document.createElement("b");
+          b.textContent = year;
+          li.appendChild(b);
+          li.appendChild(document.createTextNode("."));
+          list.appendChild(li);
+        }
+        births.forEach(function (p) { addItem(p, "was born", p.birth_year); });
+        deaths.forEach(function (p) { addItem(p, "died", p.death_year); });
+        if (!births.length && !deaths.length) {
+          var li = document.createElement("li");
+          li.textContent = "No births or deaths in the tree are recorded for this day.";
+          list.appendChild(li);
+        }
+        sec.hidden = false;
+      })
+      .catch(function () { /* leave the section hidden if the data cannot load */ });
+  })();
+  </script>
 
   <section>
     <h2>Latest finds</h2>
