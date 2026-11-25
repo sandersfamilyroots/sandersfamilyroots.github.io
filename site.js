@@ -100,6 +100,62 @@
                         : '<p class="none">Not recorded.</p>';
   }
 
+  /* Spouse list with the marriage line under each spouse's name.
+     Marriage details render ONLY for a deceased person whose spouse is
+     also deceased (the generator withholds them otherwise, emitting a
+     bare "withheld" flag with no date or place). A living person's own
+     page never shows a marriage line at all. */
+  function spouseList(p) {
+    if (!p.spouses || !p.spouses.length) return '<p class="none">Not recorded.</p>';
+    var marrBySpouse = {};
+    (p.marriages || []).forEach(function (m) { marrBySpouse[m.spouse] = m; });
+    var items = p.spouses.map(function (id) {
+      var s = byId[id];
+      if (!s) return "";
+      var html = "<li>" + personLink(s) + ' <span class="person-meta">' + datesLine(s) + "</span>";
+      if (!p.living) {
+        var m = marrBySpouse[id];
+        if (m && m.withheld) {
+          html += '<div class="marr-line">marriage details withheld — spouse living</div>';
+        } else if (m && (m.date || m.place)) {
+          html += '<div class="marr-line">m. ' +
+            escapeHtml([m.date, m.place].filter(Boolean).join(" · ")) + "</div>";
+        }
+      }
+      return html + "</li>";
+    }).filter(Boolean);
+    return items.length ? "<ul class='rel-list'>" + items.join("") + "</ul>"
+                        : '<p class="none">Not recorded.</p>';
+  }
+
+  /* Sources box (deceased people only): source titles from the family
+     file, grouped by fact, plus contributor credits under "Family". */
+  function sourcesBox(p) {
+    if (p.living || !p.sources) return "";
+    var order = ["Born", "Married", "Died", "Buried", "Family"];
+    var rows = order.filter(function (g) {
+      return p.sources[g] && p.sources[g].length;
+    }).map(function (g) {
+      return "<dt>" + escapeHtml(g) + "</dt><dd>" +
+        p.sources[g].map(escapeHtml).join("<br>") + "</dd>";
+    });
+    if (!rows.length) return "";
+    return '<div class="sources"><h3>Sources</h3><dl class="facts">' +
+      rows.join("") + "</dl></div>";
+  }
+
+  /* Contributor credit on a living person's page: the ONLY addition the
+     new format makes there — a name and a date, no facts. */
+  function sharedByLine(p) {
+    if (!p.living || !p.shared_by || !p.shared_by.length) return "";
+    var credits = p.shared_by.map(function (c) {
+      return escapeHtml(c.name) + " · family group sheet" +
+        (c.date ? ", " + escapeHtml(c.date) : "");
+    });
+    return '<p class="shared-by"><strong>Shared by</strong> ' +
+      credits.join("; ") + "</p>";
+  }
+
   function renderPerson() {
     var box = document.getElementById("person-view");
     if (!box) return;
@@ -142,8 +198,10 @@
         ' military service view &rarr;</a></p>';
     }
     html += "<h3>Parents</h3>" + relList([p.father, p.mother].filter(Boolean));
-    html += "<h3>" + (p.spouses && p.spouses.length > 1 ? "Spouses" : "Spouse") + "</h3>" + relList(p.spouses);
+    html += "<h3>" + (p.spouses && p.spouses.length > 1 ? "Spouses" : "Spouse") + "</h3>" + spouseList(p);
     html += "<h3>Children</h3>" + relList(p.children);
+    html += sourcesBox(p);
+    html += sharedByLine(p);
     html += '<p class="back-links"><a href="people.html">&larr; Everyone in the tree</a> · ' +
       '<a href="lines.html">The five lines</a></p>';
     box.innerHTML = html;
