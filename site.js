@@ -279,6 +279,8 @@
 
   function renderMemorials() {
     var box = document.getElementById("memorials-list");
+    var input = document.getElementById("memorial-search");
+    var count = document.getElementById("memorial-count");
     if (!box) return;
     var entries = Object.keys(memorials).map(function (id) {
       return { p: byId[id], m: memorials[id] };
@@ -294,27 +296,51 @@
     });
     if (!entries.length) {
       box.innerHTML = "<p>No memorials have been added yet.</p>";
+      if (count) count.textContent = "";
       return;
     }
-    var html = '<div class="memorial-cards">';
-    entries.forEach(function (e) {
-      var p = e.p;
-      var m = e.m;
-      var has = [];
-      if (m.photo) has.push("Headstone photo");
-      if (m.obituary && m.obituary.text) has.push("Obituary");
-      html += '<a class="memorial-card" href="person.html?id=' + encodeURIComponent(p.id) + '">';
-      if (m.photo)
-        html += '<img src="' + escapeHtml(m.photo) + '" alt="Headstone of ' + escapeHtml(p.name) + '">';
-      html += '<span class="memorial-card-name">' + escapeHtml(p.name) + "</span>";
-      html += '<span class="memorial-card-dates">' + datesLine(p) + "</span>";
-      if (p.burial_place)
-        html += '<span class="memorial-card-burial">' + escapeHtml(p.burial_place) + "</span>";
-      if (has.length)
-        html += '<span class="memorial-card-has">' + has.join(" · ") + "</span>";
-      html += "</a>";
-    });
-    box.innerHTML = html + "</div>";
+
+    function draw(list) {
+      if (count) count.textContent = list.length + " of " + entries.length + " memorials";
+      if (!list.length) {
+        box.innerHTML = "<p>No one matches that search yet.</p>";
+        return;
+      }
+      var html = '<div class="memorial-cards">';
+      list.forEach(function (e) {
+        var p = e.p;
+        var m = e.m;
+        var has = [];
+        if (m.photo) has.push("Headstone photo");
+        if (m.obituary && m.obituary.text) has.push("Obituary");
+        html += '<a class="memorial-card" href="person.html?id=' + encodeURIComponent(p.id) + '">';
+        if (m.photo)
+          html += '<img src="' + escapeHtml(m.photo) + '" alt="Headstone of ' + escapeHtml(p.name) + '">';
+        html += '<span class="memorial-card-name">' + escapeHtml(p.name) + "</span>";
+        html += '<span class="memorial-card-dates">' + datesLine(p) + "</span>";
+        if (p.burial_place)
+          html += '<span class="memorial-card-burial">' + escapeHtml(p.burial_place) + "</span>";
+        if (has.length)
+          html += '<span class="memorial-card-has">' + has.join(" · ") + "</span>";
+        html += "</a>";
+      });
+      box.innerHTML = html + "</div>";
+    }
+
+    draw(entries);
+    if (input) {
+      input.addEventListener("input", function () {
+        var q = input.value.trim().toLowerCase();
+        if (!q) { draw(entries); return; }
+        draw(entries.filter(function (e) {
+          var p = e.p;
+          var hay = [p.name, p.burial_place || "", p.birth_year || "", p.death_year || ""]
+            .join(" ").toLowerCase();
+          return hay.indexOf(q) !== -1;
+        }));
+      });
+      if (location.hash === "#search") input.focus();
+    }
   }
 
   /* ---------------- Lines page ---------------- */
