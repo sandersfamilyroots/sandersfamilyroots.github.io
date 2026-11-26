@@ -1,9 +1,9 @@
 {
  "meta": {
   "generated_from": "Sanders-newly-revised.ged",
-  "people_count": 1054,
-  "family_count": 361,
-  "living_count": 458,
+  "people_count": 1068,
+  "family_count": 368,
+  "living_count": 470,
   "lines": [
    {
     "key": "jehu",
@@ -4713,6 +4713,22 @@
    }
   },
   {
+   "id": "I29338000424",
+   "name": "Carl Chism",
+   "surname": "Chism",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000422"
+   ],
+   "children": []
+  },
+  {
    "id": "I250164052945",
    "name": "Benoni Cilley",
    "surname": "Cilley",
@@ -4993,7 +5009,11 @@
    "spouses": [
     "I29336878002"
    ],
-   "children": [],
+   "children": [
+    "I29338000421",
+    "I29338000422",
+    "I29338000423"
+   ],
    "sex": "F",
    "birth_date": "10 MAY 1951",
    "birth_md": "05-10",
@@ -8311,7 +8331,9 @@
    "spouses": [
     "I29333478666"
    ],
-   "children": []
+   "children": [
+    "I29335895784"
+   ]
   },
   {
    "id": "I29334886536",
@@ -8953,7 +8975,10 @@
    "spouses": [
     "I29338000195"
    ],
-   "children": [],
+   "children": [
+    "I29338000428",
+    "I29338000429"
+   ],
    "sex": "F",
    "birth_date": "6 May 1933",
    "birth_md": "05-06",
@@ -8982,15 +9007,35 @@
    }
   },
   {
+   "id": "I29338000426",
+   "name": "Bob Higbee",
+   "surname": "Higbee",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000081"
+   ],
+   "children": []
+  },
+  {
    "id": "I29338000081",
    "name": "Brenda Higbee",
    "surname": "Higbee",
    "living": true,
-   "line": "Connected family",
-   "lines": [],
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
    "father": null,
-   "mother": null,
-   "spouses": [],
+   "mother": "I29333685477",
+   "spouses": [
+    "I29338000426"
+   ],
    "children": []
   },
   {
@@ -9411,6 +9456,56 @@
    "spouses": [
     "I29336877977"
    ],
+   "children": [
+    "I29338000421",
+    "I29338000422",
+    "I29338000423"
+   ]
+  },
+  {
+   "id": "I29338000423",
+   "name": "Janice Hubbard",
+   "surname": "Hubbard",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": "I29336878002",
+   "mother": "I29336877977",
+   "spouses": [
+    "I29338000425"
+   ],
+   "children": []
+  },
+  {
+   "id": "I29338000421",
+   "name": "Kevin Hubbard",
+   "surname": "Hubbard",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": "I29336878002",
+   "mother": "I29336877977",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000422",
+   "name": "Peggy Hubbard",
+   "surname": "Hubbard",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": "I29336878002",
+   "mother": "I29336877977",
+   "spouses": [
+    "I29338000424"
+   ],
    "children": []
   },
   {
@@ -9683,6 +9778,22 @@
    "children": []
   },
   {
+   "id": "I29338000427",
+   "name": "Don Johnson",
+   "surname": "Johnson",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000082"
+   ],
+   "children": []
+  },
+  {
    "id": "I29335031230",
    "name": "Johnson",
    "surname": "Johnson",
@@ -9703,11 +9814,15 @@
    "name": "Kathy Johnson",
    "surname": "Johnson",
    "living": true,
-   "line": "Connected family",
-   "lines": [],
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
    "father": null,
-   "mother": null,
-   "spouses": [],
+   "mother": "I29333685477",
+   "spouses": [
+    "I29338000427"
+   ],
    "children": []
   },
   {
@@ -13624,6 +13739,34 @@
    "burial_place": null
   },
   {
+   "id": "I29338000420",
+   "name": "Jennifer McFarland",
+   "surname": "McFarland",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": "I29338000001",
+   "mother": "I29338000417",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000418",
+   "name": "Jessica McFarland",
+   "surname": "McFarland",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": "I29338000001",
+   "mother": "I29338000417",
+   "spouses": [],
+   "children": []
+  },
+  {
    "id": "I29338000004",
    "name": "Jessie McFarland",
    "surname": "McFarland",
@@ -13641,6 +13784,20 @@
     "I29333582388",
     "I29338000008"
    ]
+  },
+  {
+   "id": "I29338000419",
+   "name": "Joshua McFarland",
+   "surname": "McFarland",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": "I29338000001",
+   "mother": "I29338000417",
+   "spouses": [],
+   "children": []
   },
   {
    "id": "I29338000008",
@@ -13803,7 +13960,9 @@
     "I29336877977",
     "I29338000077",
     "I29338000078",
-    "I29338000080"
+    "I29338000080",
+    "I29338000081",
+    "I29338000082"
    ],
    "sex": "F",
    "birth_date": "1 December 1934",
@@ -13855,6 +14014,26 @@
      "U.S., Find A Grave Index, 1600s-Current"
     ]
    }
+  },
+  {
+   "id": "I29338000417",
+   "name": "Valerie E. McFarland",
+   "surname": "McFarland",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000001"
+   ],
+   "children": [
+    "I29338000418",
+    "I29338000419",
+    "I29338000420"
+   ]
   },
   {
    "id": "I29338000002",
@@ -13931,8 +14110,14 @@
    ],
    "father": "I29333685479",
    "mother": "I29336876641",
-   "spouses": [],
-   "children": [],
+   "spouses": [
+    "I29338000417"
+   ],
+   "children": [
+    "I29338000418",
+    "I29338000419",
+    "I29338000420"
+   ],
    "sex": "M",
    "birth_date": "abt 1965",
    "birth_md": null,
@@ -13944,6 +14129,12 @@
    "death_year": 2011,
    "burial_date": null,
    "burial_place": null,
+   "marriages": [
+    {
+     "spouse": "I29338000417",
+     "withheld": true
+    }
+   ],
    "sources": {
     "Born": [
      "FamilySearch signed-in research session, 13 November 2026 - McFarland and Jacobsen records"
@@ -18058,7 +18249,10 @@
    "spouses": [
     "I29338000196"
    ],
-   "children": [],
+   "children": [
+    "I29338000428",
+    "I29338000429"
+   ],
    "sex": "M",
    "birth_date": "6 Apr 1929",
    "birth_md": "04-06",
@@ -18077,6 +18271,78 @@
      "place": null
     }
    ],
+   "sources": {
+    "Born": [
+     "George Lionel Sanders line top-10 fold - individual searches of 17 November 2026 (web + FamilySearch)"
+    ],
+    "Died": [
+     "George Lionel Sanders line top-10 fold - individual searches of 17 November 2026 (web + FamilySearch)"
+    ],
+    "Buried": [
+     "George Lionel Sanders line top-10 fold - individual searches of 17 November 2026 (web + FamilySearch)"
+    ]
+   }
+  },
+  {
+   "id": "I29338000429",
+   "name": "James Michael Norris",
+   "surname": "Norris",
+   "living": false,
+   "line": "George Lionel Sanders",
+   "lines": [
+    "George Lionel Sanders"
+   ],
+   "father": "I29338000195",
+   "mother": "I29338000196",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "5 Oct 1955",
+   "birth_md": "10-05",
+   "birth_place": null,
+   "birth_year": 1955,
+   "death_date": "BEF 12 Dec 2023",
+   "death_md": null,
+   "death_place": null,
+   "death_year": 2023,
+   "burial_date": null,
+   "burial_place": "Moselle Memorial Gardens, Moselle, Jones County, Mississippi, USA",
+   "sources": {
+    "Born": [
+     "George Lionel Sanders line top-10 fold - individual searches of 17 November 2026 (web + FamilySearch)"
+    ],
+    "Died": [
+     "George Lionel Sanders line top-10 fold - individual searches of 17 November 2026 (web + FamilySearch)"
+    ],
+    "Buried": [
+     "George Lionel Sanders line top-10 fold - individual searches of 17 November 2026 (web + FamilySearch)"
+    ]
+   }
+  },
+  {
+   "id": "I29338000428",
+   "name": "James Robert Norris",
+   "surname": "Norris",
+   "living": false,
+   "line": "George Lionel Sanders",
+   "lines": [
+    "George Lionel Sanders"
+   ],
+   "father": "I29338000195",
+   "mother": "I29338000196",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "19 Jun 1953",
+   "birth_md": "06-19",
+   "birth_place": "Batesville, Panola County, Mississippi, USA",
+   "birth_year": 1953,
+   "death_date": "9 Apr 2026",
+   "death_md": "04-09",
+   "death_place": "Petal, Forrest County, Mississippi, USA",
+   "death_year": 2026,
+   "burial_date": null,
+   "burial_place": "Moselle Memorial Gardens, Moselle, Jones County, Mississippi, USA",
    "sources": {
     "Born": [
      "George Lionel Sanders line top-10 fold - individual searches of 17 November 2026 (web + FamilySearch)"
@@ -18397,22 +18663,6 @@
   },
   {
    "id": "I29335896462",
-   "name": "Jennifer Oliver",
-   "surname": "Oliver",
-   "living": true,
-   "line": "Jehu Barry Sanders",
-   "lines": [
-    "Jehu Barry Sanders"
-   ],
-   "father": null,
-   "mother": null,
-   "spouses": [
-    "I29335895784"
-   ],
-   "children": []
-  },
-  {
-   "id": "I29335897539",
    "name": "Jennifer Oliver",
    "surname": "Oliver",
    "living": true,
@@ -22149,18 +22399,22 @@
    "birth_md": "10-17",
    "birth_place": null,
    "birth_year": 1956,
-   "death_date": "Sep 1957",
-   "death_md": null,
+   "death_date": "17 Sep 1957",
+   "death_md": "09-17",
    "death_place": "Escambia County, Florida, United States",
    "death_year": 1957,
    "burial_date": null,
-   "burial_place": null,
+   "burial_place": "Jordan Cemetery",
    "sources": {
     "Born": [
      "FamilySearch signed-in research session, 13 November 2026 - Earl Sanders's infant children (Sarah Suzanne; Charles Andrew)"
     ],
     "Died": [
-     "FamilySearch signed-in research session, 13 November 2026 - Earl Sanders's infant children (Sarah Suzanne; Charles Andrew)"
+     "FamilySearch signed-in research session, 13 November 2026 - Earl Sanders's infant children (Sarah Suzanne; Charles Andrew)",
+     "Death notice of Charles Andrew Sanders, Pensacola News Journal, 18 September 1957 (shared by Samuel L. Sanders Jr., 25 November 2026)"
+    ],
+    "Buried": [
+     "Death notice of Charles Andrew Sanders, Pensacola News Journal, 18 September 1957 (shared by Samuel L. Sanders Jr., 25 November 2026)"
     ]
    }
   },
@@ -22511,7 +22765,7 @@
   },
   {
    "id": "I29335895784",
-   "name": "Derek Sanders",
+   "name": "Derek Eugene Sanders",
    "surname": "Sanders",
    "living": true,
    "line": "Jehu Barry Sanders",
@@ -22519,10 +22773,10 @@
     "Jehu Barry Sanders"
    ],
    "father": "I29333478666",
-   "mother": null,
+   "mother": "I29338000414",
    "spouses": [
     "I29335896462",
-    "I29335897539"
+    "I29338000415"
    ],
    "children": []
   },
@@ -22665,7 +22919,8 @@
     "I29338000414"
    ],
    "children": [
-    "I29335895784"
+    "I29335895784",
+    "I29338000416"
    ],
    "sex": "M",
    "birth_date": "20 Dec 1943",
@@ -22681,6 +22936,10 @@
    "marriages": [
     {
      "spouse": "I29333479009",
+     "withheld": true
+    },
+    {
+     "spouse": "I29338000414",
      "withheld": true
     },
     {
@@ -24590,6 +24849,20 @@
    ],
    "father": "I29337205405",
    "mother": "I29337205679",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000416",
+   "name": "Michelle Sanders",
+   "surname": "Sanders",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": "I29333478666",
+   "mother": null,
    "spouses": [],
    "children": []
   },
@@ -27165,6 +27438,22 @@
    "children": []
   },
   {
+   "id": "I29338000415",
+   "name": "Susan Rana Stubbs",
+   "surname": "Stubbs",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29335895784"
+   ],
+   "children": []
+  },
+  {
    "id": "I29338000103",
    "name": "Edmond B Stutts",
    "surname": "Stutts",
@@ -29114,6 +29403,22 @@
    "father": null,
    "mother": "I29336896144",
    "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000425",
+   "name": "Alan Whitehouse",
+   "surname": "Whitehouse",
+   "living": true,
+   "line": "Thomas J. Sanders",
+   "lines": [
+    "Thomas J. Sanders"
+   ],
+   "father": null,
+   "mother": null,
+   "spouses": [
+    "I29338000423"
+   ],
    "children": []
   },
   {
