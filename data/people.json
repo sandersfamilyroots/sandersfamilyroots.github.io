@@ -1,9 +1,9 @@
 {
  "meta": {
   "generated_from": "Sanders-newly-revised.ged",
-  "people_count": 1068,
+  "people_count": 1075,
   "family_count": 368,
-  "living_count": 470,
+  "living_count": 472,
   "lines": [
    {
     "key": "jehu",
@@ -5464,7 +5464,7 @@
    "marriages": [
     {
      "spouse": "I29333578387",
-     "date": "18 Jun 1846",
+     "date": "21 Jun 1846",
      "place": "Washington, Alabama, United States"
     }
    ],
@@ -5474,7 +5474,8 @@
      "U.S. and International Marriage Records, 1560-1900"
     ],
     "Married": [
-     "U.S. and International Marriage Records, 1560-1900"
+     "U.S. and International Marriage Records, 1560-1900",
+     "Washington County, Alabama, Marriage Records — Jehu Everett Jr to Lulu Ann Davinport, 21 June 1846"
     ]
    }
   },
@@ -6204,6 +6205,46 @@
    "burial_place": null
   },
   {
+   "id": "I29338000435",
+   "name": "Daniel Everett",
+   "surname": "Everett",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29333580127",
+   "mother": "I29333580128",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000437",
+   "name": "David Everett",
+   "surname": "Everett",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29333580127",
+   "mother": "I29333580128",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "ABT 1831",
+   "birth_md": null,
+   "birth_place": "Alabama, USA",
+   "birth_year": 1831,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null,
+   "sources": {
+    "Born": [
+     "1850 U.S. Census, Choctaw County, Alabama - Joshua Everitt household"
+    ]
+   }
+  },
+  {
    "id": "I29333579785",
    "name": "Duane R. Everett",
    "surname": "Everett",
@@ -6328,8 +6369,15 @@
     "I29333580131",
     "I29333580129",
     "I29333580133",
+    "I29338000432",
     "I29333578387",
-    "I29333580134"
+    "I29333580134",
+    "I29338000433",
+    "I29338000434",
+    "I29338000435",
+    "I29338000436",
+    "I29338000437",
+    "I29338000438"
    ],
    "sex": "M",
    "birth_date": "15 Oct 1780",
@@ -6358,7 +6406,105 @@
      "Georgia, Marriage Records From Select Counties, 1828-1978"
     ],
     "Died": [
-     "Family Data Collection - Individual Records"
+     "Family Data Collection - Individual Records",
+     "Will of John Everett, Washington County, Alabama (7 Oct 1846; proven 8 Feb 1847)",
+     "Probate of John Everett estate, Washington County, Alabama, 1847-1849"
+    ]
+   }
+  },
+  {
+   "id": "I29338000432",
+   "name": "John B Everett",
+   "surname": "Everett",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29333580127",
+   "mother": "I29333580128",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "ABT 1816",
+   "birth_md": null,
+   "birth_place": "Georgia, USA",
+   "birth_year": 1816,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null,
+   "sources": {
+    "Born": [
+     "1850 U.S. Census, Choctaw County, Alabama - John B Everitt household"
+    ]
+   }
+  },
+  {
+   "id": "I29338000434",
+   "name": "Jonah Everett",
+   "surname": "Everett",
+   "living": true,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29333580127",
+   "mother": "I29333580128",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000433",
+   "name": "Joshua M Everett",
+   "surname": "Everett",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29333580127",
+   "mother": "I29333580128",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "ABT 1825",
+   "birth_md": null,
+   "birth_place": "Georgia, USA",
+   "birth_year": 1825,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null,
+   "sources": {
+    "Born": [
+     "1850 U.S. Census, Choctaw County, Alabama - Joshua Everitt household"
+    ]
+   }
+  },
+  {
+   "id": "I29338000436",
+   "name": "Josiah Everett",
+   "surname": "Everett",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29333580127",
+   "mother": "I29333580128",
+   "spouses": [],
+   "children": [],
+   "sex": "M",
+   "birth_date": "ABT 1828",
+   "birth_md": null,
+   "birth_place": "South Carolina, USA",
+   "birth_year": 1828,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null,
+   "sources": {
+    "Born": [
+     "1850 U.S. Census, Choctaw County, Alabama - Polly Everitt household"
     ]
    }
   },
@@ -6384,6 +6530,34 @@
    "death_year": 1881,
    "burial_date": null,
    "burial_place": null
+  },
+  {
+   "id": "I29338000438",
+   "name": "Rachel Ann Everett",
+   "surname": "Everett",
+   "living": false,
+   "line": "Connected family",
+   "lines": [],
+   "father": "I29333580127",
+   "mother": "I29333580128",
+   "spouses": [],
+   "children": [],
+   "sex": "F",
+   "birth_date": "ABT 1831",
+   "birth_md": null,
+   "birth_place": "Alabama, USA",
+   "birth_year": 1831,
+   "death_date": null,
+   "death_md": null,
+   "death_place": null,
+   "death_year": null,
+   "burial_date": null,
+   "burial_place": null,
+   "sources": {
+    "Born": [
+     "1850 U.S. Census, Choctaw County, Alabama - Polly Everitt household"
+    ]
+   }
   },
   {
    "id": "I29333580133",
@@ -6695,7 +6869,7 @@
    "marriages": [
     {
      "spouse": "I29333578388",
-     "date": "18 Jun 1846",
+     "date": "21 Jun 1846",
      "place": "Washington, Alabama, United States"
     },
     {
@@ -6709,7 +6883,8 @@
      "1880 United States Federal Census"
     ],
     "Married": [
-     "U.S. and International Marriage Records, 1560-1900"
+     "U.S. and International Marriage Records, 1560-1900",
+     "Washington County, Alabama, Marriage Records — Jehu Everett Jr to Lulu Ann Davinport, 21 June 1846"
     ]
    }
   },
@@ -6740,16 +6915,16 @@
    "birth_md": null,
    "birth_place": "Washington County, Alabama, USA",
    "birth_year": 1841,
-   "death_date": "1907",
+   "death_date": "BET SEP 1900 AND AUG 1907",
    "death_md": null,
-   "death_place": "Perry, Mississippi, USA",
-   "death_year": 1907,
+   "death_place": null,
+   "death_year": 1900,
    "burial_date": null,
-   "burial_place": "Richton (Perry County), Perry County, Mississippi",
+   "burial_place": "Burch Cemetery, Richton, Perry County, Mississippi, USA",
    "marriages": [
     {
      "spouse": "I18109010281",
-     "date": "1865",
+     "date": "1864",
      "place": null
     }
    ],
@@ -6761,9 +6936,6 @@
     ],
     "Married": [
      "1900 United States Federal Census"
-    ],
-    "Died": [
-     "U.S., Find A Grave Index, 1600s-Current"
     ],
     "Buried": [
      "U.S., Find A Grave Index, 1600s-Current"
@@ -10052,8 +10224,15 @@
     "I29333580131",
     "I29333580129",
     "I29333580133",
+    "I29338000432",
     "I29333578387",
-    "I29333580134"
+    "I29333580134",
+    "I29338000433",
+    "I29338000434",
+    "I29338000435",
+    "I29338000436",
+    "I29338000437",
+    "I29338000438"
    ],
    "sex": "F",
    "birth_date": "2 Mar 1789",
@@ -18932,22 +19111,6 @@
    "children": []
   },
   {
-   "id": "I29336867607",
-   "name": "Ceily Marie PATTERSON",
-   "surname": "PATTERSON",
-   "living": true,
-   "line": "George Lionel Sanders",
-   "lines": [
-    "George Lionel Sanders"
-   ],
-   "father": "I29335667183",
-   "mother": "I29335655043",
-   "spouses": [
-    "I29336867622"
-   ],
-   "children": []
-  },
-  {
    "id": "I29338000374",
    "name": "Charlene Patterson",
    "surname": "Patterson",
@@ -18976,7 +19139,6 @@
    ],
    "children": [
     "I29335667348",
-    "I29336867607",
     "I29336867562",
     "I29338000189",
     "I29336867084"
@@ -19180,7 +19342,7 @@
    "death_place": "Eastabuchie, Jones County, Mississippi, USA",
    "death_year": 1996,
    "burial_date": null,
-   "burial_place": null,
+   "burial_place": "Union Cemetery, Moselle, Jones County, Mississippi, United States",
    "marriages": [
     {
      "spouse": "I29338000256",
@@ -19195,6 +19357,9 @@
    "sources": {
     "Born": [
      "George Lionel Sanders line top-10 fold - individual searches of 17 November 2026 (web + FamilySearch)"
+    ],
+    "Buried": [
+     "Find a Grave Index (FamilySearch, collection 2221801) - Sealie Marie Pulliam, Union Cemetery, Moselle, Jones County, Mississippi (ark:/61903/1:1:Q2S9-XG78)"
     ]
    }
   },
@@ -19341,6 +19506,20 @@
      "Next top-10 fold - individual searches of 17 November 2026 (web + FamilySearch), merges approved 18 November 2026"
     ]
    }
+  },
+  {
+   "id": "I29338000430",
+   "name": "Zach Patterson",
+   "surname": "Patterson",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": null,
+   "mother": "I29334890218",
+   "spouses": [],
+   "children": []
   },
   {
    "id": "I29338000364",
@@ -20275,22 +20454,6 @@
      "NUMIDENT - Opial Pulliam (1933-2007)"
     ]
    }
-  },
-  {
-   "id": "I29336867622",
-   "name": "Pulliam",
-   "surname": "Pulliam",
-   "living": true,
-   "line": "George Lionel Sanders",
-   "lines": [
-    "George Lionel Sanders"
-   ],
-   "father": null,
-   "mother": null,
-   "spouses": [
-    "I29336867607"
-   ],
-   "children": []
   },
   {
    "id": "I29338000413",
@@ -23274,8 +23437,7 @@
     "I29335667183"
    ],
    "children": [
-    "I29335667348",
-    "I29336867607"
+    "I29335667348"
    ],
    "sex": "F",
    "birth_date": "11 August 1910",
@@ -24010,7 +24172,7 @@
    "marriages": [
     {
      "spouse": "I18109010239",
-     "date": "1865",
+     "date": "1864",
      "place": null
     }
    ],
@@ -25110,7 +25272,9 @@
     "I29338000284"
    ],
    "children": [
-    "I29334890674"
+    "I29334890674",
+    "I29338000430",
+    "I29338000431"
    ]
   },
   {
@@ -25880,6 +26044,20 @@
    ],
    "father": "I29337205635",
    "mother": "I29338000140",
+   "spouses": [],
+   "children": []
+  },
+  {
+   "id": "I29338000431",
+   "name": "Tristan Sanders",
+   "surname": "Sanders",
+   "living": true,
+   "line": "Jehu Barry Sanders",
+   "lines": [
+    "Jehu Barry Sanders"
+   ],
+   "father": null,
+   "mother": "I29334890218",
    "spouses": [],
    "children": []
   },
